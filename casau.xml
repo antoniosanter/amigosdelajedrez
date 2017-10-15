@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR lime][COLOR  lime]*[/COLOR]EL PLANETA DE LAS SIMIOS (SAGA)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.ytimg.com/vi/NRJ8krMAJn4/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/el-planeta-de-las-simios-sagael-rockero-40938</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/el-planeta-de-las-simios-sagael-rockero-40938</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/NRJ8krMAJn4/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/JXg6cvHl8xg/maxresdefault.jpg</fanart>
+</item>
+</items>
+</channel>
+
+
+
+<item>
 <title>El planeta de los simios 1968 </title>        
 <urlsolve>http://streamcloud.eu/5g5afviphc5n/El.Planeta.De.Los.Simios.1968.DVDRip__www.oranline.com_.avi.html</urlsolve>
 <thumbnail>http://www.fotos.org/galeria/data/576/1968-El-planeta-de-los-simios-Franklin-J-Schaffner-esp-2.JPG</thumbnail>
