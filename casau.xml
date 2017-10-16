@@ -40,7 +40,7 @@
 </channel>
 
 <item>
-<title>[COLOR red][COLOR red]*[/COLOR]LOS HOMBRES DE HARRELSON T1 (SERIE)</title>
+<title>[COLOR yellow][COLOR yellow]*[/COLOR]LOS HOMBRES DE HARRELSON T1 (SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
