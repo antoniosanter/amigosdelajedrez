@@ -96,3 +96,82 @@
 <thumbnail>http://www.pixelon.es/wp-content/uploads/2013/12/EL-AMANECER-DEL-PLANETA-DE-LOS-SIMIOS-pixelon.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Oie455BvRe0/maxresdefault.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]TIERRA Y UNIVERSO(SAGA)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn3.computerhoy.com/sites/computerhoy.com/files/styles/fullcontent/public/novedades/tierra_0.jpg?itok=fU0vZvbA</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/tierra-y-universo-documentales-82201</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/tierra-y-universo-documentales-82201</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.slidesharecdn.com/ss_thumbnails/ejetemtico-tierrayuniverso-100805212617-phpapp02-thumbnail-4.jpg?cb=1281043676</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2016/02/24/898271/big_thumb_014629a1a3f023230effa96a12e49cbe.jpg</fanart>
+</item>
+</items>
+</channel>
+
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]JUEGOS DEL TRONOS(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/media/image/2016/12/juego-tronos_0.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/juego-de-tronos-1-2-3-4-5-6-7-75133/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/juego-de-tronos-1-2-3-4-5-6-7-75133/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/game_of_thrones_tv_series-293142110-large.jpg</thumbnail>
+<fanart>http://www.mubis.es/media/screenshots/4168/76666/juego-de-tronos-tercera-temporada-original.jpg</fanart>
+</item>
+</items>
+</channel>
