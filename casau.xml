@@ -470,3 +470,42 @@
 </item>
 </items>
 </channel>
+
+<item>
+<title>[COLOR orange][COLOR orange]*[/COLOR]DOCUMENTALES VARIOS(DOCUMENTALES)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2015/05/12/17/49304331_25669125.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/sandbox/documentales-varios-24546</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/sandbox/documentales-varios-24546</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2015/05/12/17/49304331_25669125.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/f9/66/3e/f9663e09bc7f2dfd17388e5b0adacc04.jpg</fanart>
+</item>
+</items>
+</channel>
