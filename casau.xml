@@ -40,7 +40,7 @@
 </channel>
 
 <item>
-<title>[COLOR yellow][COLOR yellow]*[/COLOR]LOS HOMBRES DE HARRELSON T1 (SERIE)</title>
+<title>[COLOR red][COLOR red]*[/COLOR]LOS HOMBRES DE HARRELSON T1 (SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -158,7 +158,7 @@
 
 
 <item>
-<title>[COLOR yellow][COLOR  yellow]*[/COLOR]LAS MEJORES PELICULAS DE AJEDREZ(PELICULAS)</title>
+<title>[COLOR grey][COLOR grey]*[/COLOR]LAS MEJORES PELICULAS DE AJEDREZ(PELICULAS)</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
