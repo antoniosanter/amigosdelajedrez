@@ -274,3 +274,42 @@
 </item>
 </items>
 </channel>
+
+<item>
+<title>[COLOR orange][COLOR orange]*[/COLOR]APOCALYPSIS SEGUNDA GUERRA MUNDIAL(DOCUMENTALES)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://2.bp.blogspot.com/-ejAM1TqsvoM/TXvXNcXTjwI/AAAAAAAABaE/laYgOzDHGT4/s1600/segundaguerra.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/latina/apocalypsis-la-segunda-guerra-mundial-33537</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/latina/apocalypsis-la-segunda-guerra-mundial-33537</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://bibliotecaun.files.wordpress.com/2012/05/apocalipsis-la-segunda-guerra-mundial979.jpg?w=211&h=300</thumbnail>
+<fanart>https://statics.viralizalo.com/virs/2016/01/VIR_82646_7224_cuanto_sabes_de_la_segunda_guerra_mundial.jpg?cb=68983</fanart>
+</item>
+</items>
+</channel>
