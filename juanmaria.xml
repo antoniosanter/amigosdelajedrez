@@ -16,5 +16,5 @@
 
 <item>
 <title>Youtube</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=playlist?list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</link>
+<link>plugin://plugin.video.youtube/?action=playlist?list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</link>
 </item>
