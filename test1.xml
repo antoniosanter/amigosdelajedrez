@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR red][COLOR lime]*[/COLOR]PELICULAS INOLVIDABLES </title>        
+<title>[COLOR yellow][COLOR lime]*[/COLOR]PELICULAS INOLVIDABLES </title>        
 <urlsolve>url</urlsolve>
 </item>
 
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR red][COLOR lime]*[/COLOR]SERIES ACTUALES </title>        
+<title>[COLOR yellow][COLOR lime]*[/COLOR]SERIES ACTUALES </title>        
 <urlsolve>url</urlsolve>
 </item>
 
