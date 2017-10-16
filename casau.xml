@@ -90,7 +90,7 @@
         <thumbnail>http://www.canaltcm.com/myfiles/decine/Fisher.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/quimet53/pelis-consobre-el-ajedrez-68744</page>
+<page>http://diskokosmiko.mx/antoniosanter/peliculas-ajedrez-88902</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -108,7 +108,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/quimet53/pelis-consobre-el-ajedrez-68744</referer>
+<referer>http://diskokosmiko.mx/antoniosanter/peliculas-ajedrez-88902</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
