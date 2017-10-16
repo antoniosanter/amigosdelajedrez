@@ -237,6 +237,123 @@
 </channel>
 
 <item>
+<title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T2(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/black-sails-t2-44732</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/black-sails-t2-44732</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+<fanart>https://deck13.de/wp-content/uploads/2015/09/rework-1Kopie.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T3(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/black-sails-t3-44730</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/black-sails-t3-44730</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+<fanart>https://deck13.de/wp-content/uploads/2015/09/rework-1Kopie.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T4 DUAL(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/black-sails-dual-t4-52011</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/black-sails-dual-t4-52011</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+<fanart>https://deck13.de/wp-content/uploads/2015/09/rework-1Kopie.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
 <title>[COLOR yellow][COLOR  yellow]*[/COLOR]LAS MEJORES PELICULAS DE AJEDREZ(PELICULAS)</title>
 <link>$doregex[makelist]</link>
 <regex>
