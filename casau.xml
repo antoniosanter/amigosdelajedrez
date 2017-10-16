@@ -194,3 +194,43 @@
 </item>
 </items>
 </channel>
+
+<item>
+<title>[COLOR yellow][COLOR  yellow]*[/COLOR]LAS MEJORES PELICULAS DE AJEDREZ(PELICULAS)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.canaltcm.com/myfiles/decine/Fisher.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/quimet53/pelis-consobre-el-ajedrez-68744</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/quimet53/pelis-consobre-el-ajedrez-68744</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-dama-del-ajedrez/23426557-2-esl-ES/La-dama-del-ajedrez.jpg</thumbnail>
+<fanart>https://www.realovirtual.com/files/images/7001-8000/7070/5931dfed02066.jpeg</fanart>
+</item>
+</items>
+</channel>
+
