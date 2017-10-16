@@ -117,6 +117,46 @@
 </items>
 </channel>
 
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T1(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81K1D6ODF9L._RI_.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/the-expanse-t1-43113</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/the-expanse-t1-43113</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.movieseriestv.com/wp-content/uploads/2015/11/THEX1a.png</thumbnail>
+<fanart>http://s.libertaddigital.com/videos/seriemente-the-expanse-basada-en-las-novelas-de-james-sa-corey-6058676-3.jpg</fanart>
+</item>
+</items>
+</channel>
+
 <item>
 <title>[COLOR yellow][COLOR  yellow]*[/COLOR]LAS MEJORES PELICULAS DE AJEDREZ(PELICULAS)</title>
 <link>$doregex[makelist]</link>
