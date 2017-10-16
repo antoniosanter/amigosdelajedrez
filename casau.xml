@@ -438,7 +438,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[makelist.param3]</title>
+        <title>David Casau==[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
         <thumbnail>https://www.murhotels.com/images/blog/peliculas.jpg</thumbnail>
 ]]></listrepeat>
