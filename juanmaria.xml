@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR RED][COLOR  LIME]*[/COLOR]APERTURAS </title>
+</item>
+
+<item>
 <title>Aperturas de Ajedrez: La Española paso a paso</title>        
 <urlsolve>https://youtu.be/I4MTu9WWow0</urlsolve>
 <thumbnail>https://4.bp.blogspot.com/-4lPOnv3nNOc/VracbYYP0nI/AAAAAAAADmE/TxTlKG_jJW0/s1600/El%2BPlaneta%2Bde%2BLos%2BSimios%2B1968%2B1080p%2BLatino%2BIngles%2BMEGA.png</thumbnail>
@@ -8,43 +12,8 @@
 </item>
 
 <item>
-<title>[COLOR grey][COLOR  grey]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>David Casau==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://i.pinimg.com/236x/d4/54/3e/d4543ed27572e9c318b522340915f486--antigua.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>https://www.youtube.com/playlist?list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://www.youtube.com/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://www.youtube.com/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://www.youtube.com/[makelist.param2]</page>
-<referer>https://www.youtube.com/playlist?list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/55/Braveheart_imp.jpg</thumbnail>
-<fanart>http://www.magazinema.es/wp-content/uploads/2015/12/braveheart-film-1995-900x506.jpg</fanart>
+<title>[COLOR RED][COLOR  LIME]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
 </item>
-</items>
-</channel>
 
 <item>
 <title>1 El tapón de Karpov</title>        
@@ -56,6 +25,13 @@
 <item>
 <title>2 El perro que no guarda la casa</title>        
 <urlsolve>https://www.youtube.com/watch?v=7BDSW8CPTVI&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg&index=21</urlsolve>
+<thumbnail>https://i.ytimg.com/vi/7BDSW8CPTVI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAIfBCMoqRhuSvWAiFRtguCCIXSMw</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+</item>
+
+<item>
+<title>3: El caballo a la sombra del peón | Mejora tu ajedrez</title>        
+<urlsolve>https://www.youtube.com/watch?v=s4SM-Raxp5I&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg&index=20</urlsolve>
 <thumbnail>https://i.ytimg.com/vi/7BDSW8CPTVI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAIfBCMoqRhuSvWAiFRtguCCIXSMw</thumbnail>
 <fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
 </item>
