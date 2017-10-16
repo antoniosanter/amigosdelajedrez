@@ -237,6 +237,46 @@
 </items>
 </channel>
 
+
+<item>
+<title>[COLOR grey][COLOR  grey]*[/COLOR] PELICULAS DEL OESTE WESTERN 2(PELICULAS)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://i.ytimg.com/vi/n3Kzjc63Rfg/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-western-castellano-el-rockero-30878/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-western-castellano-el-rockero-30878/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://ocio.diariodemallorca.es/img_contenido/noticias/2012/02/52016/2012_02_01_IMG_2012_02_01_235248_j52sc001.jpg</thumbnail>
+<fanart>http://musica.elbierzodigital.com/wp-content/uploads/western.jpg</fanart>
+</item>
+</items>
+</channel>
+
 <item>
 <title>[COLOR orange][COLOR orange]*[/COLOR]APOCALYPSIS SEGUNDA GUERRA MUNDIAL(DOCUMENTALES)</title>
 <link>$doregex[makelist]</link>
