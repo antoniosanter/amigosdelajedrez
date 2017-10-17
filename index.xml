@@ -3,7 +3,7 @@
 <item>
 <title>[COLOR red][COLOR red]-[/COLOR]Lo mejor de Ryu</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://lavozdemarchena.es/images/stories/ajedrez%20torneo%202.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/test1.xml</externallink>
 </item>
@@ -11,7 +11,7 @@
 <item>
 <title>[COLOR lime][COLOR lime]-[/COLOR]El Rincón de David Casau</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://lavozdemarchena.es/images/stories/ajedrez%20torneo%202.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/casau.xml</externallink>
 </item>
@@ -19,7 +19,7 @@
 <item>
 <title>[COLOR yellow][COLOR yellow]-[/COLOR]El rincón del Maestro Juan Maria</title>
 <thumbnail></thumbnail>
-<fanart>http://www.lavozdemarchena.es/images/stories/ajedrez%20inter%2015.jpg</fanart>
+<fanart>http://lavozdemarchena.es/images/stories/ajedrez%20torneo%202.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/juanmaria.xml</externallink>
 </item>
