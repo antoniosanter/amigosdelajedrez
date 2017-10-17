@@ -2,43 +2,40 @@
 
 
 <item>
-<title>[COLOR red][COLOR lime]*[/COLOR]APERTURAS</title>        
-<urlsolve>url</urlsolve>
-<thumbnail>https://capakhine.es/images/consejos_aperturas_ajedrez_ninos.jpg</thumbnail>
-<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+<title>[COLOR red][COLOR  red]*[/COLOR]MACGYVER(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.mundodescargas.com/cine/listados/imagenes/covers/2_4683.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/Cuspide/macgyver-32331/list,1,6</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/Cuspide/macgyver-32331/list,1,6</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.movieseriestv.com/wp-content/uploads/2015/11/THEX1a.png</thumbnail>
+<fanart>http://www.mundodescargas.com/cine/listados/imagenes/covers/2_4683.jpg</fanart>
 </item>
-
-<item>
-<title>Aperturas de Ajedrez: La Española paso a paso</title>        
-<urlsolve>https://youtu.be/I4MTu9WWow0</urlsolve>
-<thumbnail>https://capakhine.es/images/consejos_aperturas_ajedrez_ninos.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/UhZb_Z8eTLE/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
-<urlsolve>url</urlsolve>
-<thumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
-<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
-</item>
-
-<item>
-<title>1 El tapón de Karpov</title>        
-<urlsolve>https://www.youtube.com/watch?v=iSMFfuzJ6uI&index=22&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</urlsolve>
-<thumbnail>https://i.ytimg.com/vi/iSMFfuzJ6uI/maxresdefault.jpg</thumbnail>
-<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
-</item>
-
-<item>
-<title>2 El perro que no guarda la casa</title>        
-<urlsolve>https://www.youtube.com/watch?v=7BDSW8CPTVI&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg&index=21</urlsolve>
-<thumbnail>https://i.ytimg.com/vi/7BDSW8CPTVI/maxresdefault.jpg</thumbnail>
-<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
-</item>
-
-<item>
-<title>3: El caballo a la sombra del peón | Mejora tu ajedrez</title>        
-<urlsolve>https://www.youtube.com/watch?v=s4SM-Raxp5I&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg&index=20</urlsolve>
-<thumbnail>https://img.youtube.com/vi/s4SM-Raxp5I/mqdefault.jpg</thumbnail>
-<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
-</item>
+</items>
+</channel>
