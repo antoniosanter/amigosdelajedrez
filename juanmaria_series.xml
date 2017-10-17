@@ -9,7 +9,7 @@
   <listrepeat><![CDATA[
         <title>Ryu==[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.mundodescargas.com/cine/listados/imagenes/covers/2_4683.jpg</thumbnail>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTI2YTlhMWMtNWY1Mi00NGQ3LWFkMjEtZjI3NmUzYjI1NWFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/Cuspide/macgyver-32331/list,1,6</page>
