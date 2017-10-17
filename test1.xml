@@ -92,6 +92,45 @@
 </channel>
 
 <item>
+<title>[COLOR red][COLOR  red]*[/COLOR]LUNA EL MISTERIO DE CALENDA(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://pics.filmaffinity.com/Luna_el_misterio_de_Calenda_Serie_de_TV-739759342-large.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/luna-el-misterio-de-calenda-53873</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/luna-el-misterio-de-calenda-53873</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/Luna_el_misterio_de_Calenda_Serie_de_TV-739759342-large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/eJGrJKvphUQ/maxresdefault.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
 <title>[COLOR red][COLOR  red]*[/COLOR]JUEGOS DEL TRONOS(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
