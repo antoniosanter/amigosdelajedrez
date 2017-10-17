@@ -9,7 +9,7 @@
   <listrepeat><![CDATA[
         <title>Ryu==[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZTI2YTlhMWMtNWY1Mi00NGQ3LWFkMjEtZjI3NmUzYjI1NWFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
+        <thumbnail>http://www.formulatv.com/images/series/posters/1200/1272/1_m3.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/Cuspide/macgyver-32331/list,1,6</page>
@@ -35,7 +35,7 @@
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://www.movieseriestv.com/wp-content/uploads/2015/11/THEX1a.png</thumbnail>
-<fanart>http://www.mundodescargas.com/cine/listados/imagenes/covers/2_4683.jpg</fanart>
+<fanart>http://www.formulatv.com/images/series/posters/1200/1272/1_m3.jpg</fanart>
 </item>
 </items>
 </channel>
