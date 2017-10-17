@@ -40,6 +40,45 @@
 </channel>
 
 <item>
+<title>[COLOR red][COLOR red]*[/COLOR]TARZAN johnny weissmüller (SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/617xajiqIxL._SY300_.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/tarzan-johnny-weissmullerel-rockero-39424</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/tarzan-johnny-weissmullerel-rockero-39424</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/617xajiqIxL._SY300_.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/w1920//i2TPTgROdJVfxvjIdcTevrHKJFJ.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
 <title>[COLOR red][COLOR red]*[/COLOR]LOS HOMBRES DE HARRELSON T1 (SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
