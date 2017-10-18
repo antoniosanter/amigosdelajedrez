@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR yellow][COLOR lime]*[/COLOR]CANALES TV </title>        
+<urlsolve>url</urlsolve>
+</item>
+
+<item><title>[COLOR lightblue]TVE [/COLOR] [COLOR lightslategray][I]sportsdevil[/I][/COLOR] </title><sportsdevil>http://cinestrenostv.tv/canales/nacionales/tve1.php</sportsdevil>
+<thumbnail>http://www.cgcom.es/sites/default/images/tve1_g.jpg</thumbnail>
+<info>Televisión Española  </info>
+<referer>http://cinestrenostv.tv</referer></item>
+
