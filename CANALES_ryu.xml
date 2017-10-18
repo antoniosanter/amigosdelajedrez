@@ -2,7 +2,7 @@
 
 <item>
 <title>[COLOR yellow][COLOR lime]*[/COLOR]CANALES TV </title>        
-<urlsolve>url</urlsolve>
+<urlsolve>http://exabytetv.info/listax.m3u</urlsolve>
 </item>
 
 
@@ -14,12 +14,5 @@
 <externallink>http://exabytetv.info/listax.m3u</externallink>
 </item>
 
-
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR orangered][B] LISTA ...[/B][/COLOR] </title>
-<link>http://exabytetv.info/listax.m3u</link>
-<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
-</item>
 
 
