@@ -20,17 +20,16 @@
 <!-- liveonlinetv-->
 
 <item>
-<title>Canal History</title>
+<title>liveonlinetv</title>
 <link>$doregex[get_sxstream]|User-Agent=iPhone</link>
 <regex>
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/history.php</page>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
-
 
 
 <item>
@@ -39,8 +38,8 @@
 <regex>
 <name>get_sxstream</name>
 <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://cinestrenostv.tv/canales/nacionales/plus1.php</page>
-<referer>http://cinestrenostv.tv</referer>
+<page>http://www.liveonlinetv247.info/embed/history.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
 <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 </item>
