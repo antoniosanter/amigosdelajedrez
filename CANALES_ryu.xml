@@ -5,7 +5,6 @@
 <urlsolve>http://exabytetv.info/listax.m3u</urlsolve>
 </item>
 
-
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista EXABYTE[/COLOR] </title>
 <link>http://ignorame</link>
@@ -14,5 +13,10 @@
 <externallink>http://exabytetv.info/listax.m3u</externallink>
 </item>
 
-
-
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista CECE[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://alastiptv.com/lista1.m3u</externallink>
+</item>
