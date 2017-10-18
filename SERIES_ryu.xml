@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR yellow][COLOR lime]*[/COLOR]SERIES ACTUALES </title>        
+<urlsolve>url</urlsolve>
+</item>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]WESTWORLD(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/westworld-45171</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/westworld-45171</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+<fanart>http://i.lv3.hbo.com/assets/images/series/westworld/character/man-in-black-1920.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]STRANGER THINGS T1(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/gemma-valencia/stranger-things-t1-castellano-46453</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/gemma-valencia/stranger-things-t1-castellano-46453</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://thenerdstash.com/wp-content/uploads/2016/08/Stranger-Things-Drawing.jpg</thumbnail>
+<fanart>http://i.lv3.hbo.com/assets/images/series/westworld/character/man-in-black-1920.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]LUNA EL MISTERIO DE CALENDA(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://pics.filmaffinity.com/Luna_el_misterio_de_Calenda_Serie_de_TV-739759342-large.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chinchetas/luna-el-misterio-de-calenda-53873</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chinchetas/luna-el-misterio-de-calenda-53873</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://pics.filmaffinity.com/Luna_el_misterio_de_Calenda_Serie_de_TV-739759342-large.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/eJGrJKvphUQ/maxresdefault.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]JUEGOS DEL TRONOS(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/media/image/2016/12/juego-tronos_0.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/juego-de-tronos-1-2-3-4-5-6-7-75133/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/juego-de-tronos-1-2-3-4-5-6-7-75133/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pics.filmaffinity.com/game_of_thrones_tv_series-293142110-large.jpg</thumbnail>
+<fanart>http://www.mubis.es/media/screenshots/4168/76666/juego-de-tronos-tercera-temporada-original.jpg</fanart>
+</item>
+</items>
+</channel>
+
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T1(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81K1D6ODF9L._RI_.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/the-expanse-t1-43113</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/the-expanse-t1-43113</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.movieseriestv.com/wp-content/uploads/2015/11/THEX1a.png</thumbnail>
+<fanart>http://s.libertaddigital.com/videos/seriemente-the-expanse-basada-en-las-novelas-de-james-sa-corey-6058676-3.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T2(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81K1D6ODF9L._RI_.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/juadacu/the-expanse-t2-82757</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/juadacu/the-expanse-t2-82757</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://tonykanapes.files.wordpress.com/2017/05/season2.jpg?w=273&h=385</thumbnail>
+<fanart>http://s.libertaddigital.com/videos/seriemente-the-expanse-basada-en-las-novelas-de-james-sa-corey-6058676-3.jpg</fanart>
+</item>
+</items>
+</channel>
+
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T1(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/black-sails-t1-44733</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/black-sails-t1-44733</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+<fanart>https://deck13.de/wp-content/uploads/2015/09/rework-1Kopie.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T2(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/black-sails-t2-44732</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/black-sails-t2-44732</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+<fanart>https://deck13.de/wp-content/uploads/2015/09/rework-1Kopie.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T3(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/black-sails-t3-44730</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/black-sails-t3-44730</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+<fanart>https://deck13.de/wp-content/uploads/2015/09/rework-1Kopie.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T4 DUAL(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/black-sails-dual-t4-52011</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/black-sails-dual-t4-52011</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn3.thr.com/sites/default/files/imagecache/NFE_portrait/2013/05/black_sails_key_art_a_p.jpg</thumbnail>
+<fanart>https://deck13.de/wp-content/uploads/2015/09/rework-1Kopie.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR yellow][COLOR yellow]-[/COLOR]PRUEBA</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/3ZHxt8Cq</externallink>
+</item>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR yellow][COLOR lime]*[/COLOR]CANALES TV </title>        
+<urlsolve>url</urlsolve>
+</item>
+
+
+
+<!--Listas m3u/rtmp link-->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista M3U/RTMP[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+<fanart>http://7-themes.com/data_images/out/31/6874905-auto-wallpapers.jpg</fanart>
+<externallink>http://exabytetv.info/listax.m3u</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR orangered][B] m3u8 ...[/B][/COLOR] </title>
+<link>http://exabytetv.info/listax.m3u</link>
+<thumbnail>http://es.testsworld.net/files/2013/02/test-de-deporte.jpg</thumbnail>
+</item>
+
+
+<!-- liveonlinetv-->
+
+<item>
+<title>liveonlinetv</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/canal+futbol.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+
+
+<item>
+<title>tve</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/history.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
+
