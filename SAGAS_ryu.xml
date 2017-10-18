@@ -6,7 +6,7 @@
 </item>
 
 <item>
-<title>[COLOR red][COLOR  red]*[/COLOR]PIRATAS DEL CARIBE(SERIE)</title>
+<title>[COLOR red][COLOR  red]*[/COLOR]PIRATAS DEL CARIBE </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
