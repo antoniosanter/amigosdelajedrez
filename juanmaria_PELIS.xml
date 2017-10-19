@@ -9,10 +9,10 @@
   <listrepeat><![CDATA[
         <title>Ryu==[makelist.param3]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTMzNTczN15BMl5BanBnXkFtZTgwNjI4NDQwMDI@._V1_UY1200_CR85,0,630,1200_AL_.jpg</thumbnail>
+        <thumbnail>http://3.bp.blogspot.com/-o_9mJReo5ts/UAQOUiFV8EI/AAAAAAAACGs/Dps2EupHLCA/s1600/mayka_dengra+Jeliza+Rose+monocromo.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/muhazimim/rmvb-cine-web-16062/tideland-2005-terry-gilliam,45040.rmvb</page>
+<page>http://diskokosmiko.mx/muhazimim/rmvb-cine-web-16062/list,1,39</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -30,12 +30,12 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/muhazimim/rmvb-cine-web-16062/tideland-2005-terry-gilliam,45040.rmvb</referer>
+<referer>http://diskokosmiko.mx/muhazimim/rmvb-cine-web-16062/list,1,39</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTMzNTczN15BMl5BanBnXkFtZTgwNjI4NDQwMDI@._V1_UY1200_CR85,0,630,1200_AL_.jpg</thumbnail>
-<fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2016/08/maxresdefault.jpg</fanart>
+<thumbnail>http://3.bp.blogspot.com/-o_9mJReo5ts/UAQOUiFV8EI/AAAAAAAACGs/Dps2EupHLCA/s1600/mayka_dengra+Jeliza+Rose+monocromo.jpg</thumbnail>
+<fanart>http://alexkittle.com/wp-content/uploads/2011/02/15b9ae3af32b0ddf2be2fbef22e08f8f.jpg</fanart>
 </item>
 </items>
 </channel>
