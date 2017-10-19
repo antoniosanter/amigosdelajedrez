@@ -29,10 +29,26 @@
 <externallink>http://www.achotv.com/listas/canales.m3u</externallink>
 </item>
 
-item>
+<item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista MOVISTAR+[/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Movistar%20TV.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista 1[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://thepk.co:2086/get.php?username=nyc123&password=nyc123&type=m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista 2[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://portal.geniptv.com:8080/get.php?username=buxv8GTKoi&password=HlGULnOCe8&type=m3u</externallink>
 </item>
