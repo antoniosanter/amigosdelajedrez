@@ -2,7 +2,30 @@
 
 <item>
 <title>[COLOR yellow][COLOR lime]*[/COLOR]CANALES TV </title>        
-<urlsolve>http://exabytetv.info/listax.m3u</urlsolve>
+<urlsolve></urlsolve>
+</item>
+
+<item>
+ 
+<title> [COLOR yellow][B][I]Test[/I][/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ 
+<item><title>Channel[COLOR lightblue] [makelist.param1][/COLOR]</title>
+<link>$doregex[hash]|Referer=http://freelive365.com/tet.php/[makelist.param1]&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+            <regex>
+            <name>hash</name>
+            <expres>source: '(.*?)'</expres>
+            <page>http://freelive365.com/tet.php/player?channel=[makelist.param1]&amp;player=clappr</page>
+            <referer>http://freelive365.com/tet.php</referer>
+            </regex>
+</item>
+]]></listrepeat>
+<expres>tv-block[\w\W\s]{0,18}href="/(.*?)"[\w\W\s]{0,13}u-max-full-width"</expres>
+<page>http://freelive365.com/tet.php/</page>
+</regex>
 </item>
 
 <item>
