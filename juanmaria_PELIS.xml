@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]TIDELAND(PELICULAS) </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTMzNTczN15BMl5BanBnXkFtZTgwNjI4NDQwMDI@._V1_UY1200_CR85,0,630,1200_AL_.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/muhazimim/rmvb-cine-web-16062/tideland-2005-terry-gilliam,45040.rmvb</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/muhazimim/rmvb-cine-web-16062/tideland-2005-terry-gilliam,45040.rmvb</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2NTMzNTczN15BMl5BanBnXkFtZTgwNjI4NDQwMDI@._V1_UY1200_CR85,0,630,1200_AL_.jpg</thumbnail>
+<fanart>http://www.bolsamania.com/seriesadictos/wp-content/uploads/2016/08/maxresdefault.jpg</fanart>
+</item>
+</items>
+</channel>
