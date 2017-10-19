@@ -274,6 +274,44 @@
 </items>
 </channel>
 
+<item>
+<title>[COLOR grey][COLOR  grey]*[/COLOR]PELICULAS ALFRED HITCHCOCK (PELICULAS)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>David Casau==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2013/06/03/37535649.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/alfred-hitchcock-84347</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/alfred-hitchcock-84347</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2013/06/03/37535649.jpg</thumbnail>
+<fanart>http://eskipaper.com/images/alfred-hitchcock-6.jpg</fanart>
+</item>
+</items>
+</channel>
 
 <item>
 <title>[COLOR grey][COLOR  grey]*[/COLOR]PELICULAS ANTIGUAS(PELICULAS)</title>
