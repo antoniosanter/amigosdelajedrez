@@ -1,0 +1,1387 @@
+
+#EXTINF:-1,CARACOL
+http://us-b1-p-e-hu2.cdn.mdstrm.com/live-stream/58dc3d471cbe05ff3c8e463e/publish/media_800.m3u8?es=us-b1-p-e-hu2.cdn.mdstrm.com&ote=1505955660906&ot=D2sRw9-RcAWHReKke1wqmQ&proto=http
+ 
+#EXTINF:-1,LATINA TV
+https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream3.m3u8
+ 
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?tecnotv.info?.m3u
+ 
+#EXTINF:-1, PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1,TYC SPORTS
+https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+ 
+#EXTINF:-1, REAL MADRID TV/ESPAÑA
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+ 
+ 
+ 
+#EXTINF:-1,|SP| Moviestar Extra
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1122.ts
+ 
+#EXTINF:-1,|SP| Moviestar Futbol
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1121.ts
+ 
+#EXTINF:-1,|SP| Moviestar Golf
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1120.ts
+ 
+#EXTINF:-1,|SP| Moviestar Series
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1119.ts
+ 
+#EXTINF:-1,|SP| Moviestar Series Extra
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1118.ts
+ 
+#EXTINF:-1,|SP| MTV Espana
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1071.ts
+ 
+#EXTINF:-1,|SP| Nat Geo
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1105.ts
+ 
+#EXTINF:-1,|SP| Nat Geo Wild
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1104.ts
+ 
+#EXTINF:-1,|SP| A&E
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1141.ts
+ 
+#EXTINF:-1,|SP| AMC
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1140.ts
+ 
+#EXTINF:-1,|SP| Antena 3
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1139.ts
+ 
+#EXTINF:-1,|SP| AXN
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1138.ts
+ 
+#EXTINF:-1,|SP| AXN White
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1137.ts
+ 
+#EXTINF:-1,|SP| Baby TV
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1083.ts
+ 
+#EXTINF:-1,|SP| Barca TV
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1136.ts
+#EXTINF:-1,|SP| Comedi Central
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1115.ts
+ 
+#EXTINF:-1,|SP| Disney Channel
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1112.ts
+ 
+#EXTINF:-1,|SP| Disney JR
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1080.ts
+ 
+#EXTINF:-1,|SP| DISNEY XD
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1113.ts
+ 
+#EXTINF:-1,|SP| FOX Life
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1108.ts
+ 
+#EXTINF:-1,|SP| NICK JR
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1102.ts
+ 
+#EXTINF:-1,|SP| Nickelodeon
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1101.ts
+ 
+#EXTINF:-1,|SP| Paramount
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1099.ts
+ 
+#EXTINF:-1,|SP| Real Madrid
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1098.ts
+ 
+#EXTINF:-1,|SP| SYFY
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1097.ts
+ 
+#EXTINF:-1,|SP| TNT
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1088.ts
+ 
+#EXTINF:-1,|SP| TV3 CAT
+http://major2.ipfox.co:8080/live/winsor_BRKdS5/G4lOS1yD/1087.ts
+ 
+#EXTINF:-1,(ES) Antena 3 HD
+http://ip.sltv.be:8000/live/turht070/2w3w23/14478.ts
+ 
+#EXTINF:-1,(ES) FDF
+http://ip.sltv.be:8000/live/turht070/2w3w23/14425.ts
+ 
+#EXTINF:-1,(ES) Fox
+http://ip.sltv.be:8000/live/turht070/2w3w23/14427.ts
+ 
+ 
+#EXTINF:-1,SPORT: NBC Sports Network HD
+http://plextreamiptv.net:8080/live/9/9/19169.m3u8
+#EXTINF:-1,SPORT: Fox Sports 1 HD
+http://plextreamiptv.net:8080/live/9/9/7737.m3u8
+#EXTINF:-1,SPORT: Fox Sports 2 HD
+http://plextreamiptv.net:8080/live/9/9/7738.m3u8
+#EXTINF:-1,SPORT: TSN 1 HD
+http://plextreamiptv.net:8080/live/9/9/5641.m3u8
+#EXTINF:-1,SPORT: TSN 2 HD
+http://plextreamiptv.net:8080/live/9/9/5642.m3u8
+#EXTINF:-1,SPORT: TSN 3 HD
+http://plextreamiptv.net:8080/live/9/9/5643.m3u8
+#EXTINF:-1,SPORT: TSN 4 HD
+http://plextreamiptv.net:8080/live/9/9/5644.m3u8
+#EXTINF:-1,SPORT: TSN 5 HD
+http://plextreamiptv.net:8080/live/9/9/5645.m3u8
+#EXTINF:-1,SPORT: Sportsnet Ontario HD
+http://plextreamiptv.net:8080/live/9/9/11963.m3u8
+#EXTINF:-1,SPORT: Sportnet World HD
+http://plextreamiptv.net:8080/live/9/9/11964.m3u8
+#EXTINF:-1,SPORT: Sportnet West HD
+http://plextreamiptv.net:8080/live/9/9/11966.m3u8
+#EXTINF:-1,SPORT: Sportnet Pacific HD
+http://plextreamiptv.net:8080/live/9/9/11968.m3u8
+#EXTINF:-1,SPORT: Sportnet Ontario HD
+http://plextreamiptv.net:8080/live/9/9/11970.m3u8
+#EXTINF:-1,SPORT: Sportnet East HD
+http://plextreamiptv.net:8080/live/9/9/11967.m3u8
+#EXTINF:-1,SPORT: Sportnet 360 HD
+http://plextreamiptv.net:8080/live/9/9/11965.m3u8
+#EXTINF:-1,SPORT: Sportnet One HD
+http://plextreamiptv.net:8080/live/9/9/11969.m3u8
+#EXTINF:-1,SPORT: Bein Sports US HD
+http://plextreamiptv.net:8080/live/9/9/19199.m3u8
+#EXTINF:-1,SPORT: ESPN News HD
+http://plextreamiptv.net:8080/live/9/9/19174.m3u8
+#EXTINF:-1,SPORT: ESPN Deportes HD
+http://plextreamiptv.net:8080/live/9/9/19171.m3u8
+#EXTINF:-1,SPORT: ESPN 2 HD
+http://plextreamiptv.net:8080/live/9/9/19172.m3u8
+#EXTINF:-1,SPORT: ESPN USA HD
+http://plextreamiptv.net:8080/live/9/9/19173.m3u8
+#EXTINF:-1,SPORT: CBS Sports Network HD
+http://plextreamiptv.net:8080/live/9/9/19213.m3u8
+#EXTINF:-1,SPORT: Fight Network HD
+http://plextreamiptv.net:8080/live/9/9/19170.m3u8
+#EXTINF:-1,US: Discovery Velocity HD
+http://plextreamiptv.net:8080/live/9/9/19202.m3u8
+#EXTINF:-1,SPORT: Tennis Channel HD
+http://plextreamiptv.net:8080/live/9/9/19211.m3u8
+#EXTINF:-1,SPORT: Big Ten Network HD
+http://plextreamiptv.net:8080/live/9/9/8400.m3u8
+#EXTINF:-1,SPORT: Willow Cricket HD
+http://plextreamiptv.net:8080/live/9/9/8391.m3u8
+#EXTINF:-1,SPORT: GOLF HD
+http://plextreamiptv.net:8080/live/9/9/15368.m3u8
+#EXTINF:-1,SPORT: WWE Network HD
+http://plextreamiptv.net:8080/live/9/9/12247.m3u8
+#EXTINF:-1,US: Super Ecran 1 HD
+http://plextreamiptv.net:8080/live/9/9/15349.m3u8
+#EXTINF:-1,US: Super Ecran 2 HD
+http://plextreamiptv.net:8080/live/9/9/15348.m3u8
+#EXTINF:-1,US: Super Ecran 3 HD
+http://plextreamiptv.net:8080/live/9/9/15347.m3u8
+#EXTINF:-1,US: Super Ecran 4 HD
+http://plextreamiptv.net:8080/live/9/9/15346.m3u8
+#EXTINF:-1,US: Nick HD
+http://plextreamiptv.net:8080/live/9/9/15344.m3u8
+#EXTINF:-1,US: ABC Spark HD
+http://plextreamiptv.net:8080/live/9/9/15369.m3u8
+#EXTINF:-1,US: AMC HD
+http://plextreamiptv.net:8080/live/9/9/19200.m3u8
+#EXTINF:-1,US: Animal Planet HD
+http://plextreamiptv.net:8080/live/9/9/19218.m3u8
+#EXTINF:-1,US: BNN HD
+http://plextreamiptv.net:8080/live/9/9/19217.m3u8
+#EXTINF:-1,US: Bavo HD
+http://plextreamiptv.net:8080/live/9/9/19216.m3u8
+#EXTINF:-1,US: C-Span 1 HD
+http://plextreamiptv.net:8080/live/9/9/5676.m3u8
+#EXTINF:-1,US: C-Span 2 HD
+http://plextreamiptv.net:8080/live/9/9/5675.m3u8
+#EXTINF:-1,US: C-Span 3 HD
+http://plextreamiptv.net:8080/live/9/9/5674.m3u8
+#EXTINF:-1,US: CBC 2 US
+http://plextreamiptv.net:8080/live/9/9/19214.m3u8
+#EXTINF:-1,US: Boomerang HD
+http://plextreamiptv.net:8080/live/9/9/15301.m3u8
+#EXTINF:-1,US: CNBC HD
+http://plextreamiptv.net:8080/live/9/9/19210.m3u8
+#EXTINF:-1,US: CHCH HD
+http://plextreamiptv.net:8080/live/9/9/15366.m3u8
+#EXTINF:-1,US: CBS HD 1080p
+http://plextreamiptv.net:8080/live/9/9/7713.m3u8
+#EXTINF:-1,US: CNN HD
+http://plextreamiptv.net:8080/live/9/9/19209.m3u8
+#EXTINF:-1,US: CBC HD
+http://plextreamiptv.net:8080/live/9/9/19215.m3u8
+#EXTINF:-1,US: ABC News West HD
+http://plextreamiptv.net:8080/live/9/9/5617.m3u8
+#EXTINF:-1,US: Disney HD
+http://plextreamiptv.net:8080/live/9/9/15334.m3u8
+#EXTINF:-1,US: CP24 HD2
+http://plextreamiptv.net:8080/live/9/9/15329.m3u8
+#EXTINF:-1,US: CP24 HD
+http://plextreamiptv.net:8080/live/9/9/15362.m3u8
+#EXTINF:-1,US: CTV Toronto HD
+http://plextreamiptv.net:8080/live/9/9/15361.m3u8
+#EXTINF:-1,US: City Vancouver HD
+http://plextreamiptv.net:8080/live/9/9/15365.m3u8
+#EXTINF:-1,US: Cinemax HD
+http://plextreamiptv.net:8080/live/9/9/19212.m3u8
+#EXTINF:-1,US: Cartoon Network HD
+http://plextreamiptv.net:8080/live/9/9/19198.m3u8
+#EXTINF:-1,US: Comedy Central HD
+http://plextreamiptv.net:8080/live/9/9/19207.m3u8
+#EXTINF:-1,US: CW HD
+http://plextreamiptv.net:8080/live/9/9/15335.m3u8
+#EXTINF:-1,US: CTV Vancouver HD
+http://plextreamiptv.net:8080/live/9/9/15333.m3u8
+#EXTINF:-1,US: Destination America HD
+http://plextreamiptv.net:8080/live/9/9/19197.m3u8
+#EXTINF:-1,US: Discovery HD
+http://plextreamiptv.net:8080/live/9/9/19196.m3u8
+#EXTINF:-1,US: DIY Network HD
+http://plextreamiptv.net:8080/live/9/9/19204.m3u8
+#EXTINF:-1,US: Freeform HD
+http://plextreamiptv.net:8080/live/9/9/19195.m3u8
+#EXTINF:-1,US: FOX HD
+http://plextreamiptv.net:8080/live/9/9/19203.m3u8
+#EXTINF:-1,US: FX HD
+http://plextreamiptv.net:8080/live/9/9/19193.m3u8
+#EXTINF:-1,US: FXX HD
+http://plextreamiptv.net:8080/live/9/9/19192.m3u8
+#EXTINF:-1,US: G4 HD
+http://plextreamiptv.net:8080/live/9/9/15358.m3u8
+#EXTINF:-1,US: Cartoon Network HD USA
+http://plextreamiptv.net:8080/live/9/9/15359.m3u8
+#EXTINF:-1,US: Fox News HD
+http://plextreamiptv.net:8080/live/9/9/15360.m3u8
+#EXTINF:-1,US: FloridaTV HD
+http://plextreamiptv.net:8080/live/9/9/5605.m3u8
+#EXTINF:-1,US: E! Entertainment USA HD
+http://plextreamiptv.net:8080/live/9/9/8393.m3u8
+#EXTINF:-1,US: D.I.Y Network HD 720p
+http://plextreamiptv.net:8080/live/9/9/15367.m3u8
+#EXTINF:-1,US: Comedy Gold HD
+http://plextreamiptv.net:8080/live/9/9/15364.m3u8
+#EXTINF:-1,US: Fox News HD
+http://plextreamiptv.net:8080/live/9/9/19194.m3u8
+#EXTINF:-1,US: HBO HD
+http://plextreamiptv.net:8080/live/9/9/9708.m3u8
+#EXTINF:-1,US: HBO Zone HD
+http://plextreamiptv.net:8080/live/9/9/8369.m3u8
+#EXTINF:-1,US: History USA HD
+http://plextreamiptv.net:8080/live/9/9/8392.m3u8
+#EXTINF:-1,US: History HD
+http://plextreamiptv.net:8080/live/9/9/19190.m3u8
+#EXTINF:-1,US: Investigation Discovery HD
+http://plextreamiptv.net:8080/live/9/9/19189.m3u8
+#EXTINF:-1,US: MovieTime HD
+http://plextreamiptv.net:8080/live/9/9/15356.m3u8
+#EXTINF:-1,US: NBC Toronto
+http://plextreamiptv.net:8080/live/9/9/15357.m3u8
+#EXTINF:-1,US: MAX East HD
+http://plextreamiptv.net:8080/live/9/9/19206.m3u8
+#EXTINF:-1,US: NBC HD
+http://plextreamiptv.net:8080/live/9/9/15332.m3u8
+#EXTINF:-1,US: Movies HD
+http://plextreamiptv.net:8080/live/9/9/15302.m3u8
+#EXTINF:-1,US: HBO Comedy HD
+http://plextreamiptv.net:8080/live/9/9/9710.m3u8
+#EXTINF:-1,US: HG TV HD
+http://plextreamiptv.net:8080/live/9/9/8383.m3u8
+#EXTINF:-1,US: Cinemax 5 Star Max HD
+http://plextreamiptv.net:8080/live/9/9/19205.m3u8
+#EXTINF:-1,US: TVO Kids HD
+http://plextreamiptv.net:8080/live/9/9/15355.m3u8
+#EXTINF:-1,US: Peach Tree TV HD
+http://plextreamiptv.net:8080/live/9/9/15354.m3u8
+#EXTINF:-1,US: RDI HD
+http://plextreamiptv.net:8080/live/9/9/15353.m3u8
+#EXTINF:-1,US: RDS 2 HD
+http://plextreamiptv.net:8080/live/9/9/15352.m3u8
+#EXTINF:-1,US: HBO Family HD
+http://plextreamiptv.net:8080/live/9/9/15328.m3u8
+#EXTINF:-1,US: Silver Screen Classics HD
+http://plextreamiptv.net:8080/live/9/9/15351.m3u8
+#EXTINF:-1,US: Nat Geo HD
+http://plextreamiptv.net:8080/live/9/9/19185.m3u8
+#EXTINF:-1,US: Science Channel HD
+http://plextreamiptv.net:8080/live/9/9/19187.m3u8
+#EXTINF:-1,US: Spike HD
+http://plextreamiptv.net:8080/live/9/9/19188.m3u8
+#EXTINF:-1,US: Starz Cinema HD
+http://plextreamiptv.net:8080/live/9/9/19184.m3u8
+#EXTINF:-1,US: Starz Encore HD
+http://plextreamiptv.net:8080/live/9/9/19183.m3u8
+#EXTINF:-1,US: Starz HD
+http://plextreamiptv.net:8080/live/9/9/19182.m3u8
+#EXTINF:-1,SPORT: NFL Live HD
+http://plextreamiptv.net:8080/live/9/9/12424.m3u8
+#EXTINF:-1,US: Syfy HD
+http://plextreamiptv.net:8080/live/9/9/19181.m3u8
+#EXTINF:-1,US: TBS HD
+http://plextreamiptv.net:8080/live/9/9/19180.m3u8
+#EXTINF:-1,US: CBN HD
+http://plextreamiptv.net:8080/live/9/9/19201.m3u8
+#EXTINF:-1,US: TLC HD
+http://plextreamiptv.net:8080/live/9/9/19179.m3u8
+#EXTINF:-1,US: TNT HD
+http://plextreamiptv.net:8080/live/9/9/19178.m3u8
+#EXTINF:-1,US: USA Network HD
+http://plextreamiptv.net:8080/live/9/9/19177.m3u8
+#EXTINF:-1,US: Velocity HD
+http://plextreamiptv.net:8080/live/9/9/19176.m3u8
+#EXTINF:-1,US: Fuel TV HD
+http://plextreamiptv.net:8080/live/9/9/19175.m3u8
+#EXTINF:-1,US: NDTV HD
+http://plextreamiptv.net:8080/live/9/9/8395.m3u8
+#EXTINF:-1,US: ABC News HD
+http://plextreamiptv.net:8080/live/9/9/19219.m3u8
+#EXTINF:-1,US: WGN 9 HD
+http://plextreamiptv.net:8080/live/9/9/15340.m3u8
+#EXTINF:-1,US: Bloomberg HD
+http://plextreamiptv.net:8080/live/9/9/5526.m3u8
+#EXTINF:-1,US: KTLA 5 HD
+http://plextreamiptv.net:8080/live/9/9/5668.m3u8
+#EXTINF:-1,US: A&E HD 1080p
+http://plextreamiptv.net:8080/live/9/9/19221.m3u8
+#EXTINF:-1,US: ABC HD 1080p
+http://plextreamiptv.net:8080/live/9/9/19220.m3u8
+#EXTINF:-1,NBC Sports Live Extra 1 HD
+http://plextreamiptv.net:8080/live/9/9/12792.m3u8
+#EXTINF:-1,NBC Sports Live Extra 2 HD
+http://plextreamiptv.net:8080/live/9/9/12790.m3u8
+#EXTINF:-1,NBC Sports Live Extra 3 HD
+http://plextreamiptv.net:8080/live/9/9/12788.m3u8
+#EXTINF:-1,NBC Sports Live Extra 4 HD
+http://plextreamiptv.net:8080/live/9/9/12786.m3u8
+#EXTINF:-1,NBC Sports Live Extra 5 HD
+http://plextreamiptv.net:8080/live/9/9/12784.m3u8
+#EXTINF:-1,NBC Sports Live Extra 6 HD
+http://plextreamiptv.net:8080/live/9/9/12782.m3u8
+#EXTINF:-1,MATCH 8: NBC Sports Live Extra HD Live
+http://plextreamiptv.net:8080/live/9/9/14230.m3u8
+#EXTINF:-1,MATCH 1: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20907.m3u8
+#EXTINF:-1,MATCH 2: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20908.m3u8
+#EXTINF:-1,MATCH 3: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20909.m3u8
+#EXTINF:-1,MATCH 4: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20910.m3u8
+#EXTINF:-1,MATCH 5: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20911.m3u8
+#EXTINF:-1,MATCH 6: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20912.m3u8
+#EXTINF:-1,MATCH 7: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20913.m3u8
+#EXTINF:-1,MATCH 8: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20914.m3u8
+#EXTINF:-1,MATCH 9: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20915.m3u8
+#EXTINF:-1,MATCH 10: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20916.m3u8
+#EXTINF:-1,MATCH 11: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20917.m3u8
+#EXTINF:-1,MATCH 12: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20918.m3u8
+#EXTINF:-1,MATCH 13: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20919.m3u8
+#EXTINF:-1,MATCH 14: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20920.m3u8
+#EXTINF:-1,MATCH 15: NFL Sunday Ticket HD Live
+http://plextreamiptv.net:8080/live/9/9/20921.m3u8
+#EXTINF:-1,MATCH 1: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20884.m3u8
+#EXTINF:-1,MATCH 2: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20885.m3u8
+#EXTINF:-1,MATCH 3: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20886.m3u8
+#EXTINF:-1,MATCH 4: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20887.m3u8
+#EXTINF:-1,MATCH 5: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20888.m3u8
+#EXTINF:-1,MATCH 6: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20889.m3u8
+#EXTINF:-1,MATCH 7: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20890.m3u8
+#EXTINF:-1,MATCH 8: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20891.m3u8
+#EXTINF:-1,MATCH 9: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20892.m3u8
+#EXTINF:-1,MATCH 10: NBA League Pass HD Live
+http://plextreamiptv.net:8080/live/9/9/20893.m3u8
+#EXTINF:-1,MATCH 1: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20894.m3u8
+#EXTINF:-1,MATCH 2: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20895.m3u8
+#EXTINF:-1,MATCH 3: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20896.m3u8
+#EXTINF:-1,MATCH 4: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20897.m3u8
+#EXTINF:-1,MATCH 5: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20898.m3u8
+#EXTINF:-1,MATCH 6: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20899.m3u8
+#EXTINF:-1,MATCH 7: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20900.m3u8
+#EXTINF:-1,MATCH 8: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20901.m3u8
+#EXTINF:-1,MATCH 9: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20902.m3u8
+#EXTINF:-1,MATCH 10: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20903.m3u8
+#EXTINF:-1,NHL Center Ice Extra HD
+http://plextreamiptv.net:8080/live/9/9/20904.m3u8
+#EXTINF:-1,MATCH 12: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20905.m3u8
+#EXTINF:-1,MATCH 13: NHL Center Ice HD Live
+http://plextreamiptv.net:8080/live/9/9/20906.m3u8
+#EXTINF:-1,MATCH 1: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20883.m3u8
+#EXTINF:-1,MATCH 2: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20875.m3u8
+#EXTINF:-1,MATCH 3: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20874.m3u8
+#EXTINF:-1,MATCH 4: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20873.m3u8
+#EXTINF:-1,MATCH 5: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20872.m3u8
+#EXTINF:-1,MATCH 6: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20871.m3u8
+#EXTINF:-1,MATCH 7: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20870.m3u8
+#EXTINF:-1,MATCH 8: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20869.m3u8
+#EXTINF:-1,MATCH 9: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20868.m3u8
+#EXTINF:-1,MATCH 10: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20882.m3u8
+#EXTINF:-1,MATCH 11: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20881.m3u8
+#EXTINF:-1,MATCH 12: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20880.m3u8
+#EXTINF:-1,MATCH 13: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20879.m3u8
+#EXTINF:-1,MATCH 14: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20878.m3u8
+#EXTINF:-1,MATCH 15: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20877.m3u8
+#EXTINF:-1,MATCH 16: MLB Extra Innings HD Live
+http://plextreamiptv.net:8080/live/9/9/20876.m3u8
+#EXTINF:-1,*USA*: A&E US
+http://plextreamiptv.net:8080/live/9/9/47214.m3u8
+#EXTINF:-1,*USA*: Abc Spark US
+http://plextreamiptv.net:8080/live/9/9/47213.m3u8
+#EXTINF:-1,*USA*: Abc West US
+http://plextreamiptv.net:8080/live/9/9/47212.m3u8
+#EXTINF:-1,*USA*: Amc US
+http://plextreamiptv.net:8080/live/9/9/47211.m3u8
+#EXTINF:-1,*USA*: American Heroe's Channel US
+http://plextreamiptv.net:8080/live/9/9/47210.m3u8
+#EXTINF:-1,*USA*: Animal Planet US
+http://plextreamiptv.net:8080/live/9/9/47209.m3u8
+#EXTINF:-1,*USA*: BBC Kids US
+http://plextreamiptv.net:8080/live/9/9/47208.m3u8
+#EXTINF:-1,*USA*: BET US
+http://plextreamiptv.net:8080/live/9/9/47207.m3u8
+#EXTINF:-1,*USA*: BNN US
+http://plextreamiptv.net:8080/live/9/9/47206.m3u8
+#EXTINF:-1,*USA*: Bravo US
+http://plextreamiptv.net:8080/live/9/9/47205.m3u8
+#EXTINF:-1,*USA*: Cartoon network US
+http://plextreamiptv.net:8080/live/9/9/47204.m3u8
+#EXTINF:-1,*USA*: ChCh US
+http://plextreamiptv.net:8080/live/9/9/47203.m3u8
+#EXTINF:-1,*USA*: Chek News US
+http://plextreamiptv.net:8080/live/9/9/47202.m3u8
+#EXTINF:-1,*USA*: Chet Tv US
+http://plextreamiptv.net:8080/live/9/9/47201.m3u8
+#EXTINF:-1,*USA*: CKWS US
+http://plextreamiptv.net:8080/live/9/9/47200.m3u8
+#EXTINF:-1,*USA*: CMT US
+http://plextreamiptv.net:8080/live/9/9/47199.m3u8
+#EXTINF:-1,*USA*: CNN US
+http://plextreamiptv.net:8080/live/9/9/47198.m3u8
+#EXTINF:-1,*USA*: Comedy Gold US
+http://plextreamiptv.net:8080/live/9/9/47196.m3u8
+#EXTINF:-1,*USA*: Comedy US
+http://plextreamiptv.net:8080/live/9/9/47197.m3u8
+#EXTINF:-1,*USA*: Comedy West US
+http://plextreamiptv.net:8080/live/9/9/47195.m3u8
+#EXTINF:-1,*USA*: Cottage Tv Life US
+http://plextreamiptv.net:8080/live/9/9/47194.m3u8
+#EXTINF:-1,*USA*: HGTV HD US
+http://plextreamiptv.net:8080/live/9/9/47179.m3u8
+#EXTINF:-1,*USA*: History HD US
+http://plextreamiptv.net:8080/live/9/9/47178.m3u8
+#EXTINF:-1,*USA*: HLN HD US
+http://plextreamiptv.net:8080/live/9/9/47177.m3u8
+#EXTINF:-1,*USA*: IFCHD US
+http://plextreamiptv.net:8080/live/9/9/47176.m3u8
+#EXTINF:-1,*USA*: Leafs Tv HD US
+http://plextreamiptv.net:8080/live/9/9/47175.m3u8
+#EXTINF:-1,*USA*: The Movie Network 1 East US
+http://plextreamiptv.net:8080/live/9/9/47193.m3u8
+#EXTINF:-1,*USA*: The Movie Network 1 West US
+http://plextreamiptv.net:8080/live/9/9/47187.m3u8
+#EXTINF:-1,*USA*: The Movie Network 2 East US
+http://plextreamiptv.net:8080/live/9/9/47192.m3u8
+#EXTINF:-1,*USA*: The Movie Network 2 West US
+http://plextreamiptv.net:8080/live/9/9/47186.m3u8
+#EXTINF:-1,*USA*: The Movie Network 3 East US
+http://plextreamiptv.net:8080/live/9/9/47191.m3u8
+#EXTINF:-1,*USA*: The Movie Network 4 East US
+http://plextreamiptv.net:8080/live/9/9/47190.m3u8
+#EXTINF:-1,*USA*: The Movie Network Encore 1 East US
+http://plextreamiptv.net:8080/live/9/9/47189.m3u8
+#EXTINF:-1,*USA*: The Movie Network Encore 1 West US
+http://plextreamiptv.net:8080/live/9/9/47185.m3u8
+#EXTINF:-1,*USA*: The Movie Network Encore 2 East US
+http://plextreamiptv.net:8080/live/9/9/47188.m3u8
+#EXTINF:-1,*USA*: The Movie Network Encore 2 West US
+http://plextreamiptv.net:8080/live/9/9/47184.m3u8
+#EXTINF:-1,*USA*: W HD US
+http://plextreamiptv.net:8080/live/9/9/47183.m3u8
+#EXTINF:-1,*USA*: WGN HD US
+http://plextreamiptv.net:8080/live/9/9/47182.m3u8
+#EXTINF:-1,*USA*: World Fishing Network HD US
+http://plextreamiptv.net:8080/live/9/9/47181.m3u8
+#EXTINF:-1,*USA*: Wsbk HD US
+http://plextreamiptv.net:8080/live/9/9/47180.m3u8
+#EXTINF:-1,*USA*: YES US
+http://plextreamiptv.net:8080/live/9/9/47216.m3u8
+#EXTINF:-1,*USA*: YTV-E US
+http://plextreamiptv.net:8080/live/9/9/47215.m3u8
+#EXTINF:-1,USA:USA Net
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2918.ts
+#EXTINF:-1,USA:Poker Central
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2921.ts
+#EXTINF:-1,USA:Nick
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2922.ts
+#EXTINF:-1,USA:NDTV
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2924.ts
+#EXTINF:-1,USA:E! HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2914.ts
+#EXTINF:-1,USA: Starz Cinema
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2919.ts
+#EXTINF:-1,USA: SHOW TIME
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3764.ts
+#EXTINF:-1,USA: CNN
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3333.ts
+#EXTINF:-1,USA: CBS NEW,S
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3762.ts
+#EXTINF:-1,USA: BET
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3763.ts
+#EXTINF:-1,US: CW HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5108.ts
+#EXTINF:-1,US: WWE Network
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2211.ts
+#EXTINF:-1,US: Versus NBA HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5109.ts
+#EXTINF:-1,US: Cartoon Network-
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5110.ts
+#EXTINF:-1,US: TSN 5
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2322.ts
+#EXTINF:-1,US: TSN 4
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2206.ts
+#EXTINF:-1,US: TSN 3
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2321.ts
+#EXTINF:-1,US: TSN 2
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2205.ts
+#EXTINF:-1,US: TSN 1
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2204.ts
+#EXTINF:-1,US: TSC
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5111.ts
+#EXTINF:-1,US: ESPN Deportes-US
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5057.ts
+#EXTINF:-1,US: Comedy Central
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5058.ts
+#EXTINF:-1,US: TLC
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5059.ts
+#EXTINF:-1,US: TBS HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5061.ts
+#EXTINF:-1,US: SyFy US
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5062.ts
+#EXTINF:-1,US: Starz Edge
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5065.ts
+#EXTINF:-1,US: Starz East
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5063.ts
+#EXTINF:-1,US: STARS Cinema
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5064.ts
+#EXTINF:-1,US: SportsNet Ontario
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5067.ts
+#EXTINF:-1,US: SportsNet 360 HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5068.ts
+#EXTINF:-1,US: Sports Net Pacific HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5069.ts
+#EXTINF:-1,US: RT America HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5070.ts
+#EXTINF:-1,US: Poker Central
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2214.ts
+#EXTINF:-1,US: Sports Net West HD-US
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5071.ts
+#EXTINF:-1,US: PAG HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5072.ts
+#EXTINF:-1,US: NFL HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5073.ts
+#EXTINF:-1,US: NBC HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5074.ts
+#EXTINF:-1,US: NBC Golf HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2216.ts
+#EXTINF:-1,US: Nickelodeon HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5076.ts
+#EXTINF:-1,US: Freeform HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5077.ts
+#EXTINF:-1,US: E!
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5078.ts
+#EXTINF:-1,US: LIFE TIME
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5079.ts
+#EXTINF:-1,US: History Channel
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5083.ts
+#EXTINF:-1,US: HGTV
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5084.ts
+#EXTINF:-1,US: HBO ZONE
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2209.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5085.ts
+#EXTINF:-1,US: HBO Comdey
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5086.ts
+#EXTINF:-1,US: HBO East
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5087.ts
+#EXTINF:-1,US: HBO
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5088.ts
+#EXTINF:-1,US: HALLMARK
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5089.ts
+#EXTINF:-1,US: Fox Sports 2
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2208.ts
+#EXTINF:-1,US: Fox Sports 1
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2207.ts
+#EXTINF:-1,US: Fox Sports 2
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2213.ts
+#EXTINF:-1,US: Fox Sports 1
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2212.ts
+#EXTINF:-1,US: FOX Deportes HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2217.ts
+#EXTINF:-1,US: Fox 59 News
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3380.ts
+#EXTINF:-1,US: FOX
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3379.ts
+#EXTINF:-1,US: Fight Network
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3219.ts
+#EXTINF:-1,US: ESPN
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2323.ts
+#EXTINF:-1,US: Discovery Science HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5091.ts
+#EXTINF:-1,US: Discovery Channel HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5092.ts
+#EXTINF:-1,US: Action Max HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7528.ts
+#EXTINF:-1,US: AMC HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7527.ts
+#EXTINF:-1,US: Cinemax HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7525.ts
+#EXTINF:-1,US: CNN HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7531.ts
+#EXTINF:-1,US: ESPN U HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7506.ts
+#EXTINF:-1,US: Fox Sports South
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7529.ts
+#EXTINF:-1,US: Fox Sports West
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7518.ts
+#EXTINF:-1,US: FX
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7524.ts
+#EXTINF:-1,US: FXX
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7523.ts
+#EXTINF:-1,US: Golf HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7535.ts
+#EXTINF:-1,US: Investigation Discovery HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7522.ts
+#EXTINF:-1,US: MLB Network HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7516.ts
+#EXTINF:-1,US: MoreMax HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7521.ts
+#EXTINF:-1,US: NBA HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7507.ts
+#EXTINF:-1,US: NBC Sports Network HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7534.ts
+#EXTINF:-1,US: NHL Network HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7533.ts
+#EXTINF:-1,US: PAC-12 Arizona HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7514.ts
+#EXTINF:-1,US: PAC-12 Bay Area HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7513.ts
+#EXTINF:-1,US: PAC-12 Los Angeles HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7512.ts
+#EXTINF:-1,US: PAC-12 Mountain HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7511.ts
+#EXTINF:-1,US: PAC-12 Oregon HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7510.ts
+#EXTINF:-1,US: PAC-12 Washington HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7509.ts
+#EXTINF:-1,US: Showtime
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7519.ts
+#EXTINF:-1,US: Spike HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7520.ts
+#EXTINF:-1,US: Sports Net One HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7530.ts
+#EXTINF:-1,US: Tennis Channel HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7532.ts
+#EXTINF:-1,US: USA Network
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/7517.ts
+#EXTINF:-1,US: TNT
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5093.ts
+#EXTINF:-1,US: Comedy C HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2215.ts
+#EXTINF:-1,US: CNBC
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2203.ts
+#EXTINF:-1,US: Cinemax
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5094.ts
+#EXTINF:-1,US: CBSN HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5095.ts
+#EXTINF:-1,US: CBS News HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5096.ts
+#EXTINF:-1,US: CBS DRAMA
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5097.ts
+#EXTINF:-1,US: CBS ACTION
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5098.ts
+#EXTINF:-1,US: AFN NEWS
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10551.ts
+#EXTINF:-1,US: AFN Prime Atlantic
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10548.ts
+#EXTINF:-1,US: AFN Prime Pacific
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10549.ts
+#EXTINF:-1,US: AFN SPORT 2
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10553.ts
+#EXTINF:-1,A&E 1080p-US
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/9174.ts
+#EXTINF:-1,US: BET
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10546.ts
+#EXTINF:-1,US: Cinemax 5 Starmax
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10556.ts
+#EXTINF:-1,US: Cinemax East
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10555.ts
+#EXTINF:-1,US: Cinemax Moremax
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10554.ts
+#EXTINF:-1,US: Destination America
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10547.ts
+#EXTINF:-1,US: The Florida Channel
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10558.ts
+#EXTINF:-1,US: Travel Channel
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10557.ts
+#EXTINF:-1,US: AFN Spectrum
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/10552.ts
+#EXTINF:-1,US: BYU Sports TV HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5099.ts
+#EXTINF:-1,US: BRAVO
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2210.ts
+#EXTINF:-1,US: Bloomberg
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5100.ts
+#EXTINF:-1,US: BEIN SPORT
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2320.ts
+#EXTINF:-1,US: Animal Planet
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5101.ts
+#EXTINF:-1,US: Willow Cricket HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5102.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2331.ts
+#EXTINF:-1,US: AFN SPORTS
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5103.ts
+#EXTINF:-1,US: AFN PULSE
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5104.ts
+#EXTINF:-1,US: A&E
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5105.ts
+#EXTINF:-1,US: ABC News HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5106.ts
+#EXTINF:-1,US: ABC News
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/2202.ts
+#EXTINF:-1,US: 360 North
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5107.ts
+#EXTINF:-1,US CBS Sports Network HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3221.ts
+#EXTINF:-1,US Fox Sports 506 HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3230.ts
+#EXTINF:-1,US NFL Channel HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3220.ts
+#EXTINF:-1,US BYU Sports TV HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/3231.ts
+#EXTINF:-1,*VIP*: Skynet Sports HD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5612.ts
+#EXTINF:-1,VIp : SKYNET SPORTS 1 SD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5618.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 2 SD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5617.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 3 SD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5616.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 4 SD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5615.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 5 SD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5614.ts
+#EXTINF:-1,VIP : SKYNET SPORTS 6 SD
+http://orbit-iptv.com:2500/live/zVbRTy6rmd/qo5IirQDO1/5613.ts
+#EXTINF:-1,A&E FFHD US
+http://portal.geniptv.com:8080/live/deric/deric/7593.ts
+#EXTINF:-1,A&E HD US
+http://portal.geniptv.com:8080/live/deric/deric/550.ts
+#EXTINF:-1,A&E TV HD US
+http://portal.geniptv.com:8080/live/deric/deric/7771.ts
+#EXTINF:-1,ABC FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7592.ts
+#EXTINF:-1,ABC HD US
+http://portal.geniptv.com:8080/live/deric/deric/539.ts
+#EXTINF:-1,ABC News HD US
+http://portal.geniptv.com:8080/live/deric/deric/540.ts
+#EXTINF:-1,ABC Spark FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7591.ts
+#EXTINF:-1,AFN Spectrum HD US
+http://portal.geniptv.com:8080/live/deric/deric/7726.ts
+#EXTINF:-1,AFN Sport 1 US
+http://portal.geniptv.com:8080/live/deric/deric/1136.ts
+#EXTINF:-1,AFN Sport 2 US
+http://portal.geniptv.com:8080/live/deric/deric/1135.ts
+#EXTINF:-1,AFN Sports HD US
+http://portal.geniptv.com:8080/live/deric/deric/7725.ts
+#EXTINF:-1,AMC FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7590.ts
+#EXTINF:-1,AMC HD US
+http://portal.geniptv.com:8080/live/deric/deric/521.ts
+#EXTINF:-1,AMC US
+http://portal.geniptv.com:8080/live/deric/deric/7792.ts
+#EXTINF:-1,Amazing Discoveries HD US
+http://portal.geniptv.com:8080/live/deric/deric/551.ts
+#EXTINF:-1,American Heroes HD US
+http://portal.geniptv.com:8080/live/deric/deric/7718.ts
+#EXTINF:-1,Animal Planet FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7589.ts
+#EXTINF:-1,Animal Planet HD US
+http://portal.geniptv.com:8080/live/deric/deric/563.ts
+#EXTINF:-1,Animal Planet US
+http://portal.geniptv.com:8080/live/deric/deric/7791.ts
+#EXTINF:-1,BBC America FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7588.ts
+#EXTINF:-1,BET FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7587.ts
+#EXTINF:-1,BET HD US
+http://portal.geniptv.com:8080/live/deric/deric/7770.ts
+#EXTINF:-1,BYU TV US
+http://portal.geniptv.com:8080/live/deric/deric/522.ts
+#EXTINF:-1,Big Ten Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7724.ts
+#EXTINF:-1,Bloomberg Europe US
+http://portal.geniptv.com:8080/live/deric/deric/503.ts
+#EXTINF:-1,Bloomberg TV 1080P HD US
+http://portal.geniptv.com:8080/live/deric/deric/489.ts
+#EXTINF:-1,Boomerang US
+http://portal.geniptv.com:8080/live/deric/deric/502.ts
+#EXTINF:-1,Bravo FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7586.ts
+#EXTINF:-1,Bravo HD US
+http://portal.geniptv.com:8080/live/deric/deric/541.ts
+#EXTINF:-1,Bravo US
+http://portal.geniptv.com:8080/live/deric/deric/7790.ts
+#EXTINF:-1,C-Span 1 US
+http://portal.geniptv.com:8080/live/deric/deric/564.ts
+#EXTINF:-1,C-Span 2 US
+http://portal.geniptv.com:8080/live/deric/deric/565.ts
+#EXTINF:-1,C-Span 3 US
+http://portal.geniptv.com:8080/live/deric/deric/566.ts
+#EXTINF:-1,CA Sportsnet 360 HD US
+http://portal.geniptv.com:8080/live/deric/deric/487.ts
+#EXTINF:-1,CBS FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7584.ts
+#EXTINF:-1,CBS Sports Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7583.ts
+#EXTINF:-1,CBS US
+http://portal.geniptv.com:8080/live/deric/deric/486.ts
+#EXTINF:-1,CBSN HD US
+http://portal.geniptv.com:8080/live/deric/deric/524.ts
+#EXTINF:-1,CNBC FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7582.ts
+#EXTINF:-1,CNBC US
+http://portal.geniptv.com:8080/live/deric/deric/525.ts
+#EXTINF:-1,CNN HD US
+http://portal.geniptv.com:8080/live/deric/deric/568.ts
+#EXTINF:-1,CNN News FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7581.ts
+#EXTINF:-1,CSNS Sports Area Bay HD US
+http://portal.geniptv.com:8080/live/deric/deric/7697.ts
+#EXTINF:-1,CSNS Sports Boston HD US
+http://portal.geniptv.com:8080/live/deric/deric/7699.ts
+#EXTINF:-1,CSNS Sports California HD US
+http://portal.geniptv.com:8080/live/deric/deric/7696.ts
+#EXTINF:-1,CSNS Sports Chicago HD US
+http://portal.geniptv.com:8080/live/deric/deric/7698.ts
+#EXTINF:-1,CSNS Sports Washington HD US
+http://portal.geniptv.com:8080/live/deric/deric/7695.ts
+#EXTINF:-1,CW HD US
+http://portal.geniptv.com:8080/live/deric/deric/543.ts
+#EXTINF:-1,CW US
+http://portal.geniptv.com:8080/live/deric/deric/7777.ts
+#EXTINF:-1,CW11 US
+http://portal.geniptv.com:8080/live/deric/deric/500.ts
+#EXTINF:-1,Cable News Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7769.ts
+#EXTINF:-1,Cartoon Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7585.ts
+#EXTINF:-1,Cartoon Network US
+http://portal.geniptv.com:8080/live/deric/deric/523.ts
+#EXTINF:-1,Chiller HD US
+http://portal.geniptv.com:8080/live/deric/deric/7717.ts
+#EXTINF:-1,CineMax 5 StarMax US
+http://portal.geniptv.com:8080/live/deric/deric/507.ts
+#EXTINF:-1,CineMax Action HD US
+http://portal.geniptv.com:8080/live/deric/deric/567.ts
+#EXTINF:-1,CineMax ActionMax East US
+http://portal.geniptv.com:8080/live/deric/deric/508.ts
+#EXTINF:-1,CineMax East US
+http://portal.geniptv.com:8080/live/deric/deric/509.ts
+#EXTINF:-1,CineMax MoreMax US
+http://portal.geniptv.com:8080/live/deric/deric/501.ts
+#EXTINF:-1,Cinemax Action US
+http://portal.geniptv.com:8080/live/deric/deric/7789.ts
+#EXTINF:-1,Cinemax More HD US
+http://portal.geniptv.com:8080/live/deric/deric/7768.ts
+#EXTINF:-1,City TV HD US
+http://portal.geniptv.com:8080/live/deric/deric/7723.ts
+#EXTINF:-1,Comedy Central FHD US
+http://portal.geniptv.com:8080/live/deric/deric/542.ts
+#EXTINF:-1,Comedy Central HD US
+http://portal.geniptv.com:8080/live/deric/deric/7595.ts
+#EXTINF:-1,Comedy Central US
+http://portal.geniptv.com:8080/live/deric/deric/7788.ts
+#EXTINF:-1,DIY Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7728.ts
+#EXTINF:-1,DIY Network US
+http://portal.geniptv.com:8080/live/deric/deric/482.ts
+#EXTINF:-1,DW US
+http://portal.geniptv.com:8080/live/deric/deric/528.ts
+#EXTINF:-1,Destination America HD US
+http://portal.geniptv.com:8080/live/deric/deric/7716.ts
+#EXTINF:-1,Discovery Channel CA FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7580.ts
+#EXTINF:-1,Discovery Channel FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7579.ts
+#EXTINF:-1,Discovery Channel HD US
+http://portal.geniptv.com:8080/live/deric/deric/7767.ts
+#EXTINF:-1,Discovery HD Showcase US
+http://portal.geniptv.com:8080/live/deric/deric/499.ts
+#EXTINF:-1,Discovery HD US
+http://portal.geniptv.com:8080/live/deric/deric/526.ts
+#EXTINF:-1,Discovery Science HD US
+http://portal.geniptv.com:8080/live/deric/deric/510.ts
+#EXTINF:-1,Discovery Science US
+http://portal.geniptv.com:8080/live/deric/deric/7774.ts
+#EXTINF:-1,Discovery Showcase HD US
+http://portal.geniptv.com:8080/live/deric/deric/7689.ts
+#EXTINF:-1,Discovery Velocity US
+http://portal.geniptv.com:8080/live/deric/deric/527.ts
+#EXTINF:-1,Disney Channel FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7578.ts
+#EXTINF:-1,Disney Channel HD US
+http://portal.geniptv.com:8080/live/deric/deric/7766.ts
+#EXTINF:-1,Disney XD FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7577.ts
+#EXTINF:-1,Disney XD HD US
+http://portal.geniptv.com:8080/live/deric/deric/7765.ts
+#EXTINF:-1,E! Entertainment HD US
+http://portal.geniptv.com:8080/live/deric/deric/7764.ts
+#EXTINF:-1,E! FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7576.ts
+#EXTINF:-1,ESPN 1 HD US
+http://portal.geniptv.com:8080/live/deric/deric/7763.ts
+#EXTINF:-1,ESPN 1 US
+http://portal.geniptv.com:8080/live/deric/deric/552.ts
+#EXTINF:-1,ESPN 2 FHD US
+http://portal.geniptv.com:8080/live/deric/deric/569.ts
+#EXTINF:-1,ESPN 2 HD US
+http://portal.geniptv.com:8080/live/deric/deric/7594.ts
+#EXTINF:-1,ESPN 2 US
+http://portal.geniptv.com:8080/live/deric/deric/7787.ts
+#EXTINF:-1,ESPN HD US
+http://portal.geniptv.com:8080/live/deric/deric/544.ts
+#EXTINF:-1,ESPN New HD US
+http://portal.geniptv.com:8080/live/deric/deric/7761.ts
+#EXTINF:-1,ESPN U HD US
+http://portal.geniptv.com:8080/live/deric/deric/7762.ts
+#EXTINF:-1,El Rey Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7575.ts
+#EXTINF:-1,El Rey Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7715.ts
+#EXTINF:-1,Eleven Sports Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7714.ts
+#EXTINF:-1,FNTSY Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7721.ts
+#EXTINF:-1,FOX 43 US
+http://portal.geniptv.com:8080/live/deric/deric/570.ts
+#EXTINF:-1,FS1 US
+http://portal.geniptv.com:8080/live/deric/deric/1137.ts
+#EXTINF:-1,FX FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7569.ts
+#EXTINF:-1,FX HD US
+http://portal.geniptv.com:8080/live/deric/deric/513.ts
+#EXTINF:-1,FX US
+http://portal.geniptv.com:8080/live/deric/deric/7784.ts
+#EXTINF:-1,FXX FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7568.ts
+#EXTINF:-1,FXX HD US
+http://portal.geniptv.com:8080/live/deric/deric/7722.ts
+#EXTINF:-1,Family FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7574.ts
+#EXTINF:-1,Fashion One HD US
+http://portal.geniptv.com:8080/live/deric/deric/498.ts
+#EXTINF:-1,Fight HD US
+http://portal.geniptv.com:8080/live/deric/deric/529.ts
+#EXTINF:-1,Fight Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7702.ts
+#EXTINF:-1,Fight Sport US
+http://portal.geniptv.com:8080/live/deric/deric/584.ts
+#EXTINF:-1,Fine Living US
+http://portal.geniptv.com:8080/live/deric/deric/497.ts
+#EXTINF:-1,Food Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/511.ts
+#EXTINF:-1,Food Network US
+http://portal.geniptv.com:8080/live/deric/deric/7783.ts
+#EXTINF:-1,Fox College Sports Atlantic HD US
+http://portal.geniptv.com:8080/live/deric/deric/7751.ts
+#EXTINF:-1,Fox Deportes HD US
+http://portal.geniptv.com:8080/live/deric/deric/7750.ts
+#EXTINF:-1,Fox FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7573.ts
+#EXTINF:-1,Fox HD US
+http://portal.geniptv.com:8080/live/deric/deric/512.ts
+#EXTINF:-1,Fox News FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7572.ts
+#EXTINF:-1,Fox News HD US
+http://portal.geniptv.com:8080/live/deric/deric/545.ts
+#EXTINF:-1,Fox Soccer Plus HD US
+http://portal.geniptv.com:8080/live/deric/deric/6206.ts
+#EXTINF:-1,Fox Soccer Plus US
+http://portal.geniptv.com:8080/live/deric/deric/7785.ts
+#EXTINF:-1,Fox Sports 1 FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7571.ts
+#EXTINF:-1,Fox Sports 1 HD US
+http://portal.geniptv.com:8080/live/deric/deric/553.ts
+#EXTINF:-1,Fox Sports 1 US
+http://portal.geniptv.com:8080/live/deric/deric/7786.ts
+#EXTINF:-1,Fox Sports 2 FHD US
+http://portal.geniptv.com:8080/live/deric/deric/554.ts
+#EXTINF:-1,Fox Sports 2 HD US
+http://portal.geniptv.com:8080/live/deric/deric/7759.ts
+#EXTINF:-1,Fox Sports 506 HD US
+http://portal.geniptv.com:8080/live/deric/deric/571.ts
+#EXTINF:-1,Fox Sports Arizona HD US
+http://portal.geniptv.com:8080/live/deric/deric/7758.ts
+#EXTINF:-1,Fox Sports College Central HD US
+http://portal.geniptv.com:8080/live/deric/deric/7756.ts
+#EXTINF:-1,Fox Sports Florida HD US
+http://portal.geniptv.com:8080/live/deric/deric/7757.ts
+#EXTINF:-1,Fox Sports HD US
+http://portal.geniptv.com:8080/live/deric/deric/7760.ts
+#EXTINF:-1,Fox Sports Net HD US
+http://portal.geniptv.com:8080/live/deric/deric/7719.ts
+#EXTINF:-1,Fox Sports North HD US
+http://portal.geniptv.com:8080/live/deric/deric/7752.ts
+#EXTINF:-1,Fox Sports Prime Ticket 1 HD US
+http://portal.geniptv.com:8080/live/deric/deric/7755.ts
+#EXTINF:-1,Fox Sports Prime Ticket Clippers HD US
+http://portal.geniptv.com:8080/live/deric/deric/7754.ts
+#EXTINF:-1,Fox Sports South HD US
+http://portal.geniptv.com:8080/live/deric/deric/7753.ts
+#EXTINF:-1,Free Form HD US
+http://portal.geniptv.com:8080/live/deric/deric/572.ts
+#EXTINF:-1,FreeForm FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7570.ts
+#EXTINF:-1,FreeForm HD US
+http://portal.geniptv.com:8080/live/deric/deric/7688.ts
+#EXTINF:-1,Fuel HD US
+http://portal.geniptv.com:8080/live/deric/deric/496.ts
+#EXTINF:-1,GSN HD US
+http://portal.geniptv.com:8080/live/deric/deric/7749.ts
+#EXTINF:-1,Gol TV HD US
+http://portal.geniptv.com:8080/live/deric/deric/7720.ts
+#EXTINF:-1,H2 US
+http://portal.geniptv.com:8080/live/deric/deric/514.ts
+#EXTINF:-1,HBO Cinema HD US
+http://portal.geniptv.com:8080/live/deric/deric/7712.ts
+#EXTINF:-1,HBO Comedy HD US
+http://portal.geniptv.com:8080/live/deric/deric/530.ts
+#EXTINF:-1,HBO East US
+http://portal.geniptv.com:8080/live/deric/deric/483.ts
+#EXTINF:-1,HBO Family HD US
+http://portal.geniptv.com:8080/live/deric/deric/7748.ts
+#EXTINF:-1,HBO HD US
+http://portal.geniptv.com:8080/live/deric/deric/531.ts
+#EXTINF:-1,HBO Signature HD US
+http://portal.geniptv.com:8080/live/deric/deric/7747.ts
+#EXTINF:-1,HBO Signature US
+http://portal.geniptv.com:8080/live/deric/deric/484.ts
+#EXTINF:-1,HBO US
+http://portal.geniptv.com:8080/live/deric/deric/7776.ts
+#EXTINF:-1,HBO Zone US
+http://portal.geniptv.com:8080/live/deric/deric/532.ts
+#EXTINF:-1,HGTV CA FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7566.ts
+#EXTINF:-1,HGTV FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7565.ts
+#EXTINF:-1,HGTV HD US
+http://portal.geniptv.com:8080/live/deric/deric/495.ts
+#EXTINF:-1,HGTV US
+http://portal.geniptv.com:8080/live/deric/deric/7782.ts
+#EXTINF:-1,HIFI US
+http://portal.geniptv.com:8080/live/deric/deric/516.ts
+#EXTINF:-1,HLN HD US
+http://portal.geniptv.com:8080/live/deric/deric/7711.ts
+#EXTINF:-1,HSN YT LIVE 1080P HD US
+http://portal.geniptv.com:8080/live/deric/deric/488.ts
+#EXTINF:-1,Hallmark Channel FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7567.ts
+#EXTINF:-1,Hallmark Channel HD US
+http://portal.geniptv.com:8080/live/deric/deric/7746.ts
+#EXTINF:-1,Hallmark Movies & Mysteries HD US
+http://portal.geniptv.com:8080/live/deric/deric/7713.ts
+#EXTINF:-1,Hallmark US
+http://portal.geniptv.com:8080/live/deric/deric/515.ts
+#EXTINF:-1,History FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7564.ts
+#EXTINF:-1,History HD US
+http://portal.geniptv.com:8080/live/deric/deric/546.ts
+#EXTINF:-1,History US
+http://portal.geniptv.com:8080/live/deric/deric/7781.ts
+#EXTINF:-1,ID Extra HD US
+http://portal.geniptv.com:8080/live/deric/deric/7690.ts
+#EXTINF:-1,ID FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7563.ts
+#EXTINF:-1,IFC HD US
+http://portal.geniptv.com:8080/live/deric/deric/7710.ts
+#EXTINF:-1,Investigation Discovery HD US
+http://portal.geniptv.com:8080/live/deric/deric/7693.ts
+#EXTINF:-1,Lifetime HD US
+http://portal.geniptv.com:8080/live/deric/deric/7745.ts
+#EXTINF:-1,Longhorn Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7709.ts
+#EXTINF:-1,MLB HD US
+http://portal.geniptv.com:8080/live/deric/deric/573.ts
+#EXTINF:-1,MLB Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7562.ts
+#EXTINF:-1,MLB Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7701.ts
+#EXTINF:-1,MLB Network US
+http://portal.geniptv.com:8080/live/deric/deric/574.ts
+#EXTINF:-1,MLB Strikeout HD US
+http://portal.geniptv.com:8080/live/deric/deric/7700.ts
+#EXTINF:-1,MSNBC FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7561.ts
+#EXTINF:-1,MSNBC HD US
+http://portal.geniptv.com:8080/live/deric/deric/575.ts
+#EXTINF:-1,MTV Base HD US
+http://portal.geniptv.com:8080/live/deric/deric/7744.ts
+#EXTINF:-1,MTV FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7560.ts
+#EXTINF:-1,MTV Rocks US
+http://portal.geniptv.com:8080/live/deric/deric/494.ts
+#EXTINF:-1,NBA HD US
+http://portal.geniptv.com:8080/live/deric/deric/533.ts
+#EXTINF:-1,NBA TV FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7559.ts
+#EXTINF:-1,NBC FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7557.ts
+#EXTINF:-1,NBC Golf Channel FHD US
+http://portal.geniptv.com:8080/live/deric/deric/6147.ts
+#EXTINF:-1,NBC Golf Channel HD US
+http://portal.geniptv.com:8080/live/deric/deric/6146.ts
+#EXTINF:-1,NBC Golf FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7558.ts
+#EXTINF:-1,NBC Golf HD US
+http://portal.geniptv.com:8080/live/deric/deric/7743.ts
+#EXTINF:-1,NBC News HD US
+http://portal.geniptv.com:8080/live/deric/deric/7742.ts
+#EXTINF:-1,NBC SN HD US
+http://portal.geniptv.com:8080/live/deric/deric/7741.ts
+#EXTINF:-1,NBC Sports Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7556.ts
+#EXTINF:-1,NBC US
+http://portal.geniptv.com:8080/live/deric/deric/490.ts
+#EXTINF:-1,NBCSN HD US
+http://portal.geniptv.com:8080/live/deric/deric/555.ts
+#EXTINF:-1,NFL Network 1 US
+http://portal.geniptv.com:8080/live/deric/deric/504.ts
+#EXTINF:-1,NFL Network 1080i US
+http://portal.geniptv.com:8080/live/deric/deric/505.ts
+#EXTINF:-1,NFL Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7555.ts
+#EXTINF:-1,NFL Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/556.ts
+#EXTINF:-1,NFL Network US
+http://portal.geniptv.com:8080/live/deric/deric/7793.ts
+#EXTINF:-1,NFL Now HD US
+http://portal.geniptv.com:8080/live/deric/deric/7773.ts
+#EXTINF:-1,NFL Redzone HD US
+http://portal.geniptv.com:8080/live/deric/deric/7772.ts
+#EXTINF:-1,NHL Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7554.ts
+#EXTINF:-1,NHL Network US
+http://portal.geniptv.com:8080/live/deric/deric/576.ts
+#EXTINF:-1,Nat Geo Wild HD US
+http://portal.geniptv.com:8080/live/deric/deric/7692.ts
+#EXTINF:-1,Nat Geographic HD US
+http://portal.geniptv.com:8080/live/deric/deric/7691.ts
+#EXTINF:-1,National Geographic US
+http://portal.geniptv.com:8080/live/deric/deric/517.ts
+#EXTINF:-1,Nick FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7553.ts
+#EXTINF:-1,OWN FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7552.ts
+#EXTINF:-1,Oprah Winfrey Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7740.ts
+#EXTINF:-1,Outdoor Channel HD US
+http://portal.geniptv.com:8080/live/deric/deric/493.ts
+#EXTINF:-1,Oxygen HD US
+http://portal.geniptv.com:8080/live/deric/deric/7708.ts
+#EXTINF:-1,PAC-12 Arizona US
+http://portal.geniptv.com:8080/live/deric/deric/557.ts
+#EXTINF:-1,PAC-12 Bay Area US
+http://portal.geniptv.com:8080/live/deric/deric/558.ts
+#EXTINF:-1,PAC-12 Los Angeles FHD US
+http://portal.geniptv.com:8080/live/deric/deric/559.ts
+#EXTINF:-1,PAC-12 Oregon FHD US
+http://portal.geniptv.com:8080/live/deric/deric/560.ts
+#EXTINF:-1,PAC-12 Washington FHD US
+http://portal.geniptv.com:8080/live/deric/deric/561.ts
+#EXTINF:-1,PBS FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7551.ts
+#EXTINF:-1,Reelz HD US
+http://portal.geniptv.com:8080/live/deric/deric/7739.ts
+#EXTINF:-1,SEC Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/7707.ts
+#EXTINF:-1,SYFY FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7549.ts
+#EXTINF:-1,Science HD US
+http://portal.geniptv.com:8080/live/deric/deric/7738.ts
+#EXTINF:-1,Showtime 2 HD US
+http://portal.geniptv.com:8080/live/deric/deric/7737.ts
+#EXTINF:-1,Showtime 2 US
+http://portal.geniptv.com:8080/live/deric/deric/534.ts
+#EXTINF:-1,Showtime East HD US
+http://portal.geniptv.com:8080/live/deric/deric/7736.ts
+#EXTINF:-1,Showtime FHD US
+http://portal.geniptv.com:8080/live/deric/deric/535.ts
+#EXTINF:-1,Showtime Showcase HD US
+http://portal.geniptv.com:8080/live/deric/deric/7735.ts
+#EXTINF:-1,Showtime West US
+http://portal.geniptv.com:8080/live/deric/deric/485.ts
+#EXTINF:-1,Smile Of A Child US
+http://portal.geniptv.com:8080/live/deric/deric/492.ts
+#EXTINF:-1,Spike HD US
+http://portal.geniptv.com:8080/live/deric/deric/518.ts
+#EXTINF:-1,Spike TV HD US
+http://portal.geniptv.com:8080/live/deric/deric/7727.ts
+#EXTINF:-1,Sportsnet East HD US
+http://portal.geniptv.com:8080/live/deric/deric/7734.ts
+#EXTINF:-1,Sportsnet Ontario HD US
+http://portal.geniptv.com:8080/live/deric/deric/7733.ts
+#EXTINF:-1,Sportsnet West HD US
+http://portal.geniptv.com:8080/live/deric/deric/7732.ts
+#EXTINF:-1,Sprout World HD US
+http://portal.geniptv.com:8080/live/deric/deric/7706.ts
+#EXTINF:-1,Starz Cinema US
+http://portal.geniptv.com:8080/live/deric/deric/536.ts
+#EXTINF:-1,Starz Comedy US
+http://portal.geniptv.com:8080/live/deric/deric/537.ts
+#EXTINF:-1,Starz Edge HD US
+http://portal.geniptv.com:8080/live/deric/deric/519.ts
+#EXTINF:-1,Starz Edge US
+http://portal.geniptv.com:8080/live/deric/deric/7780.ts
+#EXTINF:-1,Starz Encore HD US
+http://portal.geniptv.com:8080/live/deric/deric/7731.ts
+#EXTINF:-1,Starz Encore US
+http://portal.geniptv.com:8080/live/deric/deric/538.ts
+#EXTINF:-1,SyFy HD US
+http://portal.geniptv.com:8080/live/deric/deric/548.ts
+#EXTINF:-1,SyFy US
+http://portal.geniptv.com:8080/live/deric/deric/7779.ts
+#EXTINF:-1,TBS FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7548.ts
+#EXTINF:-1,TBS HD US
+http://portal.geniptv.com:8080/live/deric/deric/578.ts
+#EXTINF:-1,TBS US
+http://portal.geniptv.com:8080/live/deric/deric/7775.ts
+#EXTINF:-1,TLC HD US
+http://portal.geniptv.com:8080/live/deric/deric/7730.ts
+#EXTINF:-1,TNT FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7547.ts
+#EXTINF:-1,TNT HD US
+http://portal.geniptv.com:8080/live/deric/deric/549.ts
+#EXTINF:-1,TSN 1 HD US
+http://portal.geniptv.com:8080/live/deric/deric/579.ts
+#EXTINF:-1,TSN 2 HD US
+http://portal.geniptv.com:8080/live/deric/deric/580.ts
+#EXTINF:-1,TSN 3 HD US
+http://portal.geniptv.com:8080/live/deric/deric/581.ts
+#EXTINF:-1,TSN 4 HD US
+http://portal.geniptv.com:8080/live/deric/deric/582.ts
+#EXTINF:-1,TSN 5 HD US
+http://portal.geniptv.com:8080/live/deric/deric/583.ts
+#EXTINF:-1,Travel Channel HD US
+http://portal.geniptv.com:8080/live/deric/deric/7694.ts
+#EXTINF:-1,UFC Fight Pass US
+http://portal.geniptv.com:8080/live/deric/deric/6421.ts
+#EXTINF:-1,US Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/520.ts
+#EXTINF:-1,USA HD US
+http://portal.geniptv.com:8080/live/deric/deric/7729.ts
+#EXTINF:-1,USA Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7546.ts
+#EXTINF:-1,USA Network HD US
+http://portal.geniptv.com:8080/live/deric/deric/547.ts
+#EXTINF:-1,Univision HD US
+http://portal.geniptv.com:8080/live/deric/deric/7704.ts
+#EXTINF:-1,Univision Miami HD US
+http://portal.geniptv.com:8080/live/deric/deric/7703.ts
+#EXTINF:-1,VH1 Classic US
+http://portal.geniptv.com:8080/live/deric/deric/491.ts
+#EXTINF:-1,WWE HD US
+http://portal.geniptv.com:8080/live/deric/deric/562.ts
+#EXTINF:-1,WWE Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7544.ts
+#EXTINF:-1,WWE US
+http://portal.geniptv.com:8080/live/deric/deric/7778.ts
+#EXTINF:-1,Willow FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7545.ts
+#EXTINF:-1,YES Network FHD US
+http://portal.geniptv.com:8080/live/deric/deric/7543.ts
+#EXTINF:-1,beINSports HD US
+http://portal.geniptv.com:8080/live/deric/deric/506.ts
+#EXTINF:-1,truTV HD US
+http://portal.geniptv.com:8080/live/deric/deric/7705.ts
+#EXTINF:-1,USA: WWE Network
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/151.ts
+#EXTINF:-1,USA: ESPN
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/152.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/153.ts
+#EXTINF:-1,USA: ESPN 3 TRE
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/154.ts
+#EXTINF:-1,USA: FOX SPORTS
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/156.ts
+#EXTINF:-1,USA: Tsn-Sport HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/164.ts
+#EXTINF:-1,USA: Tsn-Sport 2 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/167.ts
+#EXTINF:-1,USA: Tsn-Sport 3 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/168.ts
+#EXTINF:-1,USA: Tsn-Sport 4 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/169.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/170.ts
+#EXTINF:-1,USA: AFN Sports
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/165.ts
+#EXTINF:-1,USA: HBO HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/160.ts
+#EXTINF:-1,USA: NAT GEO HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/159.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/155.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/158.ts
+#EXTINF:-1,USA: ANIMAL PLANET
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM-18-10-RESERVE2/iQeDHfEJr9/157.ts
