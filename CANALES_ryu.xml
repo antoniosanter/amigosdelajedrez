@@ -6,25 +6,22 @@
 </item>
 
 <item>
- 
-<title> [COLOR yellow][B][I]Test[/I][/B] [/COLOR]</title>
+<title>[COLOR turquoise]Todos los Canales de /[COLOR yellow]CINESTRENOSTV[/COLOR]</title>
+<thumbnail>http://website.informer.com/thumbnails/280x202/c/cinestrenostv.tv.png</thumbnail>
+<fanart>http://website.informer.com/thumbnails/280x202/c/cinestrenostv.tv.png</fanart>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
- 
-<item><title>Channel[COLOR lightblue] [makelist.param1][/COLOR]</title>
-<link>$doregex[hash]|Referer=http://freelive365.com/tvf/ace/es/canal+futbol.php/[makelist.param1]&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-            <regex>
-            <name>hash</name>
-            <expres>source: '(.*?)'</expres>
-            <page>http://freelive365.com/tvf/ace/es/canal+futbol.php/player?channel=[makelist.param1]&amp;player=clappr</page>
-            <referer>http://freelive365.com/tvf/ace/es/canal+futbol.php</referer>
-            </regex>
-</item>
+<title>[makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
 ]]></listrepeat>
-<expres>tv-block[\w\W\s]{0,18}href="/(.*?)"[\w\W\s]{0,13}u-max-full-width"</expres>
-<page>http://freelive365.com/tvf/ace/es/canal+futbol.php</page>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
 </regex>
 </item>
 
