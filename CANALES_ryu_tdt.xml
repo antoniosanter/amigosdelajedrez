@@ -25,21 +25,6 @@
 </regex>
 </item>
 
-<item>
-<title>[COLOR green]CANALES[/COLOR] [COLOR fuchsia]TDT[/COLOR]</title>
-<thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
-<fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zonatv/canales%20TDT.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR green]CANALES[/COLOR] [COLOR fuchsia]TDT2[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu_tdt.xml</externallink>
-</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista EXABYTE[/COLOR] </title>
