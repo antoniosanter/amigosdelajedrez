@@ -31,6 +31,14 @@
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_ryu.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB POR GENEROS</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_GENEROS_ryu.xml</externallink>
+</item>
  
 <item>
 <title>[COLOR lime][COLOR lime]-[/COLOR]LAS MEJORES SERIES DEL MOMENTO</title>
@@ -48,3 +56,10 @@
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/SAGAS_ryu.xml</externallink>
 </item>
  
+ <item>
+<title>[COLOR white][COLOR white]-[/COLOR]DOCUMENTALES</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DOCUMENTALES_ryu.xml</externallink>
+</item>
