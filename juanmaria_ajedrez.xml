@@ -50,6 +50,36 @@
 <fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
 </item>
 
+<item><title>LOS 100 PATRONES QUE HAY QUE SABER CANAL</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/channel/UC2_vIPPZtRtu5I9bfS62GQw</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item><title>LOS 100 PATRONES QUE HAY QUE SABER</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/watch?v=1VVHRlRZMMo&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>1 El tapón de Karpov</title>        
 <urlsolve>https://www.youtube.com/watch?v=iSMFfuzJ6uI&index=22&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</urlsolve>
@@ -89,6 +119,13 @@
 <title>6: Alekhine, Bobby Fischer y las enseñanzas de Buda | Mejora tu ajedrez</title>        
 <urlsolve>https://www.youtube.com/watch?v=WzYB0csMOaI&index=18&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</urlsolve>
 <thumbnail>https://img.youtube.com/vi/WzYB0csMOaI/mqdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+</item>
+
+<item>
+<title>11 : Defensa fracesa, variante del cambio</title>        
+<urlsolve>https://www.youtube.com/results?search_query=defensa+francesa+variante+del+cambio</urlsolve>
+<thumbnail>https://img.youtube.com/vi/7Y7mcIiE_ho/mqdefault.jpg</thumbnail>
 <fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
 </item>
 
