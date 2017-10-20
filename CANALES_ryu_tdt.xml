@@ -25,6 +25,22 @@
 </regex>
 </item>
 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR yellow][B]MOVISTAR+ CASTRO[/B] [/COLOR][COLOR Red][I]SportsDevil Addon Requerido[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] </title>
+<sportsdevil>http://cinestrenostv.tv/[makelist.param1]</sportsdevil>
+<thumbnail>http://cinestrenostv.tv/[makelist.param1]</thumbnail>
+<referer>http://cinestrenostv.tv/</referer>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)" title="(.*?)" target="tv"><img src="(.*?)"]]></expres>
+<page>http://cinestrenostv.tv/</page>
+</regex>
+<thumbnail>http://gnula.nu/wp-content/uploads/2017/06/Wonder_Woman_poster_final_usa.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista EXABYTE[/COLOR] </title>
