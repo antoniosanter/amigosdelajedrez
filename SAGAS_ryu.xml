@@ -43,3 +43,18 @@
 </item>
 </items>
 </channel>
+
+<item>
+<title>prueba </title>        
+<urlsolve>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/MovistarTV.m3u</urlsolve>
+<thumbnail>http://1.bp.blogspot.com/-_V_ixj85vtM/Vns7yK6HtOI/AAAAAAAAPEg/cdnirgkart4/s1600-r/LOS%2BGOONIES%2B-%2BEL%2BFANCINE%2B-%2BCINE%2BFANT%25C3%2581STICO%2B-%2B%25C3%2581LVAROGP%2B-%2B%25C3%2581LVARO%2BGARC%25C3%258DA.jpg</thumbnail>
+<fanart>http://wallpapers-best.com/uploads/posts/2016-01/13_the_goonies.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]prueba2</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/MovistarTV.m3u</externallink>
+</item>
