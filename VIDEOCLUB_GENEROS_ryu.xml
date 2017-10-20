@@ -2,7 +2,7 @@
  
   
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]AVENTURAS[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]AVENTURAS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -40,7 +40,7 @@
 </item>
 <item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]FICCION[/COLOR] </title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]FICCION[/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -77,7 +77,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]COMEDIA[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]COMEDIA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -114,7 +114,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]TERROR [/COLOR] </title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]TERROR [/COLOR] </title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -151,7 +151,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]ACCION[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]ACCION[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -188,7 +188,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]BELICO[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]BELICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -199,7 +199,7 @@
         <fanart></fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/belicas-20003/list,1,10</page>
+<page>http://diskokosmiko.mx/nablueo/belicas-20003/list,1,10</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -217,7 +217,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/naredo/belicas-20003/list,1,10<referer>
+<referer>http://diskokosmiko.mx/nablueo/belicas-20003/list,1,10<referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -225,7 +225,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]RELIGIOSO[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]RELIGIOSO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -262,7 +262,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DEL [/COLOR][COLOR red]OESTE[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENEROL [/COLOR][COLOR blue]OESTE[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -273,7 +273,7 @@
         <fanart></fanart>
         ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/naredo/western-19889/list,1,27</page>
+<page>http://diskokosmiko.mx/nablueo/western-19889/list,1,27</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -291,52 +291,16 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/naredo/western-19889/list,1,27<referer>
+<referer>http://diskokosmiko.mx/nablueo/western-19889/list,1,27<referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://1.bp.blogspot.com/-OzBj026fC24/WaKtbq1ghnI/AAAAAAAAAKQ/Pb7mGydzyq07DI_u8SJUaCC61A7TAZLtQCLcBGAs/s1600/cineOeste.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
+
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]MEXICANO[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR white]  [makelist.param3][/COLOR] </title>
-        <link>$doregex[getUrl]</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
-        ]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/trivianita/cine-mexicano-el-rockero-38991/list,1,3</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/trivianita/cine-mexicano-el-rockero-38991/list,1,3</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://4.bp.blogspot.com/-oy9gNrEx9dQ/WaKtzclgFvI/AAAAAAAAAKs/qjXxyIcxWkgAeu7ti8onwVgUWbde0LzGwCLcBGAs/s1600/cineMexicanolo.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
-</item>
-<item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE DE [/COLOR][COLOR red]DRAMA[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]DRAMA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -373,7 +337,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 1[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 1[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -410,7 +374,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 2[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 2[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -447,7 +411,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 3[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 3[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -484,7 +448,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 4[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 4[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -521,12 +485,12 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 5[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 5[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR red][/COLOR][COLOR white]  [makelist.param3][/COLOR]</title>
+        <title>[COLOR blue][/COLOR][COLOR white]  [makelist.param3][/COLOR]</title>
         <link>$doregex[getUrl]</link>
 		<thumbnail></thumbnail>
         <fanart></fanart>
@@ -558,7 +522,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 6[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 6[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -595,7 +559,7 @@
 <fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white]• [/COLOR][COLOR blue]CINE [/COLOR][COLOR red]VARIADO 7[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
