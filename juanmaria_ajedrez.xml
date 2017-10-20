@@ -43,51 +43,8 @@
 </item>
 
 
-<item>
-<title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
-<urlsolve>url</urlsolve>
-<thumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
-<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
-</item>
 
-
-<item>
-<title>Maestro prueba</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=1VVHRlRZMMo&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item>
-<title>Maestro prueba2</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
-]]></listrepeat>
-<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=1VVHRlRZMMo&;list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-<item><title>LOS 100 PATRONES QUE HAY QUE SABER</title>
+<item><title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -98,5 +55,6 @@
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/playlist?list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
 </item>
