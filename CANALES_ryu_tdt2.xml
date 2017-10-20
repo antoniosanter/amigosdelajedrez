@@ -138,10 +138,17 @@
 <referer>http://www.vertelevisor.com</referer>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
 </item>
- 
+
 <item>
 <title>[COLOR lightblue] COMEDIA  [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
 <sportsdevil>http://zagaiptv.eklablog.com/canal-comedia-spain-p1157346</sportsdevil>
+<referer>http://zagaiptv.eklablog.com/</referer>
+<thumbnail>https://ulango.tv/uploads/channels/3292530/logo_movistar%20comedia1.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR lightblue] accion  [/COLOR] [COLOR lightslategray][I]Sportsdevil[/I][/COLOR]</title>
+<sportsdevil>http://zagaiptv.eklablog.com/canal-accion-spain-p1157350</sportsdevil>
 <referer>http://zagaiptv.eklablog.com/</referer>
 <thumbnail>https://ulango.tv/uploads/channels/3292530/logo_movistar%20comedia1.png</thumbnail>
 </item>
