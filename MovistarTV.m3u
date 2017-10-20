@@ -1,7 +1,55 @@
-#EXTM3U
-                           
- 
- 
+
+<item>
+<title>Regreso al Futuro</title>        
+<urlsolve>http://streamcloud.eu/8o5yguab3ft3/Regreso_al_Futuro_MicroHD_1080p_AC3_5.1.mkv.html</urlsolve>
+<thumbnail>http://www.pordede.com/content/covers/mediacover-72-4.png</thumbnail>
+<fanart>http://lh6.ggpht.com/-7sLnU5poFDw/UO3narvaEFI/AAAAAAAAMmU/JL0nFYrj1Yo/raf%25255B2%25255D.jpg</fanart>
+</item>
+
+<item>
+<title>Regreso al Futuro II</title>        
+<urlsolve>http://streamcloud.eu/f6og7fvgg7ta/Regreso_al_Futuro_2_MicroHD_1080p_AC3_5.1.mkv.html</urlsolve>
+<thumbnail>http://www.pordede.com/content/covers/mediacover-72-4.png</thumbnail>
+<fanart>http://lh6.ggpht.com/-7sLnU5poFDw/UO3narvaEFI/AAAAAAAAMmU/JL0nFYrj1Yo/raf%25255B2%25255D.jpg</fanart>
+</item>
+
+<item>
+<title>Regreso al Futuro III</title>        
+<urlsolve>http://streamcloud.eu/p5rxb3q1rmpw/Regreso_al_Futuro_3_MicroHD_1080p_AC3_5.1.mkv.html</urlsolve>
+<thumbnail>http://www.pordede.com/content/covers/mediacover-152-4.png</thumbnail>
+<fanart>http://lh6.ggpht.com/-7sLnU5poFDw/UO3narvaEFI/AAAAAAAAMmU/JL0nFYrj1Yo/raf%25255B2%25255D.jpg</fanart>
+</item>
+
+
+
+
+#EXTINF:0, "name": "REGRESO AL FUTURO",
+        "image": "http://lh6.ggpht.com/-7sLnU5poFDw/UO3narvaEFI/AAAAAAAAMmU/JL0nFYrj1Yo/raf%25255B2%25255D.jpg?imgmax=800",
+        "stations": [
+        {
+                          #EXTINF:0, "name": "Regreso al Futuro",
+                           "image": "http://www.pordede.com/content/covers/mediacover-72-4.png",
+                           "url": "http://streamcloud.eu/8o5yguab3ft3/Regreso_al_Futuro_MicroHD_1080p_AC3_5.1.mkv.html",
+                           "isHost": "true"
+                   },
+     {
+                         #EXTINF:0,  "name": "Regreso al Futuro II",
+                           "image": "http://www.pordede.com/content/covers/mediacover-124-4.png",
+                           "url": "http://streamcloud.eu/f6og7fvgg7ta/Regreso_al_Futuro_2_MicroHD_1080p_AC3_5.1.mkv.html",
+                           "isHost": "true"
+                   },
+     {
+                          #EXTINF:0, "name": "Regreso al Futuro III",
+                           "image": "http://www.pordede.com/content/covers/mediacover-152-4.png",
+                           "url": "http://streamcloud.eu/p5rxb3q1rmpw/Regreso_al_Futuro_3_MicroHD_1080p_AC3_5.1.mkv.html",
+                           "isHost": "true"
+
+
+
+
+
+
+
                
                           #EXTINF:0, "name": "Iron Man 2",
                            "image": "http://www.pordede.com/content/covers/mediacover-4034-4.png",
