@@ -52,9 +52,9 @@
 
 
 <item>
-<title>maestro prueba</title>
-<thumbnail>http://i.imgur.com/Swviw8j.jpg</thumbnail>
-<fanart>http://i.imgur.com/91ntA9H.jpg</fanart>
+<title>Maestro prueba</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -64,7 +64,26 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/playlist?list;PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
+<page>https://www.youtube.com/watch?v=1VVHRlRZMMo&list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Maestro prueba2</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+<page>https://www.youtube.com/watch?v=1VVHRlRZMMo&;list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
+<cookieJar></cookieJar>
 </regex>
 </item>
 
