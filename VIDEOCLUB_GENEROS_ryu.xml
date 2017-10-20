@@ -35,8 +35,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://2.bp.blogspot.com/-s3i1j6UXaDA/WaKtX-WxFqI/AAAAAAAAAJ8/FfmWFAoSqIwKHIt3Orn61sfYX6hxlGt0ACLcBGAs/s1600/cineAventuras.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
 <item>
@@ -73,8 +73,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-Rpfkek7QJlc/WaKtbNQ2mWI/AAAAAAAAAKI/f5rX043kJ4QMpGTCTRjXcGZdA6D-vO58ACLcBGAs/s1600/cineFiccion.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
 <title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]COMEDIA[/COLOR]</title>
@@ -110,8 +110,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-a0mL_wuGzp0/WaKta5gWt8I/AAAAAAAAAKA/5RI4JyErgqghgk2YmYlQRSOmukIRG_XHQCLcBGAs/s1600/cineComedia.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
 <title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]TERROR [/COLOR] </title>
@@ -147,8 +147,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://1.bp.blogspot.com/-oMq2sB9Om9s/WaKtcr8v6DI/AAAAAAAAAKc/0d26J2vWlzwDBo2ro4l7LuJ8oxERPAhqQCLcBGAs/s1600/cineTerror.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
 <title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]ACCION[/COLOR]</title>
@@ -184,11 +184,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://1.bp.blogspot.com/-xiDfAIotC0U/WaKtXZxBEuI/AAAAAAAAAJs/vhJ4rYDnuJ0738K5TjkGzll1YnI7twUbACLcBGAs/s1600/cineAccion.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]BELICO[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue] BELICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -221,11 +221,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-PR1IbNCUemk/WaKtYW0DxcI/AAAAAAAAAJ4/EzsCi2ZjTd0KhO1vXTS3EtSUDOEgud90QCLcBGAs/s1600/cineBelico.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]RELIGIOSO[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue] RELIGIOSO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -258,11 +258,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://2.bp.blogspot.com/-5dQnzJR2MSs/WaKtbge-ooI/AAAAAAAAAKU/7ZrnbTq7nbcZ9pNjCnC7yrhkdiYIu4OygCLcBGAs/s1600/cineReligioso.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENEROL [/COLOR][COLOR blue]OESTE[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]OESTE[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -295,8 +295,8 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://1.bp.blogspot.com/-OzBj026fC24/WaKtbq1ghnI/AAAAAAAAAKQ/Pb7mGydzyq07DI_u8SJUaCC61A7TAZLtQCLcBGAs/s1600/cineOeste.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 
 <item>
@@ -333,11 +333,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-4hKiz8csRw4/WaKta6Zs5aI/AAAAAAAAAKE/hL0YncdnXlYkkylkgOTYWqzsnSLaGKKYwCLcBGAs/s1600/cineDrama.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 1[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]VARIADO 1[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -370,11 +370,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-jQeNmZO_jDA/WaKtdpGpyqI/AAAAAAAAAKk/6Ii7IqUZ7PIGHRbFg03YdK3B6VjrMxtowCLcBGAs/s1600/cineVariado.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 2[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]VARIADO 2[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -407,11 +407,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-jQeNmZO_jDA/WaKtdpGpyqI/AAAAAAAAAKk/6Ii7IqUZ7PIGHRbFg03YdK3B6VjrMxtowCLcBGAs/s1600/cineVariado.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 3[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]VARIADO 3[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -444,11 +444,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-jQeNmZO_jDA/WaKtdpGpyqI/AAAAAAAAAKk/6Ii7IqUZ7PIGHRbFg03YdK3B6VjrMxtowCLcBGAs/s1600/cineVariado.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 4[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]VARIADO 4[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -481,11 +481,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-jQeNmZO_jDA/WaKtdpGpyqI/AAAAAAAAAKk/6Ii7IqUZ7PIGHRbFg03YdK3B6VjrMxtowCLcBGAs/s1600/cineVariado.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 5[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]VARIADO 5[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -518,11 +518,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-jQeNmZO_jDA/WaKtdpGpyqI/AAAAAAAAAKk/6Ii7IqUZ7PIGHRbFg03YdK3B6VjrMxtowCLcBGAs/s1600/cineVariado.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 6[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]VARIADO 6[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -555,11 +555,11 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-jQeNmZO_jDA/WaKtdpGpyqI/AAAAAAAAAKk/6Ii7IqUZ7PIGHRbFg03YdK3B6VjrMxtowCLcBGAs/s1600/cineVariado.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
 <item>
-<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO[/COLOR][COLOR blue]VARIADO 7[/COLOR]</title>
+<title>[COLOR lime]+ [/COLOR][COLOR blue]GENERO [/COLOR][COLOR blue]VARIADO 7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -592,6 +592,6 @@
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://4.bp.blogspot.com/-jQeNmZO_jDA/WaKtdpGpyqI/AAAAAAAAAKk/6Ii7IqUZ7PIGHRbFg03YdK3B6VjrMxtowCLcBGAs/s1600/cineVariado.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-O-p7x5Unf8E/WXtZzVMfPsI/AAAAAAAAAG0/QpykrzBCQhseJ8sD3XI40FMgQJ1pCMqfQCLcBGAs/s1600/Fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart>http://800noticias.com/cms/wp-content/uploads/2017/03/sala-de-cine.jpg</fanart>
 </item>
