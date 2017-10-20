@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR red][COLOR lime]*[/COLOR]APERTURAS</title>        
-<urlsolve>url</urlsolve>
-<thumbnail>https://capakhine.es/images/consejos_aperturas_ajedrez_ninos.jpg</thumbnail>
-<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
-</item>
 
 <item>
-<title>Aperturas de Ajedrez: La Española paso a paso</title>        
-<urlsolve>https://youtu.be/I4MTu9WWow0</urlsolve>
-<thumbnail>https://capakhine.es/images/consejos_aperturas_ajedrez_ninos.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/UhZb_Z8eTLE/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>La Apertura Italiana en 15 minutos</title>        
-<urlsolve>https://www.youtube.com/watch?v=4wZQ6p-WV1M</urlsolve>
-<thumbnail>https://capakhine.es/images/consejos_aperturas_ajedrez_ninos.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/UhZb_Z8eTLE/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>Aperturas de ajedrez en 15 minutos. la Apertura Inglesa</title>        
-<urlsolve>https://www.youtube.com/watch?v=it1PtOlqlEw</urlsolve>
-<thumbnail>https://capakhine.es/images/consejos_aperturas_ajedrez_ninos.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/UhZb_Z8eTLE/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>Aperturas de Ajedrez en 15 minutos: Siciliana Najdorf</title>        
-<urlsolve>https://www.youtube.com/watch?v=KlsHegOIeTI</urlsolve>
-<thumbnail>https://capakhine.es/images/consejos_aperturas_ajedrez_ninos.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/UhZb_Z8eTLE/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>Las 5 aperturas de ajedrez más agresivas con negras</title>        
-<urlsolve>https://www.youtube.com/watch?v=PFFreRt7p7Q</urlsolve>
-<thumbnail>https://capakhine.es/images/consejos_aperturas_ajedrez_ninos.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/UhZb_Z8eTLE/maxresdefault.jpg</fanart>
-</item>
-
-
-
-<item><title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
+<title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -58,3 +16,50 @@
 <thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
 <fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]COMO JUGAR APERTURAS DE AJEDREZ Y TRUCOS DE PRINCIPIANTES </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/watch?v=feV90Uful4g&list=PL2PRid8A6d-CFEvqvhZLxngj34VCccAur</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]CLASES DE AJEDREZ </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/watch?v=iRQR-t1sZGA&list=PL2PRid8A6d-CInLJsoZsvE_7e7lTOVNxZ</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]PARTIDAS INMORTALES </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLkbsl4O-vq6dVHzmRdy41mDzEVRu8ZAPK</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+
