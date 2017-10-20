@@ -77,7 +77,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
-<page>https://www.youtube.com/watch?v=n9Mh6XQQX84&amp;list=PLl8mtGVNMN0KlmR6jngUKJXa_wuV7hidC</page>
+<page>https://www.youtube.com/playlist?list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
 </regex>
 </item>
 
