@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu_tdt.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_ryu.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB INFANTIL</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_INFANTIL.xml</externallink>
 </item>
 
 <item>
