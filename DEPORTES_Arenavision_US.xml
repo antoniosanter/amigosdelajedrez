@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+
+<item>
+<title> [B] Agenda [/B] Arenavision US</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.plexus-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.us/iguide</jsonrpc>
+<thumbnail>http://i.imgur.com/OXrlo31.png</thumbnail>
+</item>
+</xml>
+
+
+ 
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 1 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/8</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 2 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/10</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 3 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/11</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 4 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/12</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 5 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/13</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 6 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/2</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 7 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/23</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 8 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/34</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 9 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/35</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 10 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/36</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 11 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/32</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 12 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/33</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 13 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/37</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 14 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/38</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 15 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/39</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 16 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/40</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 17 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/41</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 18 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/42</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 19 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/43</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 20 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/44</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 21 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/30</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 22 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/31</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 23 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/14</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 24 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/15</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 25 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/16</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 26 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/17</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 27 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/20</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 28 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/24</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 29 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/27</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 30 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/29</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR orange][B]Arenavision 31 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/61</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR darkorange][B]Arenavision 32 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/62</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR darkorange][B]Arenavision 33 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/63</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR darkorange][B]Arenavision 34 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/64</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
+
+
+<item>
+	<title>[COLOR=red]  [/COLOR][COLOR=darkcyan][I][COLOR darkorange][B]Arenavision 35 US[/B][/COLOR]    [/I][/COLOR][COLOR=red]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://arenavision.us/sites/default/files/FAVICON_AV2015.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision.us/node/65</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision.us/</referer>
+	</regex>
+</item>
