@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+ <item>
+<title>                                                   [COLOR white][B] LFP [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart> 
+</item>
+
+
+
+<item>
+<title>[COLOR red][B] AGENDA ARENAVISION [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda=soccer</jsonrpc>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCxgmx7dxap_Db3qQB_c3-W2GlxHtFTdd58HMnYo1qyA6zaPO</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B] AGENDA EZY [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.avezy/?action=mostrar_agenda=soccer</jsonrpc>
+<thumbnail>http://redeneobux.com/wp-content/uploads/2016/12/avezy_kodi_addon.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR blue][B] AGENDA ACESOPLISTING [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[COLOR white] [makelist.param3] [/COLOR][COLOR yellow] [makelist.param2] [makelist.param4][/COLOR] [COLOR red][makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=1&amp;name=LFP</link>
+<thumbnail>https://i0.wp.com/www.androidaba.com/wp-content/uploads/2017/07/acestream-links-sports.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[acestream:\/\/(.*?)"[\w\W\s]{0,32}alt="(.*?)<.*?>(.*?)<.*?>(.*?)<.*?>(.*?)[<|"]]]></expres>
+<page>http://acesoplisting.in/</page>
+<agent>Mozilla</agent>
+</regex>
+<thumbnail>https://i0.wp.com/www.androidaba.com/wp-content/uploads/2017/07/acestream-links-sports.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+</item>	
+
+
+
+
+<item>
+<title>[COLOR orange][B] Sport365 [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
+<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+</item>
+
+
+
+
+
+ <item>
+<title>[COLOR green][B] El chiringuito de Jugones [/B][/COLOR]</title>
+<link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8<link>
+<thumbnail>https://i1.sndcdn.com/artworks-000182046977-z3pmgs-t500x500.jpg</thumbnail>
+<fanart>http://fotografias.lasexta.com/clipping/cmsimages02/2016/08/19/7EDBBCD4-B702-4D04-80BB-7BE4964FDD22/57.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR yellow][B] LaLiga Highlights J08 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ <thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+						<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=9lv7yEfrdQA&amp;list=PLKj1QUtwqLN8n97l_-D4yR6H74GQohcLp</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+
+<item>
+<title>[COLOR violet][B] Calentamientos y ruedas de prensa - Matchday 8 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ <thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+						<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=GZE-df4GzLI&amp;list=PLKj1QUtwqLN-ez5ixx1gB_MJVW3-38j4C</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR violet][B] LaLiga Show J08 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ <thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+						<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=A5dAK3ORnrs&amp;list=PLKj1QUtwqLN_EbA4iWkzZ258JBHFVLCbS</page>
+             <cookieJar></cookieJar>
+</regex>
+
+</item>
+
+
+<item>
+<title>[COLOR yellow]beIN Laliga El Partidazo (Opción 1)[/COLOR]</title>
+<sportsdevil><sportsdevil>http://cinestrenostv.tv/canales/deportes/multibein/canal1.html</sportsdevil></sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
+<thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]beIN Laliga El Partidazo (Opción 2)[/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil></sportsdevil><referer>http://cinestrenostv.tv/canales/deportes/multiliga/canal1.html</referer>
+<thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow] Bein Sports[/COLOR] </title>
+<link>http://soloendragonsfeel.applive.online/live/verbeinsportae541f9250d4e/index.m3u8|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]Bein Sports La Liga (Opción 1)[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page><cookieJar></cookieJar></regex>
+<thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow] Bein Sports[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinsport&width=650&height=397</page><cookieJar></cookieJar></regex>
+<thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]La Liga Tv[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=barliga&width=650&height=397</page><cookieJar></cookieJar></regex>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR yellow] La Liga 123[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title>     [COLOR blue][B] Jornada 9 [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+
+</item>
+ <tem>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR white]LEVANTE [COLOR red]VS [COLOR white] GETAFE[COLOR orange] 21/10/2017[/COLOR][COLOR yellow]  13:00[COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white]REAL BETIS [COLOR red]VS [COLOR white] ALAVES[COLOR orange] 21-10-2017[/COLOR][COLOR yellow]  16:15 [COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white]VALENCIA [COLOR red]VS [COLOR white] SEVILLA FC[COLOR orange] 21/10/2017[/COLOR][COLOR yellow]  18:30 [COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR white]FC BARCELONA [COLOR red]VS [COLOR white] MALAGA[COLOR orange] 21/10/2017[/COLOR][COLOR yellow]  20:45 [COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR white]VILLARREAL [COLOR red]VS [COLOR white] LAS PALMAS[COLOR orange] 22/10/2017[/COLOR][COLOR yellow]  12:00 [COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white]CELTA [COLOR red]VS [COLOR white] ATLETICO DE MADRID[COLOR orange] 22/10/2017[/COLOR][COLOR yellow] 16:15 [COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white]LEGANES [COLOR red]VS [COLOR white] ATHLETIC CLUB BILBAO[COLOR orange] 22/10/2017[/COLOR][COLOR yellow] 18:30 COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>  
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR white]REAL MADRID [COLOR red]VS [COLOR white] EIBAR[COLOR orange] 22/10/2017[/COLOR][COLOR yellow]  20:45 [COLOR lime] Canal [COLOR violet] 1-2 [SPA] 10-11 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR white]REAL SOCIEDAD [COLOR red]VS [COLOR white] ESPANYOL[COLOR orange] 23/10/2017[/COLOR][COLOR yellow]  20:00 [COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR white]DEPORTIVO [COLOR red]VS [COLOR white] GIRONA[COLOR orange] 23/10/2017[/COLOR][COLOR yellow]  21:00 [COLOR lime] Canal [COLOR violet] 19-20 [SPA] [/COLOR]</title>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
+   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
+   return lists[ret]
+]]></expres>
+<page>https://avezy.tk/</page>
+</regex>
+</item>
