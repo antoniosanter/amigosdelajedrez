@@ -66,24 +66,3 @@
 </item>
 
 
-
-
-<item>
-<title>[COLOR white]LEVANTE [COLOR red]VS [COLOR white] GETAFE[COLOR orange] 21/10/2017[/COLOR][COLOR yellow]  13:00[COLOR lime] Canal [COLOR violet] 1-2 [SPA] [/COLOR]</title>
-<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
-<fanart>http://deportivochapultepec.com/wp-content/uploads/2016/09/fut.jpg</fanart> 
-<link>NA</link>
-<externallink>$doregex[select]</externallink>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import xbmcgui
-   dialog = xbmcgui.Dialog()
-   ret = dialog.select('Elige Extension ', ['IN', 'RU', 'TOP', 'US', 'TK', 'ML', 'GA', 'CF'])
-   lists = ['https://pastebin.com/raw/Xx7ZS0g8', 'https://pastebin.com/raw/BA6ygPR7', 'https://pastebin.com/raw/YXG4udZC', 'https://pastebin.com/raw/KZCr4rbv', 'https://pastebin.com/raw/MFi8ignB', 'https://pastebin.com/raw/CyTDtuMn', 'https://pastebin.com/raw/CSz0NCam', 'https://pastebin.com/raw/ax8pHbAa']
-   return lists[ret]
-]]></expres>
-<page>https://avezy.tk/</page>
-</regex>
-</item>
