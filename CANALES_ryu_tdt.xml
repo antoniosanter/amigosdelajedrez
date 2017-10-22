@@ -25,6 +25,15 @@
 </regex>
 </item>
 
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TDT [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/1TwVNmL.jpg</thumbnail>
+<fanart>https://i.imgur.com/1TwVNmL.jpg</fanart>
+<externallink>https://pastebin.com/raw/U7SXbEiN</externallink>	
+</item> 
+
+
 <item>
 <title> [COLOR lime]•[/COLOR]    [COLOR yellow][B]MOVISTAR+ CASTRO[/B] [/COLOR][COLOR Red][I]SportsDevil Addon Requerido[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
