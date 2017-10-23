@@ -1,0 +1,988 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ <item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 1 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/accion-20343/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/accion-20343/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 2 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-de-accion-castellanoel-rockero-31004/list,1,9</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-de-accion-castellanoel-rockero-31004/list,1,9</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 3[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/comedia-19991/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/comedia-19991/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 4 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/trivianita/peliculas-comedia-castellanoel-rockero-30489/list,1,5</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/trivianita/peliculas-comedia-castellanoel-rockero-30489/list,1,5</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 5 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,10</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,10</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png-</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 6 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/ermejor/peliculas-hd-varios-idiomas-de-audio-y-subtit-29815/list,1,13</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/ermejor/peliculas-hd-varios-idiomas-de-audio-y-subtit-29815/list,1,13</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 7 {Drama} [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-drama-en-espanol-latino-18845/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-drama-en-espanol-latino-18845/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 8 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/denon/peliculas-variadas-en-audio-latino-32477/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/denon/peliculas-variadas-en-audio-latino-32477/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bolsadenoticias.com.ni/2013/Noviembre/06/fotos/Portada/sala%20de%20cine.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR red][B][COLOR red]movies[/COLOR][COLOR blue]pr[/COLOR] Cinema Sala 9 [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://odyssey.antiochsb.edu/wp-content/uploads/2017/02/denzel-1.jpeg</thumbnail>
+       <fanart>http://odyssey.antiochsb.edu/wp-content/uploads/2017/02/denzel-1.jpeg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/garroteca/denzel-washington-peliculas-recomendadas-48713/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/garroteca/denzel-washington-peliculas-recomendadas-48713/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://odyssey.antiochsb.edu/wp-content/uploads/2017/02/denzel-1.jpeg</thumbnail>
+<fanart>http://odyssey.antiochsb.edu/wp-content/uploads/2017/02/denzel-1.jpeg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Movies 1080• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</thumbnail>
+       <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/ermejor/peliculas-hd-varios-idiomas-de-audio-y-subtit-29815/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/ermejor/peliculas-hd-varios-idiomas-de-audio-y-subtit-29815/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Movies 1• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</thumbnail>
+       <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/pelis-2-45486/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/pelis-2-45486/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Movies 2• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</thumbnail>
+       <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/SeriesHD/pelis-3-50456/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/pelis-3-50456/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2000px-Full_hd_logo.svg.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Rmvb (Cine Web)• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://icon-icons.com/icons2/234/PNG/256/RMVB_26270.png</thumbnail>
+       <fanart>http://icon-icons.com/icons2/234/PNG/256/RMVB_26270.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/muhazimim/rmvb-cine-web-16062/list,1,39</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/SeriesHD/pelis-3-50456/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://icon-icons.com/icons2/234/PNG/256/RMVB_26270.png</thumbnail>
+<fanart>http://icon-icons.com/icons2/234/PNG/256/RMVB_26270.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •New Collection• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://4.bp.blogspot.com/-ExFo1gZyE44/VMqqwHR7ZoI/AAAAAAAAIw4/MuBIsu73jvY/s1600/newcollection.png</thumbnail>
+       <fanart>http://4.bp.blogspot.com/-ExFo1gZyE44/VMqqwHR7ZoI/AAAAAAAAIw4/MuBIsu73jvY/s1600/newcollection.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/danonaba89/fileuploader-46197/list,1,50</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/danonaba89/fileuploader-46197/list,1,50</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://4.bp.blogspot.com/-ExFo1gZyE44/VMqqwHR7ZoI/AAAAAAAAIw4/MuBIsu73jvY/s1600/newcollection.png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-ExFo1gZyE44/VMqqwHR7ZoI/AAAAAAAAIw4/MuBIsu73jvY/s1600/newcollection.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Mega-Pack• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://orig09.deviantart.net/93b2/f/2014/160/e/4/mega_pack_by_selenaismyqueen-d7lo6ih.png</thumbnail>
+       <fanart>http://orig09.deviantart.net/93b2/f/2014/160/e/4/mega_pack_by_selenaismyqueen-d7lo6ih.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/movies/mega-pack-1183</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/movies/mega-pack-1183</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://orig09.deviantart.net/93b2/f/2014/160/e/4/mega_pack_by_selenaismyqueen-d7lo6ih.png</thumbnail>
+<fanart>http://orig09.deviantart.net/93b2/f/2014/160/e/4/mega_pack_by_selenaismyqueen-d7lo6ih.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Super Coleccion de Peliculas• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+       <fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,15</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/IngArturo/super-coleccion-de-pelis-audio-latino-20342/list,1,15</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+<fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Peliculas de Comedia• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+       <fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-comedia-en-espanol-latino-17449/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+<fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Peliculas de Navidad• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+       <fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-navidad-en-espanol-latino-17084/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-navidad-en-espanol-latino-17084/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+<fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Peliculas Belicas• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+       <fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/belicas-20003/list,1,11</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/belicas-20003/list,1,11</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+<fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Peliculas de Piratas• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+       <fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/piratas-20002/list,1,1</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/piratas-20002/list,1,1</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+<fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+</item>
+ 
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] •Peliculas de Caricaturas• </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+       <fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-caricaturas-en-espanol-latino-16449/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-caricaturas-en-espanol-latino-16449/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>http://www.dmtinc.cl/imagenes/GwAbC.png</thumbnail>
+<fanart>http://www.dmtinc.cl/imagenes/GwAbC.png</fanart>
+</item>
+ 
+ 
+============================================================================================================
+<item>
+<title>[COLOR yellow]movies[/COLOR][COLOR red]pr[/COLOR] • • </title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail></thumbnail>
+<fanart>http://i.imgur.com/OnB8r6U.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/FLAYSINA/la-viuda-negra-2-completa-46635/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+ <thumbnail>https://3.bp.blogspot.com/-l_5Xz1a8LTM/VsnajUqhoaI/AAAAAAAAAo4/PBsENKU5css/s1600/la%2Bviuda%2Bnegra%2B2.jpg</thumbnail>
+<fanart>http://i.imgur.com/OnB8r6U.png</fanart>
+</item>
+ 
+ 
+<item>
+<title>[COLOR blue]Disney/Dreamworks Animated Collection[/COLOR] (1937-2009)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR blue] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>https://mlcarmon.expressions.syr.edu/trfindustryforces/wp-content/uploads/sites/2/2014/10/7f017abb-f3d9-40c4-a841-d9d686dc9a56-Pixar-Movies.jpeg</fanart>
+<thumbnail>http://pre08.deviantart.net/6637/th/pre/f/2016/093/6/e/pixar_icon_folder_pack_by_mohandor-d9xlp63.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/movies/disneydreamworks-animated-collection-1937-2009-1188/list,1,7</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/movies/disneydreamworks-animated-collection-1937-2009-1188/list,1,7</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://mlcarmon.expressions.syr.edu/trfindustryforces/wp-content/uploads/sites/2/2014/10/7f017abb-f3d9-40c4-a841-d9d686dc9a56-Pixar-Movies.jpeg</fanart>
+<thumbnail>http://pre08.deviantart.net/6637/th/pre/f/2016/093/6/e/pixar_icon_folder_pack_by_mohandor-d9xlp63.png</thumbnail>
+</item>
+ 
+<item>
+<title>Movies Mix</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR yellow] [makelist.param3] [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+<fanart>http://img15.deviantart.net/e5db/i/2012/028/6/2/movie_folder_icons_pack_4_by_ajwaj-d4nwfgl.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e3/Movie_icon_by_sdoherty1000-d5usdyq.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peticiones-16957/list,1,11</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peticiones-16957/list,1,11</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<fanart>http://img15.deviantart.net/e5db/i/2012/028/6/2/movie_folder_icons_pack_4_by_ajwaj-d4nwfgl.png</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e3/Movie_icon_by_sdoherty1000-d5usdyq.png</thumbnail>
+ 
+ <item>
+<title>[COLOR red][B][COLOR yellow]Movies[/COLOR][COLOR blue]pr[/COLOR] SALA 1 Peliculas[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [COLOR lightskyblue][makelist.param3][/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://orig04.deviantart.net/4027/f/2015/088/8/a/movies_folder_icon_by_mikromike-d8nntky.png</thumbnail>
+        <fanart>http://orig04.deviantart.net/4027/f/2015/088/8/a/movies_folder_icon_by_mikromike-d8nntky.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,8</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/marcos20/peliculas-de-accion-en-espanol-latino-16521/list,1,8</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://orig04.deviantart.net/4027/f/2015/088/8/a/movies_folder_icon_by_mikromike-d8nntky.png</thumbnail>
+<fanart>http://orig04.deviantart.net/4027/f/2015/088/8/a/movies_folder_icon_by_mikromike-d8nntky.png</fanart>
+</item>
+    </channel>
+</channels>
+ 
+ 
+<item>
+<title>[COLOR red][B][COLOR yellow]Movies[/COLOR][COLOR blue]pr[/COLOR] SALA 2 Peliculas[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title> [makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://orig04.deviantart.net/4027/f/2015/088/8/a/movies_folder_icon_by_mikromike-d8nntky.png</thumbnail>
+        <fanart>http://orig04.deviantart.net/4027/f/2015/088/8/a/movies_folder_icon_by_mikromike-d8nntky.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/naredo/accion-20343/list,1,4</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/naredo/accion-20343/list,1,4</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://orig04.deviantart.net/4027/f/2015/088/8/a/movies_folder_icon_by_mikromike-d8nntky.png</thumbnail>
+<fanart>http://orig04.deviantart.net/4027/f/2015/088/8/a/movies_folder_icon_by_mikromike-d8nntky.png</fanart>
+</item>
+ 
+<item>
+<title>[B][COLOR blue][/COLOR][/B]</title>
+<link></link>
+<link></link>
+<link></link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
