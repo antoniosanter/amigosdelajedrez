@@ -54,14 +54,13 @@
 </item>
 
 <item>
-<title> CANALES ELGOLES</title>
+<title>ESGOLES </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item>
-<title>[B]Canal [/B] [COLOR gold][makelist.param1][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Catoal[makelist.param1]</link>
+<item><title>ESGOLES - Canal  [makelist.param1]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+ESGOLES[makelist.param1]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
@@ -71,17 +70,19 @@
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 			</regex>
-			<thumbnail></thumbnail>
+			<thumbnail>http://www.androidaba.com/wp-content/uploads/2016/03/acestream-engine.jpg</thumbnail>
 </item>	
 ]]></listrepeat>
 <expres>elgoles.ru/canal-(.*?)\/"</expres>
 <page>http://elgoles.ru/</page>
 <Agent>Mozilla</Agent>
-<referer>http://www.arenavision.ru</referer>
+<referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
-</regex>
-<thumbnail></thumbnail>
+</regex><thumbnail>http://www.androidaba.com/wp-content/uploads/2016/03/acestream-engine.jpg</thumbnail>
 </item>
+
+
+
 
 <item>
 <title>[COLOR skyblue][B] LIVE FOOTBALL [/B][/COLOR]</title>
@@ -115,6 +116,80 @@
 </regex>
 <thumbnail>http://www.androidaba.com/wp-content/uploads/2016/03/acestream-engine.jpg</thumbnail>
 </item>	
+
+
+
+
+
+<item>
+<title>[COLOR skyblue][B] LIVE FOOTBALL  [COLOR yellow]OL[/COLOR][/B][/COLOR]</title>
+
+<link>$doregex[makelist2]</link>
+
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+	<title>[COLOR coral] [I][makelist2.param2][/I]  [/COLOR][COLOR skyblue][B] [makelist2.param4][/B] [/COLOR]  [makelist2.param1] </title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres><![CDATA[flag\/16x11\/(.*?)..*?\"\/>(.*?)<.*?href="(.*?)">(.*?)<]]></expres>
+<page>http://www.livefootballol.me/live-football-streaming-2016.html</page>
+<agent>Mozilla</agent>
+</regex>
+
+src="(.*?)"[\w\W\s]{0,15}>(.*?)<[\w\W\s]{0,2}href="(.*?html)">(.*?)<
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title> [B][makelist.param3][/B]      [I] [makelist.param1][/I] </title>
+<link>plugin://program.plexus/?url=$doregex[canal]&amp;mode=1&amp;name=Adryanlist</link>
+<regex>
+<name>canal</name>
+<expres>acestream://(.*)"</expres>
+<page>[makelist.param2]</page>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[td>(.*?)<[\w\W\s]{0,15}href="(.*?html)">(.*?)AceStream]]></expres>
+<page>http://www.livefootballol.me[makelist2.param3]</page>
+<agent>Mozilla</agent>
+</regex>
+
+
+<thumbnail>http://www.androidaba.com/wp-content/uploads/2016/03/acestream-engine.jpg</thumbnail>
+</item>	
+
+
+<item>
+<title>Canales Deportivos España & Mexico </title>
+			<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			<title>[COLOR deepskyblue][I][makelist.param2] [/I][/COLOR][COLOR lightslategray]                            [/COLOR]</title>
+			
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param2]</link>
+			
+			<regex>
+			<name>hash</name>
+			<expres>\/embed\/(.*?)"</expres>
+			<page>http://freelive365.com/[makelist.param1]</page>
+			<referer>http://freelive365.com/</referer>
+			</regex>
+			<regex>
+			<name>code</name>
+			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+			<page></page>
+			</regex>
+			
+			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=6</page>
+</regex>
+<thumbnail>http://www.androidaba.com/wp-content/uploads/2016/03/acestream-engine.jpg</thumbnail>
+</item>
 
 
 <item>
