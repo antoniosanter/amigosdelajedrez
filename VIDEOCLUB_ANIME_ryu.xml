@@ -269,6 +269,43 @@
 <fanart>http://1.bp.blogspot.com/-w2ARUAd66Io/U4OO9m5Y9PI/AAAAAAAAHmQ/G0Y6mcjtbUI/s1600/24m9wno.jpg</fanart>
 </item>
 
+<item>
+<title>Dragon Ball SUPER</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>https://vignette.wikia.nocookie.net/dragonball/images/e/ea/Super_DVD_Rental_Volume_2.png</thumbnail>
+<fanart>https://images3.alphacoders.com/772/thumb-1920-772380.png</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/jorge-garcia-luis/dragon-ball-super-82436/list,1,3</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/jorge-garcia-luis/dragon-ball-super-82436/list,1,3</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+  <thumbnail>https://vignette.wikia.nocookie.net/dragonball/images/e/ea/Super_DVD_Rental_Volume_2.png</thumbnail>
+<fanart>https://images3.alphacoders.com/772/thumb-1920-772380.png</fanart>
+</item>
 
 <item>
 <title>CABALLEROS DEL ZODIACO SOUL OF GOLD</title>
