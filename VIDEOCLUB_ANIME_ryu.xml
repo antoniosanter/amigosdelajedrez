@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR white]+[/COLOR][COLOR blue] [COLOR deepskyblue] Anime - PelixMax [/COLOR][COLOR white][AUDIO LATINO][/COLOR]</title>
-<thumbnail>https://www.dropbox.com/s/6i5opkwwb79ol8p/pelixmax.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/6i5opkwwb79ol8p/pelixmax.jpg?dl=1</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[makelist.param1]</title>
-    <link>[makelist.param2]</link>
-    <thumbnail>https://www.dropbox.com/s/6i5opkwwb79ol8p/pelixmax.jpg?dl=1</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
-<page>http://pastebin.com/raw/e4atnKUu</page>
-<agent>$doregex[it]</agent>
-<cookieJar></cookieJar>
-</regex>
-<name>it</name>  
-<expres>Agent:"(.*?)";</expres>  
-<page>Z3z2EfVw48</page>
-</regex>
-<item>
-
-<item>
-<title>prueba</title>        
-<urlsolve>http://s2.animeyt.tv/lola.php?cd=1293&file=1</urlsolve>
-<thumbnail></thumbnail>
-<fanart>http://animeyt.tv/files/img/series/s_1293_poster.jpg</fanart>
-</item>
 
 <item>
 <title>Dragon Ball</title>
