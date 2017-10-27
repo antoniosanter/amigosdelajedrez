@@ -54,7 +54,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]+[/COLOR][COLOR blue][COLOR deepskyblue] CANALES ELGOLES[/COLOR] [COLOR blue] [I]Addon PLEXUS • Acestream Necesarios[/I][/COLOR]</title>
+<title> CANALES ELGOLES</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
