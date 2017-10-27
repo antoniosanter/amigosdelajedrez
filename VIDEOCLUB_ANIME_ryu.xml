@@ -269,3 +269,81 @@
 <fanart>http://1.bp.blogspot.com/-w2ARUAd66Io/U4OO9m5Y9PI/AAAAAAAAHmQ/G0Y6mcjtbUI/s1600/24m9wno.jpg</fanart>
 </item>
 
+
+<item>
+<title>CABALLEROS DEL ZODIACO SOUL OF GOLD</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+       <thumbnail>http://www.mubis.es/media/releases/8748/156324/los-caballeros-del-zodiaco-saint-seiya-soul-of-god-vol-2-edicion-coleccionista-blu-ray-l_cover.jpg</thumbnail>
+<fanart>http://www.lascosasquenoshacenfelices.com/wp-content/uploads/2016/09/saint_seiya_soul_of_gold_cosas_felices-702x336.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chicho306/los-caballeros-del-zodiaco-alma-de-oro-34702</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chicho306/los-caballeros-del-zodiaco-alma-de-oro-34702</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+  <thumbnail>http://www.mubis.es/media/releases/8748/156324/los-caballeros-del-zodiaco-saint-seiya-soul-of-god-vol-2-edicion-coleccionista-blu-ray-l_cover.jpg</thumbnail>
+<fanart>http://www.lascosasquenoshacenfelices.com/wp-content/uploads/2016/09/saint_seiya_soul_of_gold_cosas_felices-702x336.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow][COLOR yellow]*[/COLOR]CABALLEROS DEL ZODIACO SOUL OF GOLD</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.mubis.es/media/releases/8748/156324/los-caballeros-del-zodiaco-saint-seiya-soul-of-god-vol-2-edicion-coleccionista-blu-ray-l_cover.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/chicho306/los-caballeros-del-zodiaco-alma-de-oro-34702</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/chicho306/los-caballeros-del-zodiaco-alma-de-oro-34702</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.mubis.es/media/releases/8748/156324/los-caballeros-del-zodiaco-saint-seiya-soul-of-god-vol-2-edicion-coleccionista-blu-ray-l_cover.jpg</thumbnail>
+<fanart>http://www.lascosasquenoshacenfelices.com/wp-content/uploads/2016/09/saint_seiya_soul_of_gold_cosas_felices-702x336.jpg</fanart>
+</item>
+</items>
+</channel>
