@@ -73,6 +73,15 @@
 			</regex>
 			<thumbnail></thumbnail>
 </item>	
+]]></listrepeat>
+<expres>elgoles.ru/canal-(.*?)\/"</expres>
+<page>http://elgoles.ru/</page>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.ru</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[COLOR grey][B]CANALES DEPORTIVOS [/B][/COLOR]</title>
