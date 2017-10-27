@@ -24,6 +24,13 @@
 <item>
 
 <item>
+<title>prueba</title>        
+<urlsolve>http://s2.animeyt.tv/lola.php?cd=1293&file=1</urlsolve>
+<thumbnail></thumbnail>
+<fanart>http://animeyt.tv/files/img/series/s_1293_poster.jpg</fanart>
+</item>
+
+<item>
 <title>Dragon Ball</title>
 <link>$doregex[makelist]</link>
 <regex>
