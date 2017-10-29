@@ -25,6 +25,177 @@
 </regex>
 </item>
 
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]IPTV Ultra[/COLOR]  [COLOR red] RYU [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[makelist.param2]</title>
+   <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[href="([^"]+)">(.*?)</a]]></expres>
+<page>http://www.iptvultra.com/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[makelist2.param1]</title>
+   <link>plugin://plugin.video.f4mTester/?url=$doregex[getUrl]&amp;streamtype=TSDOWNLOADER&amp;name=JHG [makelist2.param1]&amp;maxbitrate=0&amp;Buffer=20971520</link>
+]]></listrepeat>
+<expres><![CDATA["\d+.{3}(.*?)\s\[.+?\](http.*?)"]]></expres>
+<page>[makelist.param1]?get=download_m3u8</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist2.param2]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1')</expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+</item>
+
+
+
+<item>
+ <title>[COLOR red].[/COLOR][COLOR red][B]World Servers[/B] [/COLOR][COLOR red ][I] Ryu[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>      [COLOR blue]IPTV f4mTester[/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red][/COLOR][COLOR RED][B]Server JHG[/B] [/COLOR][COLOR white ][I] MASTER[/I][/COLOR]</title>
+ EXYU[/I][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail><fanart>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/cp.dmbshare.net:8000\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR white].[/COLOR][COLOR blue][B] Ryu[/B] [/COLOR][COLOR white ][I] M3U Listas[/I][/COLOR]</title>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue]Servers[/COLOR] [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B]SERVER [COLORdodgerblue][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B] </title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[COLOR red].[/COLOR][COLOR yellow][B]IPTV Servers[/B] [/COLOR][COLOR yellow ][I] Ryu[/I][/COLOR]</title><thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLORwhite]S[COLORdodgerblue]TV[/COLOR] [makelist.param1]  </link>
+ <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+<item><title>[COLOR red] Ryu Server 2 [/COLOR](ESPAÑA) </title><link>http://Ignoreme</link><externallink>http://192.99.149.20:8080/get.php?username=grspan&amp;password=sxlk2slkx&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>.JHG.MASTER 5 </title><link>http://Ignoreme</link><externallink>http://149.56.240.30:25461/get.php?username=EAS12&amp;password=1111&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+
+
+
+                                                                                                                                                                               
+
+
+
+
+
+
+<item>
+<title>[B][COLOR green] JHG[COLOR blue] Daily updates[COLOR blue] Servers[COLOR green][/COLOR][/B]</title> 
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [COLOR white]Servers[COLOR blue]Daily updates Severs[/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>                                                              
+
+
 <item>
 <title>[COLOR green]CANALES[/COLOR] [COLOR fuchsia]TDT[/COLOR]</title>
 <thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
