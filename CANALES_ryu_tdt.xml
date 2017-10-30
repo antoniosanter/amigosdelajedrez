@@ -26,11 +26,19 @@
 </item>
 
 <item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TECNO TV [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TECNO TV PELICULAS[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/1TwVNmL.jpg</thumbnail>
 <fanart>https://i.imgur.com/1TwVNmL.jpg</fanart>
 <externallink>http://tecnotv.xyz/peliculas.m3u</externallink>	
+</item> 
+
+<item> 
+<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TECNO TV CANALES[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/1TwVNmL.jpg</thumbnail>
+<fanart>https://i.imgur.com/1TwVNmL.jpg</fanart>
+<externallink>http://tecnotv.xyz/lista.m3u</externallink>	
 </item> 
 
 
