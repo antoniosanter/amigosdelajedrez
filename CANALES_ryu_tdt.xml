@@ -28,7 +28,7 @@
 
 
 <item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TECNO TV CANALES[/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR  skyblue] TECNO TV CANALES[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/1TwVNmL.jpg</thumbnail>
 <fanart>https://i.imgur.com/1TwVNmL.jpg</fanart>
@@ -53,7 +53,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR yellow][B]MOVISTAR+ CASTRO[/B] [/COLOR][COLOR Red][I]SportsDevil Addon Requerido[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR yellow][B]MOVISTAR+ [/B] [/COLOR][COLOR Red][I]SportsDevil Addon Requerido[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
