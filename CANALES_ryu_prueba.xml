@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<layouttype></layouttype>
+ 
+<channels>
+ 
+</channels><channel>
+<name>[COLOR deepskyblue] https://www.facebook.com/groups/projectiptvtiger/ [/COLOR]</name>
+<thumbnail>http://icons.iconarchive.com/icons/hopstarter/rounded-square/256/Social-Network-Facebook-icon.png</thumbnail>
+<externallink>http://youtube.com</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+     
+<layouttype></layouttype>
+ 
+<channels>
+ 
+</channels><channel>
+<name>[COLOR blue] TEST [COLOR chartreuse]MIX WORLD CHANNELS [/COLOR]</name>
+<thumbnail>http://files.softicons.com/download/web-icons/europe-flags-icons-by-studiotwentyeight/png/256/Portugal.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/mix%20world%20playlist.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+     
+<layouttype></layouttype>
+ 
+
+
+
+<channel>
+      <name>[COLOR yellow][COLOR  yellow] * [/COLOR][/COLOR][COLOR blue]J[/COLOR][COLOR yellow]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow][COLOR  yellow] MAster  [/COLOR] Tecnotv[/COLOR]</name>
+  <thumbnail>https://4.bp.blogspot.com/-vrPCE-U3qLE/WJ6xgdtKaRI/AAAAAAAAAOg/SxOHXb4uHSwtNU73Elgv-TlxnYdfvfGzwCLcB/s1600/descarga.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-jxVIDvVkcfY/WJ-hGj2zTZI/AAAAAAAAACg/eDGFCNNgfjkOX_JpMhW6Rns5lCgqlmIugCLcB/s1600/cubos-digitales-3d-hd-870.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://tecnotv.info/kodi/addon.xml</externallink>
+</channel>
+ 
+
+<layouttype></layouttype>
+
+<channels>
+ 
+<channel>
+<name>[COLOR blue] FILMES [HQ] [/COLOR]</name>
+<thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/filmes.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel> 
+
+<layouttype></layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR blue] RADIOS PT [/COLOR]</name>
+<thumbnail>http://www.freeiconspng.com/uploads/radio-multimedia-icon-png-2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/radios.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel>
+
+<layouttype></layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR blue] CAMERAS PT [/COLOR]</name>
+<thumbnail>http://files.softicons.com/download/web-icons/europe-flags-icons-by-studiotwentyeight/png/256/Portugal.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/cameras.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel> 
+
+<layouttype></layouttype>
+ 
+<channels>
+
+<channel>
+<name>[COLOR blue] CANAIS MUSICA [/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-sP2XOJ2xksCi9thcY0fIpR-Hye7-BKmn6z9oSE5Z_YLhYeQ9</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/canais-de-muisca.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel> 
+
+<layouttype></layouttype>
+ 
+<channels>
+
+<channel>
+<name>[COLOR yellow] Mercury Addon [/COLOR]</name>
+<thumbnail>http://www.mercuryeng.com/ie/wp-content/uploads/sites/4/2014/01/Official-Logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/antoniovsc/supermundo_tuga.xml/master/tuga.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel>

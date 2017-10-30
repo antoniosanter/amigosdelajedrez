@@ -25,13 +25,7 @@
 </regex>
 </item>
 
-<channel>
-      <name>[COLOR yellow][COLOR  yellow] * [/COLOR][/COLOR][COLOR blue]J[/COLOR][COLOR yellow]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow][COLOR  yellow] MAster  [/COLOR] Tecnotv[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-vrPCE-U3qLE/WJ6xgdtKaRI/AAAAAAAAAOg/SxOHXb4uHSwtNU73Elgv-TlxnYdfvfGzwCLcB/s1600/descarga.png</thumbnail>
-<fanart>https://4.bp.blogspot.com/-jxVIDvVkcfY/WJ-hGj2zTZI/AAAAAAAAACg/eDGFCNNgfjkOX_JpMhW6Rns5lCgqlmIugCLcB/s1600/cubos-digitales-3d-hd-870.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://tecnotv.info/kodi/addon.xml</externallink>
-</channel>
+
 
 <item> 
 <title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TDT [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
@@ -99,4 +93,10 @@
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu.xml</externallink>
 </item>
 
-<
+<item> 
+<title>[COLOR pink][COLOR pink]-[/COLOR]prueba channels</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.imgur.com/1TwVNmL.jpg</thumbnail>
+<fanart>https://i.imgur.com/1TwVNmL.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu_prueba.xml</externallink>	
+</item> 
