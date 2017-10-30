@@ -5,8 +5,19 @@
 <urlsolve></urlsolve>
 </item>
 
+
 <item>
-<title>[COLOR turquoise]Todos los Canales de /[COLOR yellow]CINESTRENOSTV[/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR lime] LOS MEJORES SERVIDORES IP[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR turquoise]CINESTRENOSTV[/COLOR]</title>
 <thumbnail>http://website.informer.com/thumbnails/280x202/c/cinestrenostv.tv.png</thumbnail>
 <fanart>http://website.informer.com/thumbnails/280x202/c/cinestrenostv.tv.png</fanart>
 <link>$doregex[makelist]</link>
@@ -37,7 +48,7 @@
 
 
 <item> 
-<title>[COLOR yellow]_**_  [/COLOR][COLOR  skyblue] TDT [/COLOR][COLOR yellow]  _**_[/COLOR]</title>
+<title>[COLOR  skyblue] TDT [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/1TwVNmL.jpg</thumbnail>
 <fanart>https://i.imgur.com/1TwVNmL.jpg</fanart>
@@ -46,7 +57,7 @@
 
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR yellow][B]MOVISTAR+ [/B] [/COLOR][COLOR Red][I]SportsDevil Addon Requerido[/I][/COLOR]</title>
+<title> [COLOR lime]MOVISTAR+ [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
