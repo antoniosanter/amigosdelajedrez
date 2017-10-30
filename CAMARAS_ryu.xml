@@ -49,7 +49,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.skylinewebcams.com[li
 </regex>
 <thumbnail>http://www.linkupinternet.com.ar/linkup2/wp-content/uploads/2017/03/3.jpg</thumbnail>
 <fanart>http://www.masingenieros.com/wp-content/uploads/2014/12/avion-despegando-de-la-pista-en-el-aeropuerto.jpg</fanart>
-</tem> 
+</em> 
 
 
 
@@ -1181,35 +1181,41 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.skylinewebcams.com[li
  
 
 <item>
-<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Cádiz[/COLOR][COLOR white] Puente de la Constitución de 1812/1[/COLOR] 
-</title><link>plugin://plugin.video.youtube/play/?video_id=krIypJ2MEBU</link>
+<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]NASA[/COLOR][COLOR white] Estación Espacial[/COLOR] 
+</title><link>plugin://plugin.video.youtube/play/?video_id=RtU_mdL2vBM</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Cádiz[/COLOR][COLOR white] Puente de la Constitución de 1812/2[/COLOR] </title>
-<link>plugin://plugin.video.youtube/play/?video_id=7D7bVqypm74</link>
+<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]China[/COLOR][COLOR white] Shibuya scramble crossing[/COLOR] </title>
+<link>plugin://plugin.video.youtube/play/?video_id=_9pavMzUY-c</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-<item><title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Cádiz[/COLOR][COLOR white] Puente de la Constitución de 1812/3[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=KFsFWLeIBfQ</link>
+<item><title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Holanda[/COLOR][COLOR white] Amsterdam[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZMQFsNqGavU</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Cádiz[/COLOR][COLOR white]  Plaza de Sevilla[/COLOR] </title>
-<link>plugin://plugin.video.youtube/play/?video_id=jFELUgq46WA</link>
+<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Venecia[/COLOR][COLOR white]  Puente Rialto[/COLOR] </title>
+<link>plugin://plugin.video.youtube/play/?video_id=vPbQcM4k1Ys</link>
+<thumbnail></thumbnail>
+<fanart></fanart></item>
+
+<item>
+<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Cataluña[/COLOR][COLOR white]  Ajuntament de Reus[/COLOR] </title>
+<link>plugin://plugin.video.youtube/play/?video_id=cfmiNyneO88</link>
 <thumbnail></thumbnail>
 <fanart></fanart></item>
 
    
 <item>
-<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Cádiz[/COLOR][COLOR white]  Puente Carranza[/COLOR] </title>
-<link>plugin://plugin.video.youtube/play/?video_id=c3FDiVe2egU</link>
+<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]The Northern Lights[/COLOR][COLOR white]  AURORA BOREAL[/COLOR] </title>
+<link>plugin://plugin.video.youtube/play/?video_id=ALy14pSe8XE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
