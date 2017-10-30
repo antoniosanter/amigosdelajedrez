@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][COLOR lime]*[/COLOR]CANALES TV </title>        
+<title>[COLOR yellow][COLOR lime]*[/COLOR]LOS MEJORES SERVIDORES IP DEL MOMENTO </title>        
 <urlsolve></urlsolve>
-</item>
-
-<item>
-<title>[COLOR turquoise]Todos los Canales de /[COLOR yellow]CINESTRENOSTV[/COLOR]</title>
-<thumbnail>http://website.informer.com/thumbnails/280x202/c/cinestrenostv.tv.png</thumbnail>
-<fanart>http://website.informer.com/thumbnails/280x202/c/cinestrenostv.tv.png</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<sportsdevil>http://cinestrenostv.tv/canales/[makelist.param1]</sportsdevil>
-<referer></referer>
-<thumbnail>[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
-<page>http://cinestrenostv.tv/canales/</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
 </item>
 
 
@@ -42,7 +22,7 @@
 <name>makelist2</name>
 <listrepeat><![CDATA[
    <title>[makelist2.param1]</title>
-   <link>plugin://plugin.video.f4mTester/?url=$doregex[getUrl]&amp;streamtype=TSDOWNLOADER&amp;name=JHG [makelist2.param1]&amp;maxbitrate=0&amp;Buffer=20971520</link>
+   <link>plugin://plugin.video.f4mTester/?url=$doregex[getUrl]&amp;streamtype=TSDOWNLOADER&amp;name=RYU [makelist2.param1]&amp;maxbitrate=0&amp;Buffer=20971520</link>
 ]]></listrepeat>
 <expres><![CDATA["\d+.{3}(.*?)\s\[.+?\](http.*?)"]]></expres>
 <page>[makelist.param1]?get=download_m3u8</page>
@@ -80,7 +60,7 @@
 
 
 <item>
-<title>[COLOR red][/COLOR][COLOR RED][B]Server JHG[/B] [/COLOR][COLOR white ][I] MASTER[/I][/COLOR]</title>
+<title>[COLOR red][/COLOR][COLOR RED][B]Server RYU[/B] [/COLOR][COLOR white ][I] M3ULISTE[/I][/COLOR]</title>
  EXYU[/I][/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail><fanart>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</fanart>
 <link>$doregex[makelist]</link>
@@ -153,23 +133,7 @@
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
-
-
-
-
-
-
-
-
-
-
-<item><title>[COLOR red] Ryu Server 2 [/COLOR](ESPAÑA) </title><link>http://Ignoreme</link><externallink>http://192.99.149.20:8080/get.php?username=grspan&amp;password=sxlk2slkx&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>.JHG.MASTER 5 </title><link>http://Ignoreme</link><externallink>http://149.56.240.30:25461/get.php?username=EAS12&amp;password=1111&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-
-
-
-
-                                                                                                                                                                               
+                                                                                                                                                                         
 
 
 
@@ -177,7 +141,7 @@
 
 
 <item>
-<title>[B][COLOR green] JHG[COLOR blue] Daily updates[COLOR blue] Servers[COLOR green][/COLOR][/B]</title> 
+<title>[B][COLOR green] RYU[COLOR blue] Daily updates[COLOR blue] Servers[COLOR green][/COLOR][/B]</title> 
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
