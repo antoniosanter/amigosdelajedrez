@@ -1207,6 +1207,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.skylinewebcams.com[li
 <fanart></fanart></item>
 
 <item>
+<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]The Northern Lights[/COLOR][COLOR white]  AURORA BOREAL[/COLOR] </title>
+<link>plugin://plugin.video.youtube/play/?video_id=ALy14pSe8XE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Cataluña[/COLOR][COLOR white]  Ajuntament de Reus[/COLOR] </title>
 <link>plugin://plugin.video.youtube/play/?video_id=cfmiNyneO88</link>
 <thumbnail></thumbnail>
@@ -1214,8 +1221,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url = 'https://www.skylinewebcams.com[li
 
    
 <item>
-<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]The Northern Lights[/COLOR][COLOR white]  AURORA BOREAL[/COLOR] </title>
-<link>plugin://plugin.video.youtube/play/?video_id=ALy14pSe8XE</link>
+<title>[COLOR red]CAMARAS[/COLOR]  [COLOR white]Cadiz[/COLOR][COLOR white]  Plaza de Sevilla[/COLOR] </title>
+<link>plugin://plugin.video.youtube/play/?video_id=jFELUgq46WA</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
