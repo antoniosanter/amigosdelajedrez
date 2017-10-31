@@ -7,7 +7,7 @@
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/fg952Jr.jpg</fanart>
 </item>
-plugin://script.chess-master/   
+ 
 <item>
 <title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
 <link>$doregex[makelist]</link>
