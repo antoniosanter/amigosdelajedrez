@@ -230,7 +230,7 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 </regex>
 </item>
  
-<item>
+<tem>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
@@ -497,12 +497,12 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>
  
  
-<item>
+<tem>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
-<item>
+<tem>
  
 <title>adryanlist.org/adryan/servers.txt</title>
  
@@ -566,12 +566,12 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>
  
  
-<item>
+<tem>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
-<item>
+<tem>
 <title>TESTE GOOGLE DRIVE</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -607,6 +607,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>fui.me</link>
 </item>
  
-<item><title>[B][COLOR lawngreen]• [B][COLOR white]TESTE ustreamix.com (Sports Devil)[/B][/COLOR]</title>
+<tem><title>[B][COLOR lawngreen]• [B][COLOR white]TESTE ustreamix.com (Sports Devil)[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://v2.ustreamix.com/stream.php?id=benfica-tv-alternative-2</link>
 <thumbnail>http://i.imgur.com/Frawzcq.png</thumbnail></item>
