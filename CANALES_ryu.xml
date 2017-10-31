@@ -173,37 +173,25 @@
 </item>
 
 <item>
-<title>TEST URLSOLVE</title>
-<urlsolve></urlsolve>
-</item>
+<title>[COLOR red]==============================[/COLOR]</title>
+<link>fui.me</link>
  
-<item>
-<title>TEST LINK</title>
-<link></link>
-</item>
-<item>
- 
-<item>
-<title>TEST RTMP</title>
-<link></link>
-</item>
- 
-<item>
+<tem>
 <title>TEST F4M</title>
 <link>plugin://plugin.video.f4mTester/?url=rtp://@239.0.0.253:8208;streamtype=TSDOWNLOADER&amp;name=</link>
 </item>
  
-<item>
+<tem>
 <title>TEST SPORTS DEVIL</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=</link>
 </item>
  
-<item>
+<tem>
 <title>TEST PLEXUS</title>
 <link>plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=acestream</link>
 </item>
  
-<item>
+<tem>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
  
