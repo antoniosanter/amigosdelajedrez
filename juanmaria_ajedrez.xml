@@ -3,7 +3,7 @@
 <item>
 <title>[COLOR lime]JUEGA AL AJEDREZ[/COLOR]-[COLOR yellow](NUEVO)[/COLOR]</title>
 <link>http://Ignoreme</link>
-<jsonrpc>https://github.com/tomcss/script.chess</jsonrpc>
+<jsonrpc>plugin://script.chess-master/</jsonrpc>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/fg952Jr.jpg</fanart>
 </item>
