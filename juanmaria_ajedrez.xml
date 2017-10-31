@@ -3,11 +3,11 @@
 <item>
 <title>[COLOR lime]JUEGA AL AJEDREZ[/COLOR]-[COLOR yellow](NUEVO)[/COLOR]</title>
 <link>http://Ignoreme</link>
-<jsonrpc>plugin://script.chess-master/</jsonrpc>
-<thumbnail>https://i.imgur.com/fg952Jr.jpg</thumbnail>
+<jsonrpc>https://github.com/tomcss/script.chess</jsonrpc>
+<thumbnail></thumbnail>
 <fanart>https://i.imgur.com/fg952Jr.jpg</fanart>
 </item>
-
+plugin://script.chess-master/   
 <item>
 <title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
 <link>$doregex[makelist]</link>
