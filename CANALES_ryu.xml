@@ -235,7 +235,7 @@ def GetLSProData(page_data,Cookie_Jar,m,):
 <link>fui.me</link>
 </item>
  
-<item>
+<tem>
 <title>http://vizer.tv: Canais do Brasil</title>
 <link>$doregex[makelist]</link>
 <regex>
