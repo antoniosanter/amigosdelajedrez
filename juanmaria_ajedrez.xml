@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]JUEGA AL AJEDREZ[/COLOR]-[COLOR yellow](NUEVO)[/COLOR]</title>
+<title>[COLOR lime]JUEGA AL AJEDREZ[/COLOR]-[COLOR yellow](NUEVO EN DESARROLLO)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://script.chess-master/</jsonrpc>
 <thumbnail></thumbnail>
@@ -65,6 +65,96 @@
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
 <page>https://www.youtube.com/playlist?list=PLkbsl4O-vq6dVHzmRdy41mDzEVRu8ZAPK</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]APERTURAS </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLXed0OxaIld1w7je9i8YbSpb7mJhnC7dS</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]LOS 1000 PATRONES DE AJEDREZ </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLm0Myxq_EKsbCj9f45VG5-pgQkjMvbwV5</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]LAS MEJORES PARTIDAS DE AJEDREZ </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLm0Myxq_EKsbXacaL1EyPBgMhjTB90o6D</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]APRENDE AJEDREZ CON MIGUEL ILLESCAS EN 90 MINUTOS </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLdA4uTV7BPzE4z-q_lhNHhSWQvQ3dCCEQ</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]EDAMI - Escuela de Ajedrez "Miguel Illescas" </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLdA4uTV7BPzGcg_3HSg_4HXFKfXwEGQb1</page>
+</regex>
+<thumbthumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 FINALES QUE HAY QUE SABER de JESUS DE LA VILLA" </title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=PLiG7BQm59kzfwsO2BDjG17zLqnq8W9_id</page>
 </regex>
 <thumbthumbnail></thumbnail>
 </item>
