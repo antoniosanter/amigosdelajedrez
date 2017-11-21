@@ -55,7 +55,7 @@
         <thumbnail>https://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/gemma-valencia/stranger-things-t1-castellano-46453</page>
+<page>http://diskokosmiko.mx/FLAYSINA/stranger-things-37333</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -73,12 +73,91 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/gemma-valencia/stranger-things-t1-castellano-46453</referer>
+<referer>http://diskokosmiko.mx/FLAYSINA/stranger-things-37333</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>http://thenerdstash.com/wp-content/uploads/2016/08/Stranger-Things-Drawing.jpg</thumbnail>
-<fanart>http://i.lv3.hbo.com/assets/images/series/westworld/character/man-in-black-1920.jpg</fanart>
+<fanart>https://images7.alphacoders.com/726/thumb-1920-726772.jpg</fanart>
+</item>
+</items>
+</channel>
+
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]STRANGER THINGS T2(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/gemma-valencia/stranger-things-t2-castellano-90983</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/gemma-valencia/stranger-things-t2-castellano-90983</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://thenerdstash.com/wp-content/uploads/2016/08/Stranger-Things-Drawing.jpg</thumbnail>
+<fanart>https://images7.alphacoders.com/726/thumb-1920-726772.jpg</fanart>
+</item>
+</items>
+</channel>
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]NARCOS(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>https://cdnb.20m.es/sites/140/2015/11/narcos-202x300.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/fraguas-fraguas/narcos-49630</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/fraguas-fraguas/narcos-49630</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdnb.20m.es/sites/140/2015/11/narcos-202x300.jpg</thumbnail>
+<fanart>https://isopixel.net/subidas/2016/06/Narcos-3-768x432.jpg</fanart>
 </item>
 </items>
 </channel>
