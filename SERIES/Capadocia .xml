@@ -13,7 +13,7 @@
 <thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MSRJ/capadocia-2008-2012-82464/list,1,2</page>
+<page>http://diskokosmiko.mx/INTERALIOS/capadocia-1-temporada-5146</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -31,7 +31,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MSRJ/capadocia-2008-2012-82464/list,1,2</referer>
+<referer>http://diskokosmiko.mx/INTERALIOS/capadocia-1-temporada-5146</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
