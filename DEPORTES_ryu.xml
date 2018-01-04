@@ -54,6 +54,22 @@
 </item>
 
 <item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 16[/COLOR] --</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://elgoles.ru/canal-1/</page>
+<referer>http://elgoles.ru/</referer>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+
+<item>
 <title>ESGOLES </title>
 <link>$doregex[makelist]</link>
 <regex>
