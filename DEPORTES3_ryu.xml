@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<item>
+<title>[COLOR orange] Multi Canales[/COLOR] [COLOR cyan]Eventos[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen][makelist2.param3] [COLOR red] [makelist2.param1][/COLOR]   [/COLOR]</title>
+<link>http://195.154.169.233/hls/pub1/$doregex[channel].m3u8?tok=$doregex[tok]</link>
+<regex>
+<name>tok</name>
+<expres>'(.*)'</expres>
+<page>http://www.xeevo.net/arse.js</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+</regex>
+<regex>
+<name>channel</name>
+<expres>pub1-(.*?)"</expres>
+<page>http://live-sports-stream.net/embed/video.php?channel=$doregex[ch]</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+</regex>
+<regex>
+<name>ch</name>
+<expres>channel=(.*?)"</expres>
+<page>$doregex[canal]</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+</regex>
+<regex>
+<name>canal</name>
+<expres>iframe[\w\W\s]{0,2}src="(.*?)"</expres>
+<page>[makelist2.param2]</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+</regex>
+<thumbnail>https://1.bp.blogspot.com/-HN5mftXzgvk/WSSIjCIZppI/AAAAAAAAByE/_kw8hVTFsTsQ7LOTDexBCfPrbyI6YQvVgCLcB/s1600/deportes.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-5QaB5l-Jk48/WSR6ntbqhHI/AAAAAAAABxk/cDeaHSQHIocoV4JJ4VpsbMtMxX8fD3_bgCLcB/s1600/flixtv.jpg</fanart>
+ 
+]]></listrepeat>
+<expres><![CDATA[title="Watch(.*?)Live[\w\W\s]{0,10}href="(.*?)"[\w\W\s]{0,210}match-date">(.*?)GMT]]></expres>
+<page>http://barcelonastream.com/live/</page>
+<cookieJar></cookieJar>
+<thumbnail>https://1.bp.blogspot.com/-HN5mftXzgvk/WSSIjCIZppI/AAAAAAAAByE/_kw8hVTFsTsQ7LOTDexBCfPrbyI6YQvVgCLcB/s1600/deportes.jpg</thumbnail>
+<fanart>https://4.bp.blogspot.com/-5QaB5l-Jk48/WSR6ntbqhHI/AAAAAAAABxk/cDeaHSQHIocoV4JJ4VpsbMtMxX8fD3_bgCLcB/s1600/flixtv.jpg</fanart>
+</regex>
+</item>
+ 
+ 
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] -- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 1[/COLOR] --</title>
+<link>$doregex[bro.adca.st]</link>
+<regex>
+<name>bro.adca.st</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=15129&p=1&c=0&stretching=uniform&old=0'):
+ import requests, re, urllib
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
+ headers['Referer'] = 'http://maxdeportv.net/indexa.php?canal=19'
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
+ m3u8 = m3u8.decode('base64')
+ tokenpage = re.findall('nws1 = "(.+?)"', source.text)[0]
+ headers['Referer'] = url
+ headers['X-Requested-With'] = 'XMLHttpRequest'
+ headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
+ headers['Accept-Language'] = 'en-US,en;q=0.5'
+ source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
+ m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
+ return m3u8
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 2[/COLOR] --</title>
+<link>$doregex[bro.adca.st]</link>
+<regex>
+<name>bro.adca.st</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=13137&p=1&c=0&stretching=uniform&old=0'):
+ import requests, re, urllib
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
+ headers['Referer'] = 'http://maxdeportv.net/indexa.php?canal=42b'
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
+ m3u8 = m3u8.decode('base64')
+ tokenpage = re.findall('nws1 = "(.+?)"', source.text)[0]
+ headers['Referer'] = url
+ headers['X-Requested-With'] = 'XMLHttpRequest'
+ headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
+ headers['Accept-Language'] = 'en-US,en;q=0.5'
+ source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
+ m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
+ return m3u8
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] -- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 3[/COLOR] --</title>
+ <link>$doregex[bro.adca.st]</link>
+<regex>
+<name>bro.adca.st</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=13137&p=1&c=0&stretching=uniform&old=0'):
+ import requests, re, urllib
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
+ headers['Referer'] = 'http://vipracing.info/channel/canal-2'
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
+ m3u8 = m3u8.decode('base64')
+ tokenpage = re.findall('nws1 = "(.+?)"', source.text)[0]
+ headers['Referer'] = url
+ headers['X-Requested-With'] = 'XMLHttpRequest'
+ headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
+ headers['Accept-Language'] = 'en-US,en;q=0.5'
+ source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
+ m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
+ return m3u8
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] -- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 4[/COLOR] --</title>
+<link>$doregex[get-id]</link>
+<regex>
+<name>get-id</name>
+<expres>file:"(.*?)"</expres>
+<page>http://widestream.io/embed-7230</page>
+</regex>
+<thumbnail>http://cdn7.staztic.com/app/a/2294/2294753/multideportes-online-3-0-s-307x512.jpg</thumbnail>
+<fanart>http://www.mundoescolar.com/fotosoferta/17599731402-1.jpg</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] -- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 5[/COLOR] --</title>
+<link>$doregex[get-id]</link>
+<regex>
+<name>get-id</name>
+<expres>file:"(.*?)"</expres>
+<page>http://widestream.io/embed-7231</page>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] -- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 6[/COLOR] --</title>
+<link>$doregex[rtmp] playpath=$doregex[canal]_$doregex[playpath]$doregex[playpath2] swfUrl=http://p.castamp.com/cplayer.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</link>
+ 
+<regex>
+<name>canal</name>   
+<expres>channel="(.*?)";</expres>    
+<page>http://zonasports.be/channel.php?id=1</page>
+</regex>
+   
+<regex>
+<name>it</name>  
+<expres>Agent:"(.*?)";</expres>  
+<page>http://adryanlist.org/adryan/fuckit.php</page>
+</regex>
+ 
+<regex>
+<name>rtmp</name>
+<expres>.*(?![^"']+50.7.118.3)(?![^"']+50.7.128.2)(rtmp:[^"']+)</expres>
+<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</page>
+ <referer>http://zonasports.be/</referer>
+</regex>
+ 
+<regex>
+<name>playpath</name>
+<expres>fuifa.*?_(.*?)'</expres>
+<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</page>
+ <referer>http://zonasports.be/</referer>
+</regex>
+<regex>
+<name>playpath2</name>
+<expres>fuifa.*?unescape.*?'(.*?)'\W</expres>
+<page>http://www.castamp.com/embed.php?c=$doregex[canal]&amp;tk=$doregex[it]&amp;vwidth=680&amp;vheight=440</page>
+ <referer>http://zonasports.be/</referer>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+ 
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] -- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 7[/COLOR] --</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.publish247.xyz:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.247bay.tv/membedplayer/zonas1/2/750/420</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.247bay.tv</referer>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]--[COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 8[/COLOR] --</title>
+<link>$doregex[bro.adca.st]</link>
+<regex>
+<name>bro.adca.st</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://bro.adca.st/stream.php?id=2598&p=1&c=0&stretching=uniform&old=0'):
+ import requests, re, urllib
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:52.0) Gecko/20100101 Firefox/52.0'}
+ headers['Referer'] = 'http://tv1.kozreload.me/'
+ source = requests.get(url, headers=headers)
+ m3u8 = re.findall('trap = "(.+?)"', source.text)[0]
+ m3u8 = m3u8.decode('base64')
+ tokenpage = re.findall('nws1 = "(.+?)"', source.text)[0]
+ headers['Referer'] = url
+ headers['X-Requested-With'] = 'XMLHttpRequest'
+ headers['Accept'] = 'application/json, text/javascript, */*; q=0.01'
+ headers['Accept-Language'] = 'en-US,en;q=0.5'
+ source = requests.get('http://bro.adca.st/%s'%tokenpage, headers=headers)
+ m3u8 = m3u8 + re.findall(':"(.+?)"', source.text)[0] + '|User-Agent=%s&Referer=http://bro.adca.st/&Origin=http://bro.adca.st'%headers['User-Agent']
+ return m3u8
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 9[/COLOR] --</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://revolucionariostv.eu/elitegol/Repros/c1.php</page>
+<referer>http://revolucionariostv.eu/elitegol/Repros/c1.php</referer>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] --[COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 10[/COLOR] --</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.publish247.xyz:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.247bay.tv/membedplayer/qwert1/2/750/420</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.247bay.tv</referer>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] ** [COLOR lime]MultiDeportes[/COLOR][COLOR yellow] Canal 11[/COLOR] **</title>
+<link>http://edge13.verliga1.pw/live/verliga1/index.m3u8|User-Agent=iPad&amp;Referer=http://verliga.net/live/verliga11.php</link>
+<thumbnail>http://cdn7.staztic.com/app/a/2294/2294753/multideportes-online-3-0-s-307x512.jpg</thumbnail>
+<fanart>http://www.mundoescolar.com/fotosoferta/17599731402-1.jpg</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] -- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 12[/COLOR] --</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://verliga.net/live/verliga1.php</page>
+<referer>http://www.verliga.net/verliga.html</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 13[/COLOR] --</title>
+<link>$doregex[get-id]|User-Agent=iPad</link>
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<page>http://www.livesports.pw/embed.php?file=titosport</page>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]** [COLOR lime]MultiDeportes[/COLOR][COLOR yellow] Canal 14[/COLOR] **</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av5</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+ 
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 15[/COLOR] --</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av6</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+ 
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 16[/COLOR] --</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://elgoles.ru/canal-1/</page>
+<referer>http://elgoles.ru/</referer>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 17[/COLOR] --</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://elgoles.ru/canal-2/</page>
+<referer>http://elgoles.ru/</referer>
+<Agent>Mozilla</Agent>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+   
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 18[/COLOR] --</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
+<regex>
+<name>hash</name>
+<expres>torrentstream.org\/embed\/(.*?)"</expres>
+<page>http://freelive365.com/tv/ace/es/beinliga.php</page>
+<referer>http://freelive365.com/</referer>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+   
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] --[COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 19[/COLOR] --</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av26</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+   
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]--[COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 20[/COLOR] --</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
+<regex>
+<name>hash</name>
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av27</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
+ 
+<item>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ] -- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 21[/COLOR] --</title>
+<link>rtmp://$doregex[get_ip]/live?$doregex[get_key] app=live?$doregex[get_key] playpath=live_psn$doregex[get_channel]  swfUrl=http://vaughnlive.tv/psn$doregex[get_channel] pageUrl=http://vaughnlive.tv/psn$doregex[get_channel]  live=true</link>
+<regex>
+<name>get_ip</name>
+<expres>([^;]*?);:</expres>    
+<page>http://mvn.vaughnsoft.net/video/edge/soon__depricated_Q2_2017-live_psn$doregex[get_channel]-true?0.1.1.791_124-124-0.3246205379255116</page>                              
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>get_key</name>
+<expres>mvnkey-(.*?);</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/soon__depricated_Q2_2017-live_psn$doregex[get_channel]-true?0.1.1.791_124-124-0.3246205379255116</page>                              
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>get_key2</name>
+<expres>;.*;(.*?)</expres>  
+<page>http://mvn.vaughnsoft.net/video/edge/soon__depricated_Q2_2017-live_psn$doregex[get_channel]-true?0.1.1.791_124-124-0.3246205379255116</page>                              
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>get_channel</name>
+<expres>a href="/psn(.*?)"[\w\W\s]{0,22}browseTxt</expres>    
+<page>http://vaughnlive.tv/browse/espanol</page>                            
+<referer>http://vaughnlive.tv/</referer>
+<connection>keep-alive</connection>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<accept>Accept-Encoding=gzip,deflate,text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8</accept>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://deportes.guijuelo.es/wp-content/uploads/2014/09/CARTEL-2.jpg</thumbnail>
+<fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
+</item>
