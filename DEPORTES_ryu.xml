@@ -25,7 +25,7 @@
 <fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR blue][B] AGENDA ACESOPLISTING [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -54,7 +54,7 @@
 </item>
 
 
-<item>
+item>
 <title>[COLOR brown][B] DEPORTES KIEFLIX POR RYU [/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -64,12 +64,12 @@
 
 
 <item>
-<title>[ [COLOR orange]yan[/COLOR][COLOR blue]kieflix[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 16[/COLOR] --</title>
+<title>[ [COLOR orange]yan[/COLOR][COLOR blue]PRUEBA[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 16[/COLOR] --</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://elgoles.ru/11-2/</page>
+<page>http://elgoles.ru/1-2/</page>
 <referer>http://elgoles.ru/</referer>
 <Agent>Mozilla</Agent>
 <referer>http://www.arenavision.in</referer>
@@ -91,7 +91,7 @@
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
 			<page>http://elgoles.ru/[makelist.param1]/</page>
-			<referer>http://elgoles.ru/</referer>
+			<referer>http://elgoles.ru/1-2/</referer>
 			<Agent>Mozilla</Agent>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
