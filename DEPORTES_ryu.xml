@@ -69,7 +69,7 @@
 <regex>
 <name>hash</name>
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://elgoles.ru/canal-1/</page>
+<page>http://elgoles.ru/11-2/</page>
 <referer>http://elgoles.ru/</referer>
 <Agent>Mozilla</Agent>
 <referer>http://www.arenavision.in</referer>
