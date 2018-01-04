@@ -64,7 +64,7 @@
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://elgoles.ru/1-2[makelist.param1]/</page>
+			<page>http://elgoles.ru/[makelist.param1]/</page>
 			<referer>http://elgoles.ru/</referer>
 			<Agent>Mozilla</Agent>
 <referer>http://www.arenavision.in</referer>
