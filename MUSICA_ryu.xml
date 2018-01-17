@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR red][COLOR lime]*[/COLOR]La Bejazz</title>
+<link>$doregex[makelist]</link>
+<regex><name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
+<page>https://www.youtube.com/playlist?list=LLpaJgg86XLvewufGSSHK7pw</page>
+</regex>
+<thumbthumbnail>https://thumbs.dreamstime.com/z/guitarra-cascada-y-flores-el-concepto-de-m%C3%BAsica-de-la-naturaleza-ilustraci%C3%B3n-90136533.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R2nmjD0HgPc/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR red][COLOR lime]*[/COLOR]La Mejor Música Jazz </title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
