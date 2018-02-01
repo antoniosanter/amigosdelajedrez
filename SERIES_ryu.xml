@@ -5,6 +5,47 @@
 <urlsolve>url</urlsolve>
 </item>
 
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]LA PESTE(SERIE)</title>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>Ryu==[makelist.param3]</title>
+        <link>$doregex[getUrl]</link>
+        <thumbnail>http://www.formulatv.com/images/fgaleria/59300/59336_primer-cartel-la-peste-serie-original-movistar-plus.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/juadacu/la-peste-t1-100757</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/juadacu/la-peste-t1-100757</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.formulatv.com/images/fgaleria/59300/59336_primer-cartel-la-peste-serie-original-movistar-plus.jpg</thumbnail>
+<fanart>http://www.concienciacultural.com/wp-content/uploads/2017/08/La-Peste.jpg</fanart>
+</item>
+</items>
+</channel>
+
+
 <item>
 <title>[COLOR red][COLOR  red]*[/COLOR]PRISION BREAK(SERIE)</title>
 <link>$doregex[makelist]</link>
