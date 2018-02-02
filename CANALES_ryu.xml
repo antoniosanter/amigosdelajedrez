@@ -7,6 +7,13 @@
 
 
 <item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]LOCALES [/B] [/COLOR][COLOR lightblue][I]  [/I][/COLOR]</title>
+<link>NA</link>
+<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/localesesp.xml</externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]IPTV Ultra[/COLOR]  [COLOR red] RYU [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
