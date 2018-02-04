@@ -1,0 +1,4 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="BEIN LALIGA 1HD H265",BEIN LALIGA 1HD H265
+<urlsolve>http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/10998.ts</urlsolve>
