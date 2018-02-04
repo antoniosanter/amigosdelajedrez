@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][COLOR lime]*[/COLOR]ESPECIAL FIN DE SEMANA </title>        
+<title>[COLOR yellow][COLOR lime]*[/COLOR]ESPECIAL FUTBOL FIN DE SEMANA BEIN LA LIGA HD</title>        
 <link>http://Ignoreme</link>
 <thumbnail>https://i.imgur.com/1TwVNmL.jpg</thumbnail>
 <fanart>https://i.imgur.com/1TwVNmL.jpg</fanart>
-<externallink>https://pastebin.com/raw/Wi7DU0QP</externallink>	
+<externallink>https://pastebin.com/raw/Wi7DU0QP</externallink>
+http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/10998.ts	
 </item> 
 
 <item>
@@ -70,7 +71,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[ [COLOR orange]yan[/COLOR][COLOR blue]PRUEBA[/COLOR][COLOR orange][/COLOR] ]-- [COLOR red]MultiDeportes[/COLOR][COLOR yellow] Canal 16[/COLOR] --</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=MultiDeportes</link>
 <regex>
@@ -86,7 +87,7 @@ item>
 <fanart>http://www.iesandresbenitez.es/documentos/curso%201314/multideportes/multide.png</fanart>
 </item>
 
-<item>
+item>
 <title>ESGOLES </title>
 <link>$doregex[makelist]</link>
 <regex>
