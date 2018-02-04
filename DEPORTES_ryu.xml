@@ -13,38 +13,7 @@ item>
 <externallink>https://pastebin.com/raw/Wi7DU0QP</externallink>
 </item> 
 
-<item>
-<title>[COLOR yellow]Bein Sports La Liga (Opción 1)[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page><cookieJar></cookieJar></regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
-
-<item>
-<title>[COLOR yellow] Bein Sports[/COLOR]</title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinsport&width=650&height=397</page><cookieJar></cookieJar></regex>
-<thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow]La Liga Tv[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=barliga&width=650&height=397</page><cookieJar></cookieJar></regex>
-<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR yellow] La Liga 123[/COLOR] </title>
-<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
-<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres>
-<page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
-<fanart></fanart>
-</item>
 
 item>
 <title>[COLOR brown][B] DEPORTES ARENAVISION POR RYU [/B][/COLOR]</title>
@@ -98,6 +67,38 @@ item>
 <fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR yellow]Bein Sports La Liga (Opción 1)[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page><cookieJar></cookieJar></regex>
+<thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow] Bein Sports[/COLOR]</title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinsport&width=650&height=397</page><cookieJar></cookieJar></regex>
+<thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow]La Liga Tv[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=barliga&width=650&height=397</page><cookieJar></cookieJar></regex>
+<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR yellow] La Liga 123[/COLOR] </title>
+<link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
+<regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres>
+<page>http://livesports.pw/embed.php?file=ligaunodostres&width=650&height=397</page><cookieJar></cookieJar></regex><thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+<fanart></fanart>
+</item>
 
 item>
 <title>[COLOR brown][B] DEPORTES KIEFLIX POR RYU [/B][/COLOR]</title>
