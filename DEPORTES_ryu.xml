@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
- <item>
-<title>[COLOR red][COLOR red]-[/COLOR]ESPECIAL DE LA SEMANA</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/10998.ts</externallink>
+<item>
+<title>[COLOR yellow][COLOR lime]*[/COLOR]ESPECIAL FIN DE SEMANA </title>        
+<urlsolve>http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/10998.ts</urlsolve>
 </item>
- 
+
 <item>
 <title>[COLOR brown][B] DEPORTES ARENAVISION POR RYU [/B][/COLOR]</title>
 <thumbnail></thumbnail>
