@@ -31,7 +31,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR grey][B]CANALES DEPORTIVOS NUEVA ARENAVISION [/B][/COLOR]</title>
+<title>[COLOR grey][B]CANALES DEPORTIVOS NUEVA ARENAVISION PRUEBAS [/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -39,7 +39,15 @@ item>
 </item>
 
 <item>
-<title>[COLOR red][B] AGENDA ARENAVISION [/B][/COLOR]</title>
+<title>[COLOR red][B] MAS [COLOR skyblue][B] FUTBOL [COLOR lime][B] GRATIS[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.plexus-streams/?iconimage=C%3a%5cUsers%5cTeco%5cAppData%5cRoaming%5cKato%5caddons%5cplugin.video.plexus-streams%5cresources%5ccore%5cparsers%5clivefootballvideo%5cicon.png&amp;mode=401&amp;name=Livefootballvideo.com&amp;parser=livefootballvideo&amp;url=https%3a%2f%2fcode.google.com%2fp%2fp2p-strm%2f</jsonrpc>
+<thumbnail>https://pbs.twimg.com/profile_images/3162217818/2ee4b2f728ef9867d4e1d86e17bb2ef5_400x400.jpeg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/3162217818/2ee4b2f728ef9867d4e1d86e17bb2ef5_400x400.jpeg</fanart>
+</item>
+
+<item>
+<title>[COLOR red][B] AGENDA ARENAVISION CAIDA POR EL MOMENTO[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda=soccer</jsonrpc>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCxgmx7dxap_Db3qQB_c3-W2GlxHtFTdd58HMnYo1qyA6zaPO</thumbnail>
@@ -47,7 +55,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR white][B] AGENDA EZY [/B][/COLOR]</title>
+<title>[COLOR white][B] AGENDA EZY CAIDA POR EL MOMENTO[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.avezy/?action=mostrar_agenda=soccer</jsonrpc>
 <thumbnail>http://redeneobux.com/wp-content/uploads/2016/12/avezy_kodi_addon.png</thumbnail>
