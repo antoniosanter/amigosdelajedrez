@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+  <title>[COLOR=red]  [/COLOR][COLOR=RED][I][COLOR RED][B]ARENAVISION 1[/B][/COLOR]    [/I][/COLOR][COLOR=RED]  [/COLOR]</title>
+  <link>plugin://program.plexus/?url=acestream://b32d0c731081e0f6a36f4078851f3ad8cfdfefba&amp;mode=1&amp;name=LFP</link>
+  <referer>https://avezy.xyz/</referer>
+  <thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+  <fanart>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</fanart>
+</item>
+ 
+
+<item>
+	<title>[COLOR=white]  [/COLOR][COLOR=darkcyan][I][COLOR white][B]ARENAVISION 1 OPCION 2 [/B][/COLOR]    [/I][/COLOR][COLOR=white]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision2018.ga/1?sdawaxsdqqas</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision2018.ga/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[COLOR=white]  [/COLOR][COLOR=darkcyan][I][COLOR white][B]ARENAVISION 1 OPCION 3 [/B][/COLOR]    [/I][/COLOR][COLOR=white]  [/COLOR]</title>
+	<link>plugin://program.plexus/?url=$doregex[url]&amp;mode=1&amp;name=LFP</link>
+	<thumbnail>http://diarium.usal.es/melendez/files/2010/10/lfp1.png</thumbnail>
+
+	<regex>
+	<name>url</name>    
+	<expres>this.loadPlayer."([^"]*)</expres>
+	<page>http://arenavision2018.ga/01?wiuhkascohln</page>
+	<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0</agent>
+	<setcookie>Cookie: __cfduid=d7c77afa3da16e8819ff5eff470a4adeb1418372022; beget=begetok; has_js=1</setcookie>
+	<referer>http://arenavision2018.ga/</referer>
+	</regex>
+</item>
