@@ -31,6 +31,14 @@ item>
 </item>
 
 <item>
+<title>[COLOR grey][B]CANALES DEPORTIVOS PRUEBA [/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/qHGv2r2J</externallink>
+</item>
+
+<item>
 <title>[COLOR red][B] AGENDA ARENAVISION [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda=soccer</jsonrpc>
