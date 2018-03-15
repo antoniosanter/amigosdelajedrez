@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR grey][B]CANALES DEPORTIVOS NUEVA ARENAVISION [/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/A08vKskb</externallink>
+</item>
+
+<item>
   <title>[COLOR=red]  [/COLOR][COLOR=RED][I][COLOR RED][B]ARENAVISION 1[/B][/COLOR]    [/I][/COLOR][COLOR=RED]  [/COLOR]</title>
   <link>plugin://program.plexus/?url=acestream://d21acedfbc4e17ddb499c00e7d236e9879a7baa5&amp;mode=1&amp;name=LFP</link>
   <referer>https://avezy.xyz/</referer>
