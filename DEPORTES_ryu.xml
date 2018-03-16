@@ -71,7 +71,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR grey][B]CANALES DEPORTIVOS NUEVA ARENAVISION PRUEBAS [/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -102,7 +102,7 @@ item>
 
 
 
-<item>
+item>
 <title>[COLOR yellow]Bein Sports La Liga (Opción 1)[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinlaliga&width=650&height=397</page><cookieJar></cookieJar></regex>
 <thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
@@ -110,7 +110,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR yellow] Bein Sports[/COLOR]</title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link><regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=beinsport&width=650&height=397</page><cookieJar></cookieJar></regex>
 <thumbnail>https://i1.sndcdn.com/artworks-000238916106-r0ejvt-t500x500.jpg</thumbnail>
@@ -118,7 +118,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR yellow]La Liga Tv[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres><page>http://livesports.pw/embed.php?file=barliga&width=650&height=397</page><cookieJar></cookieJar></regex>
@@ -127,7 +127,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR yellow] La Liga 123[/COLOR] </title>
 <link>$doregex[GetPageUrl]|User-Agent=|User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko</link>
 <regex><name>GetPageUrl</name><expres>source: '(.*?)'</expres>
@@ -193,7 +193,7 @@ item>
 
 
 
-<item>
+item>
 <title>[COLOR grey][B]CANALES DEPORTIVOS [/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -202,7 +202,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION IN</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -210,7 +210,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_IN.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION IN EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -218,7 +218,7 @@ item>
 <externallink>https://pastebin.com/raw/Xx7ZS0g8</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION RU</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -226,7 +226,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_RU.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION RU EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -234,7 +234,7 @@ item>
 <externallink>https://pastebin.com/raw/BA6ygPR7</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION TOP</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -242,7 +242,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_TOP.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION TOP EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -250,7 +250,7 @@ item>
 <externallink>https://pastebin.com/raw/YXG4udZC</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION US</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -258,7 +258,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_US.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION US EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -266,7 +266,7 @@ item>
 <externallink>https://pastebin.com/raw/KZCr4rbv</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION TK</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -274,7 +274,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_TK.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION TK EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -282,7 +282,7 @@ item>
 <externallink>https://pastebin.com/raw/MFi8ignB</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION ML</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -290,7 +290,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_ML.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION ML EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -298,7 +298,7 @@ item>
 <externallink>https://pastebin.com/raw/CyTDtuMn</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION GA</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -306,7 +306,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_GA.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION GA EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -314,7 +314,7 @@ item>
 <externallink>https://pastebin.com/raw/CSz0NCam</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION CF</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -322,7 +322,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_CF.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION CF EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
