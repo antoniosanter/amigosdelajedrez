@@ -17,7 +17,7 @@
         <thumbnail>http://www.formulatv.com/images/fgaleria/59300/59336_primer-cartel-la-peste-serie-original-movistar-plus.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juadacu/la-peste-t1-100757</page>
+<page>http://diskokosmiko.mx/quiqueps2010/la-peste-100761</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -35,7 +35,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juadacu/la-peste-t1-100757</referer>
+<referer>http://diskokosmiko.mx/quiqueps2010/la-peste-100761</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -165,7 +165,7 @@
 </channel>
 
 <item>
-<title>[COLOR red][COLOR  red]*[/COLOR]STRANGER THINGS T1(SERIE)</title>
+<title>[COLOR red][COLOR  red]*[/COLOR]STRANGER THINGS T1 y T2(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -175,7 +175,7 @@
         <thumbnail>https://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juadacu/stranger-things-t1-71339</page>
+<page>http://diskokosmiko.mx/yancarlito-reynoso/stranger-things-64640</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -193,7 +193,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juadacu/stranger-things-t1-71339</referer>
+<referer>http://diskokosmiko.mx/yancarlito-reynoso/stranger-things-64640</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -203,45 +203,6 @@
 </items>
 </channel>
 
-
-<item>
-<title>[COLOR red][COLOR  red]*[/COLOR]STRANGER THINGS T2(SERIE)</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Ryu==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://pics.filmaffinity.com/stranger_things_tv_series-875025085-large.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juadacu/stranger-things-t2-91039</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juadacu/stranger-things-t2-91039</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://thenerdstash.com/wp-content/uploads/2016/08/Stranger-Things-Drawing.jpg</thumbnail>
-<fanart>https://images7.alphacoders.com/726/thumb-1920-726772.jpg</fanart>
-</item>
-</items>
-</channel>
 
 <item>
 <title>[COLOR red][COLOR  red]*[/COLOR]NARCOS T1 y T2(SERIE)</title>
@@ -362,45 +323,6 @@
 </channel>
 
 <item>
-<title>[COLOR red][COLOR  red]*[/COLOR]VIKINGOS(SERIE)</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Ryu==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://http2.mlstatic.com/vikingos-vikings-serie-de-tv-lamina-45-x-30-cm-D_NQ_NP_3343-MLU4841118296_082013-O.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/chicho306/vikingos-22780/list,1,2</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/chicho306/vikingos-22780/list,1,2</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://http2.mlstatic.com/vikingos-vikings-serie-de-tv-lamina-45-x-30-cm-D_NQ_NP_3343-MLU4841118296_082013-O.jpg</thumbnail>
-<fanart>https://images.alphacoders.com/589/589636.jpg</fanart>
-</item>
-</items>
-</channel>
-
-<item>
 <title>[COLOR red][COLOR  red]*[/COLOR]LUNA EL MISTERIO DE CALENDA(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -480,7 +402,7 @@
 
 
 <item>
-<title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T1(SERIE)</title>
+<title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T1 y T2(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -490,7 +412,7 @@
         <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81K1D6ODF9L._RI_.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/SeriesHD/the-expanse-t1-43113</page>
+<page>http://diskokosmiko.mx/juanitronic/the-expanse-22-74160</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -508,7 +430,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/SeriesHD/the-expanse-t1-43113</referer>
+<referer>http://diskokosmiko.mx/juanitronic/the-expanse-22-74160</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -518,44 +440,6 @@
 </items>
 </channel>
 
-<item>
-<title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T2(SERIE)</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Ryu==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81K1D6ODF9L._RI_.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juadacu/the-expanse-t2-82757</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juadacu/the-expanse-t2-82757</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://tonykanapes.files.wordpress.com/2017/05/season2.jpg?w=273&h=385</thumbnail>
-<fanart>http://s.libertaddigital.com/videos/seriemente-the-expanse-basada-en-las-novelas-de-james-sa-corey-6058676-3.jpg</fanart>
-</item>
-</items>
-</channel>
 
 <item>
 <title>[COLOR red][COLOR  red]*[/COLOR]MARTE(SERIE)</title>
