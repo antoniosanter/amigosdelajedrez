@@ -31,6 +31,22 @@ item>
 </item>
 
 <item>
+<title>[B][COLOR red][ + ] [/COLOR][/B][B][COLOR indianred] TODO CANALES ARENAVISION IN[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR red][ + ] [/COLOR][/B][B][COLOR indianred] TODO CANALES ARENAVISION TK[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_TK.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR red][B] AGENDA ARENAVISION [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda=soccer</jsonrpc>
@@ -69,6 +85,15 @@ item>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
 </item>
+
+<item>
+<title>[B][COLOR red][ + ] [/COLOR][/B][B][COLOR indianred] MAS DEPORTES [/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_ryu_nuevo.xml</externallink>
+</item>
+
 
 
 item>
