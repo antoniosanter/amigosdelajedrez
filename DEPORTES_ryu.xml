@@ -30,7 +30,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_ryu.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red][ + ] [/COLOR][/B][B][COLOR indianred] TODO CANALES ARENAVISION IN[/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -38,7 +38,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red][ + ] [/COLOR][/B][B][COLOR indianred] TODO CANALES ARENAVISION TK[/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -62,7 +62,7 @@ item>
 <fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR lime][B] MAS [COLOR lime][B] FUTBOL [COLOR lime][B] GRATIS[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.plexus-streams/?iconimage=C%3a%5cUsers%5cTeco%5cAppData%5cRoaming%5cKato%5caddons%5cplugin.video.plexus-streams%5cresources%5ccore%5cparsers%5clivefootballvideo%5cicon.png&amp;mode=401&amp;name=Livefootballvideo.com&amp;parser=livefootballvideo&amp;url=https%3a%2f%2fcode.google.com%2fp%2fp2p-strm%2f</jsonrpc>
@@ -78,7 +78,7 @@ item>
 <fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR lime][COLOR lime]-[/COLOR]DEPORTES LIGA EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -86,7 +86,7 @@ item>
 <externallink>https://pastebin.com/raw/Jvw2GNxY</externallink>
 </item>
 
-<item>
+item>
 <title>[B][COLOR red][ + ] [/COLOR][/B][B][COLOR indianred] MAS DEPORTES [/B][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -291,12 +291,12 @@ item>
 <externallink>https://pastebin.com/raw/KZCr4rbv</externallink>
 </item>
 
-item>
-<title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION TK</title>
+<item>
+<title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_Arenavision_TK.xml</externallink>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/arena.m3u</externallink>
 </item>
 
 item>
