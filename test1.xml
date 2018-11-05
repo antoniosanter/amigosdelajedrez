@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu_tdt.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV MOVISTAR</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tv_channels_pmkmtpd6_plus.m3u</externallink>
+</item>
+
 
 <item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES </title>
