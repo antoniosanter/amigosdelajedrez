@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Lista M3U/RTMP[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tv_channels_pmkmtpd6_plus.m3u</externallink>
+</item>
+
+
+<tem>
 <title>[COLOR yellow][COLOR lime]*[/COLOR]LOS MEJORES SERVIDORES IP DEL MOMENTO </title>        
 <urlsolve></urlsolve>
 </item>
 
 
-<item>
+<tem>
 <title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]LOCALES [/B] [/COLOR][COLOR lightblue][I]  [/I][/COLOR]</title>
 <link>NA</link>
 <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/adryan/localesesp.xml</externallink>
 <thumbnail></thumbnail>
 </item>
 
-<item>
+<tem>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]IPTV Ultra[/COLOR]  [COLOR red] RYU [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -46,7 +55,7 @@
 
 
 
-<item>
+<tem>
  <title>[COLOR red].[/COLOR][COLOR red][B]World Servers[/B] [/COLOR][COLOR red ][I] Ryu[/I][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -66,7 +75,7 @@
 </item>
 
 
-<item>
+<tem>
   <title>Daily M3UlISTE</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -85,7 +94,7 @@
  
 
 
-<item>
+<tem>
 <title>[COLOR white].[/COLOR][COLOR blue][B] Ryu[/B] [/COLOR][COLOR white ][I] M3U Listas[/I][/COLOR]</title>
 <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
 <link>$doregex[makelist2]</link>
@@ -115,7 +124,7 @@
 </regex>
 </item>
 
-<item>
+<tem>
 <title>[COLOR red].[/COLOR][COLOR yellow][B]IPTV Servers[/B] [/COLOR][COLOR yellow ][I] Ryu[/I][/COLOR]</title><thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
 <link>$doregex[makelist2]</link>
 <regex>
@@ -163,7 +172,7 @@
 </item>                                                              
 
 
-<item>
+<tem>
 <title>[COLOR green]CANALES[/COLOR] [COLOR fuchsia]TDT[/COLOR]</title>
 <thumbnail>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</thumbnail>
 <fanart>http://omicrono.elespanol.com/wp-content/uploads/2012/06/logo_tdt.jpg</fanart>
@@ -171,7 +180,7 @@
 <externallink>https://raw.githubusercontent.com/elchocolate/tvchocotv/master/zonatv/canales%20TDT.xml</externallink>
 </item>
 
-<item>
+<tem>
 <title>[COLOR green]CANALES[/COLOR] [COLOR fuchsia]TDT2[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -202,7 +211,7 @@
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
  
-<item>
+<tem>
 <title>REGEX: http://ustreamyx.com/ Para Sports Devil</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -307,7 +316,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <link>fui.me</link>
 </item>
  
-<item>
+item>
   <title>[COLOR turquoise]Me-Buscan  [COLOR cyan]Acestream[/COLOR]  ESP + intl </title>
 <thumbnail>http://website.informer.com/thumbnails/280x202/m/mebuscan.net.png</thumbnail>
 <link>$doregex[makelist]</link>
@@ -332,23 +341,23 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </regex>
 </item>
  
-<item>
+item>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
-<item>
+item>
 <title>dailyiptvlists.com</title>
 <link>ignora.me</link>
 <externallink>https://pastebin.com/raw/bLU0yDW6</externallink>
 </item>
  
-<item>
+item>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
-<item>
+item>
  
 <title>freeiptvlinks4u</title>
  
@@ -405,12 +414,12 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>
  
  
-<item>
+item>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
-<item>
+item>
 <title>iptvsharing.com</title>
 <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
  
@@ -461,13 +470,13 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>
  
  
-<item>
+item>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
  
-<item>
+item>
  
  <title>www.m3uliste.pw</title>
  
@@ -542,12 +551,12 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 </item>
  
  
-<item>
+item>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
-<item>
+item>
 <title>IPTV ULTRA</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -596,12 +605,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-<item>
+item>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
-<item>
+item>
 <title>Openload example</title>
 <thumbnail></thumbnail>
 <urlsolve>https://streamango.com/embed/fotlsedkkccbelld/Beauty_and_the_Beast_2017_720p_BRRip_MkvCage_mp4</urlsolve>
@@ -609,12 +618,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
  
-<item>
+item>
 <title>[COLOR red]==============================[/COLOR]</title>
 <link>fui.me</link>
 </item>
  
-<tem><title>[B][COLOR lawngreen]• [B][COLOR white]TESTE ustreamix.com (Sports Devil)[/B][/COLOR]</title>
+tem><title>[B][COLOR lawngreen]• [B][COLOR white]TESTE ustreamix.com (Sports Devil)[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://v2.ustreamix.com/stream.php?id=benfica-tv-alternative-2</link>
 <thumbnail>http://i.imgur.com/Frawzcq.png</thumbnail></item>
 
