@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR white][B] AGENDA ARENAVISION  [COLOR white] Server [COLOR white][in][/COLOR] [/COLOR][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [/COLOR]  [COLOR deepwhite][makelist.param2] [/COLOR][COLOR lightslategray][makelist.param3] [/COLOR] [COLOR white][B][makelist.param5] [/B] [/COLOR][COLOR lightyellow] [makelist.param6] [/COLOR]  [COLOR lightblue][[makelist.param4]] [/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=RYU+[makelist.param5]+Arenavision</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>https://t.co/M1wHhWsSLN/$doregex[canal]</page>
+            <referer>https://t.co/M1wHhWsSLN</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+                <regex>
+            <name>canal</name>
+            <expres>$pyFunction:'[makelist.param6]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>>2','02').replace('>3','03')</expres>
+            <page></page>
+            </regex>
+            <thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[87px\">(.*?)<[\w\W\s]{0,30}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}">(.*?)<[\w\W\s]{0,32}"(>[0-9]+)]]></expres>
+<page>http://arenavision.in/guide</page>
+<Agent>Mozilla</Agent>
+<referer>https://t.co/M1wHhWsSLN</referer>
+<setcookie>beget=begetok</setcookie>
+ </regex>
+<thumbnail>https://raw.githubusercontent.com/blackghostaddon/gray/master/img/acestreams.png</thumbnail>
+</item>
+
 item> 
 <title>[COLOR cyan]BEIN SPORT ES[/COLOR]</title> 
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/10998.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport HD ES</link> 
@@ -300,7 +332,7 @@ item>
 </item>
 
 item>
-<title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION TK EXTERNO</title>
+<title>[COLOR brown][COLOR brown]-[/COLOR]DEPORTES ARENAVISION EXTERNO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
