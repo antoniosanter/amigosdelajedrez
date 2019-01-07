@@ -175,7 +175,7 @@
 </item>
 
 <item>
-<title>[COLOR red][COLOR lime]*[/COLOR]	CIRCULO DE AJEDREZ CAPABLANCA" </title>
+<title>[COLOR red][COLOR lime]*[/COLOR]	LAS MEJORES PARTIDAS DE BOBBY FISCHER" </title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
 <listrepeat><![CDATA[
@@ -184,7 +184,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/playlist?list=UC2_vIPPZtRtu5I9bfS62GQw</page>
+<page>https://www.youtube.com/playlist?list=PLV4hXa725NQLoq8XuZrUQ5rm8WlDkUCDv</page>
 </regex>
 <thumbthumbnail></thumbnail>
 </item>
