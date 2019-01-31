@@ -6,7 +6,7 @@
 </item>
 
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]LA PESTE(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -46,7 +46,7 @@
 </channel>
 
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]PRISION BREAK T1, T2, T3, T4(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -84,7 +84,7 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]PRISON BREAK T5(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -125,7 +125,7 @@
 
 
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]WESTWORLD(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -164,7 +164,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]STRANGER THINGS T1 y T2(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -204,7 +204,7 @@
 </channel>
 
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]NARCOS T1 y T2(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -243,7 +243,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]NARCOS T3(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -283,7 +283,7 @@
 </channel>
 
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]OUTLANDER(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -322,7 +322,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]LUNA EL MISTERIO DE CALENDA(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -361,7 +361,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]JUEGOS DEL TRONOS(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -402,46 +402,16 @@
 
 
 <item>
-<title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T1 y T2(SERIE)</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>Ryu==[makelist.param3]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81K1D6ODF9L._RI_.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/juanitronic/the-expanse-22-74160</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/juanitronic/the-expanse-22-74160</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://www.movieseriestv.com/wp-content/uploads/2015/11/THEX1a.png</thumbnail>
-<fanart>http://s.libertaddigital.com/videos/seriemente-the-expanse-basada-en-las-novelas-de-james-sa-corey-6058676-3.jpg</fanart>
+<title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T1(SERIE)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Serie_the_expanse_t1.xml</externallink>
 </item>
-</items>
-</channel>
+ 
 
 
-<item>
+tem>
 <title>[COLOR red][COLOR  red]*[/COLOR]MARTE(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -481,7 +451,7 @@
 </channel>
 
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]PLANETA EARTH II(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -520,7 +490,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]STARGATE(SG1, Atlantis, Universe)(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -559,7 +529,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]TERRA NOVA T1(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -598,7 +568,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T1(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -637,7 +607,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T2(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -676,7 +646,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T3(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -715,7 +685,7 @@
 </items>
 </channel>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]BLACK SAILS T4 DUAL(SERIE)</title>
 <link>$doregex[makelist]</link>
 <regex>
