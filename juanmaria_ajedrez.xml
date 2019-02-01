@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR lime]JUEGA AL AJEDREZ[/COLOR]-[COLOR yellow](NUEVO EN DESARROLLO)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://script.chess-master/</jsonrpc>
-<thumbnail></thumbnail>
-<fanart>https://i.imgur.com/fg952Jr.jpg</fanart>
-</item>
- 
+
 <item>
 <title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
 <link>$doregex[makelist]</link>
