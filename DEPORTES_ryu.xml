@@ -26,3 +26,12 @@
 </item>
 
 
+<item>
+<title>[COLOR orange][B] Sport365 Version 2 [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.sport365.live/?action=mostrar
+<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+</item>
+
+
