@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-item>
+<item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALES_ryu_tdt.xml</externallink>
+<externallink>http://91.121.64.179/tdt_project/output/channels.m3u</externallink>
 </item>
 
 item>
