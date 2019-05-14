@@ -8,12 +8,12 @@
 <externallink>http://91.121.64.179/tdt_project/output/channels.m3u</externallink>
 </item>
 
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV MOVISTAR</title>
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES RADIO</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tv_channels_pmkmtpd6_plus.m3u</externallink>
+<externallink>http://91.121.64.179/tdt_project/output/radio_channels.m3u</externallink>
 </item>
 
 
