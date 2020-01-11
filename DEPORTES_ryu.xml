@@ -36,8 +36,8 @@ item>
 
 
 <item>
-<title>[COLOR orange]Dazn[/COLOR] [COLOR skyblue]1[/COLOR] </title>
-<link>http://live.darkside-iptv.com:8080/ita_mannheim/549499463136/34123</link>
+<title>[COLOR orange]Dazn[/COLOR] [COLOR skyblue]Agenda[/COLOR] </title>
+<link>http://acestreampi.ddns.net/dailysport.m3u8</link>
 <thumbnail>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/06/DAZN-Logo-Perform-Group.png?fit=1200%2C1200&ssl=1</thumbnail>
 <fanart></fanart>
 </item>
@@ -57,9 +57,9 @@ item>
 <fanart></fanart>
 </item>
 
-item>
-<title>[COLOR orange]Bein Sport[/COLOR] [COLOR skyblue]Solo Eventos[/COLOR]</title>
-<urlsolve>https://iptvm3ulist.com/m3u/sp01_iptvm3ulist_com_021019.m3u</urlsolve>
+<item>
+<title>[COLOR orange]Eventos diarios[/COLOR] [COLOR skyblue]Solo Eventos[/COLOR]</title>
+<urlsolve>http://acestreampi.ddns.net/dailysport.m3u8</urlsolve>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
