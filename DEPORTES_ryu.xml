@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
+item>
 <title>[COLOR red][B] AGENDA ARENAVISION [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda=soccer</jsonrpc>
@@ -9,7 +9,7 @@
 <fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR red][B] AGENDA EZY[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.avezy/?action=mostrar_agenda=soccer</jsonrpc>
@@ -26,7 +26,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR orange][B] Sport365 Nueva Version [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
@@ -35,7 +35,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR orange]Dazn[/COLOR] [COLOR skyblue]Agenda[/COLOR] </title>
 <link>http://acestreampi.ddns.net/dailysport.m3u8</link>
 <thumbnail>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/06/DAZN-Logo-Perform-Group.png?fit=1200%2C1200&ssl=1</thumbnail>
@@ -43,21 +43,21 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR orange]Dazn[/COLOR] [COLOR skyblue]2[/COLOR] </title>
 <link>https://bit.ly/2SYCGTK</link>
 <thumbnail>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/06/DAZN-Logo-Perform-Group.png?fit=1200%2C1200&ssl=1</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR orange]Bein Sport[/COLOR] [COLOR skyblue]Solo Eventos[/COLOR] </title>
 <link>https://pastebin.com/raw/NxNULqQX</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR orange]Eventos diarios[/COLOR] [COLOR skyblue]Solo Eventos[/COLOR]</title>
 <urlsolve>http://acestreampi.ddns.net/dailysport.m3u8</urlsolve>
 <thumbnail></thumbnail>
