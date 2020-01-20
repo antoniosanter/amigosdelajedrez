@@ -6,15 +6,14 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>http://91.121.64.179/tdt_project/output/channels.m3u</externallink>
-<externallink>http://91.121.64.179/tdt_project/output/channels.m3u8</externallink>
 </item>
 
 <item>
-<title>[COLOR yellow][COLOR yellow]-[/COLOR]CANALES PREMIUM</title>
+<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV2</title> 
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CANALESPRE.xml</externallink>
+<externallink>http://91.121.64.179/tdt_project/output/channels.m3u8</externallink>
 </item>
 
 <item>
@@ -23,6 +22,14 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>http://91.121.64.179/tdt_project/output/radio_channels.m3u</externallink>
+<externallink>http://91.121.64.179/tdt_project/output/radio_channels.m3u8</externallink>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES RADIO2</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>http://91.121.64.179/tdt_project/output/radio_channels.m3u8</externallink>
 </item>
 
@@ -129,7 +136,7 @@ item>
 </item>
 
 
-item>
+<item>
 <title>[COLOR lime][COLOR lime]-[/COLOR]SERIES ANIME</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
