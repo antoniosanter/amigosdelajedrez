@@ -57,7 +57,7 @@ item>
 <fanart></fanart>
 </item>
 
-<item>
+item>
 <title>[COLOR orange]prueba[/COLOR] [COLOR skyblue]Solo Eventos[/COLOR]</title>
 <urlsolve>https://pastebin.com/raw/75NAQrDu</urlsolve>
 <thumbnail></thumbnail>
@@ -106,6 +106,14 @@ item>
 </item>
 
 <item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]prueba</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://app.powerfhd.me/live/sup.php?z=997&u=772193273475979&s=223224419324459&id=386&t=live&f=ts</externallink>
+</item>
+
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]prueba</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
