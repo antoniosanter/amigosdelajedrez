@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
+item>
 <title>[COLOR yellow][COLOR lime]*[/COLOR]SERIES ACTUALES </title>        
 <urlsolve>url</urlsolve>
 </item>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T1 CASTELLANO(SERIE)</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -13,7 +13,7 @@
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Serie_the_expanse_t1.xml</externallink>
 </item>
  
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T2 CASTELLANO(SERIE)</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -21,7 +21,7 @@
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Serie_the_expanse_t2.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR red][COLOR  red]*[/COLOR]THE EXPANSE T3 INGLES, SUBTITULADO CASTELLANO(SERIE)</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -29,3 +29,11 @@
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Serie_the_expanse_t3.xml</externallink>
 </item>
 
+
+<item>
+<title>[COLOR red][COLOR  red]*[/COLOR]SERIES VARIAS ACTUALES</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/QzudG1v4</externallink>
+</item>
