@@ -1,0 +1,272 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TDT" group-title="Generalistas"
+tdt
+#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
+#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
+#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD
+https://livestartover-i.akamaized.net/geoantena3/master.m3u8
+#EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro HD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="LaSexta.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD
+https://livestartover-i.akamaized.net/geolasexta/master.m3u8
+#EXTINF:-1 tvg-id="LaSexta.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#EXTINF:-1 tvg-id="Neox.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD
+https://livestartover-i.akamaized.net/geoneox/master.m3u8
+#EXTINF:-1 tvg-id="Neox.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD
+https://livestartover-i.akamaized.net/neox/master.m3u8
+#EXTINF:-1 tvg-id="Nova.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="Generalistas",Nova HD
+https://livestartover-i.akamaized.net/geonova/master.m3u8
+#EXTINF:-1 tvg-id="Nova.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="Generalistas",Nova HD
+https://livestartover-i.akamaized.net/nova/master.m3u8
+#EXTINF:-1 tvg-id="Mega.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="Generalistas",Mega HD
+https://livestartover-i.akamaized.net/geomega/master.m3u8
+#EXTINF:-1 tvg-id="Mega.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320" group-title="Generalistas",Mega HD
+https://livestartover-i.akamaized.net/mega/master.m3u8
+#EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="Generalistas",Atreseries HD
+https://livestartover-i.akamaized.net/geoa3series/master.m3u8
+#EXTINF:-1 tvg-id="Atreseries.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/atreseries/picture?width=320&height=320" group-title="Generalistas",Atreseries HD
+https://livestartover-i.akamaized.net/a3series/master.m3u8
+#EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="Generalistas",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="FDF.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/factoriadeficcion/picture?width=320&height=320" group-title="Generalistas",FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Energy.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="Generalistas",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Energy.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/E.EnergyTV/picture?width=320&height=320" group-title="Generalistas",Energy HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Bemad.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="Generalistas",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Bemad.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="Generalistas",Be Mad HD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="Paramount.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320" group-title="Generalistas",Paramount Network
+https://paramount-live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="13.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/TRECEtves/picture?width=320&height=320" group-title="Generalistas",TRECE
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/mtmad.es/picture?width=320&height=320" group-title="Generalistas",mtmad 24h HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/LaVozAntena3/picture?width=320&height=320" group-title="Generalistas",La Voz 24H HD
+https://pull12.atresmedia.com/lavoz/master.m3u8
+
+#EXTINF:-1 tvg-id="TDT" group-title="Informativos"
+informativos
+#EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Informativos",24h
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Informativos",+24
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Informativos",+24
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve25_lv3_aosv4_gl0/irtve25_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Informativos",+24
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_aosv4_gl0/irtve04_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Informativos",+24
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/irtve14_lv3_aosv4_gl0/irtve14_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Informativos",+24
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/Atresplayer/picture?width=320&height=320" group-title="Informativos",Atresplayer Original 3 HD
+https://livestartover-i.akamaized.net/eventos37/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mACmvgDvj5xdVeMXQI9kQSmU0A2Zw5nJEjR8A=s320" group-title="Informativos",Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:-1 tvg-id="TDT" group-title="Deportivos"
+Deportivos
+#EXTINF:-1 tvg-id="TDP.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos",Teledeporte HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos",+tdp
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve17_lv3_aosv4_gl1/irtve17_lv3_aosv4_gl1.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos",+tdp
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve18_lv3_aosv4_gl1/irtve18_lv3_aosv4_gl1.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos",+tdp
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve19_lv3_aosv4_gl0/irtve19_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos",+tdp
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/ins4_lv3_aosv4_gl0/ins4_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320" group-title="Deportivos",+tdp
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/irtve20_lv3_aosv4_gl1/irtve20_lv3_aosv4_gl1.isml/master.m3u8
+#EXTINF:-1 tvg-id="GOL.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/goltv.es/picture?width=320&height=320" group-title="Deportivos",GOL HD
+https://www.goltelevision.com/live/0
+#EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320" group-title="Deportivos",RealMadrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-id="RMTV.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320" group-title="Deportivos",RealMadrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 tvg-id="BetisTV.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/realbetisbalompie/picture?width=320&height=320" group-title="Deportivos",Betis TV HD
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+"
+movistar
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Accion
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=358&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. ACCION FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3799&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Comedia
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=363&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.COMEDIA FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3804&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Drama
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=360&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DRAMA FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3801&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Cine Espaol
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=426&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Cine Espaol FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3847&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Cine Doc & Roll
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=437&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.CineDoc&Roll FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3850&t=live&f=ts
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="MOVISTAR+",M. Series
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=362&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. SERIES FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3803&t=live&f=ts
+#EXTINF:0 tvg-id="Hollywood.sp" group-title="MOVISTAR+",Hollywood
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=354&t=live&f=ts
+#EXTINF:0 tvg-id="Hollywood.sp" group-title="MOVISTAR+",HOLLYWOOD FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3796&t=live&f=ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="MOVISTAR+",Paramount Channel
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=454&t=live&f=ts
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="MOVISTAR+",Paramount FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3855&t=live&f=ts
+#EXTINF:0 tvg-id="TCM.sp" group-title="MOVISTAR+",TCM
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=373&t=live&f=ts
+#EXTINF:0 tvg-id="TCM.sp" group-title="MOVISTAR+",TCM FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3813&t=live&f=ts
+#EXTINF:0 tvg-id="TNT.sp" group-title="MOVISTAR+",TNT
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=375&t=live&f=ts
+#EXTINF:0 tvg-id="TNT.sp" group-title="MOVISTAR+",TNT FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3815&t=live&f=ts
+#EXTINF:0 tvg-id="Sundance.es" group-title="MOVISTAR+",Sundance
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=456&t=live&f=ts
+#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="MOVISTAR+",Sundance TV FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3856&t=live&f=ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="MOVISTAR+",#0
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=378&t=live&f=ts
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="MOVISTAR+",#0 FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3818&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Series Mania
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=368&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Seriesmania FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3809&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.ESTRENOS FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3805&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Disney
+http://tvservice.pro:80/live/910347576605/XFTTwadISArfKnk/21302.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Cine HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=26089&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes",M. LaLiga HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=26046&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes",M. LaLiga 1 FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=24929&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes", #vamos Full HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3819&t=live&f=ts
+#EXTINF:0 tvg-id="ext" group-title="Deportes",M. GOLF FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3802&t=live&f=ts
+#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="MOVISTAR+",Discovery FULL HD
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3836&t=live&f=ts
+#EXTINF:-1,|ES| #VAMOS
+http://app.powerfhd.me/live/sup.php?z=997&u=uw51765hU6s5651&s=151556715967959&id=3819&t=live&f=ts
+#EXTINF:-1,|ES|MOVISTAR_DEPORTES_1_HD
+http://king365-tv.com:2103/15808/15808/594
+#EXTINF:-1,|ES|MOVISTAR_DEPORTES_1_FHD
+http://king365-tv.com:2103/15808/15808/6054
+#EXTINF:-1,|ES|VAMOS_HD
+http://king365-tv.com:2103/15808/15808/593
+#EXTINF:-1,|ES|VAMOS_FHD
+http://king365-tv.com:2103/15808/15808/2266
+#EXTINF:-1,|ES|SPORT_3_CAT_HD
+http://king365-tv.com:2103/15808/15808/2120
+#EXTINF:-1,|ES|MOVISTAR_F1_HD
+http://king365-tv.com:2103/15808/15808/621
+#EXTINF:-1,|ES|MOVISTAR_F1_FHD
+http://king365-tv.com:2103/15808/15808/2574
+#EXTINF:-1,|ES|MOVISTAR _MOTOGP_HD
+http://king365-tv.com:2103/15808/15808/622
+#EXTINF:-1,|ES|MOVISTAR _MOTOGP_FHD
+http://king365-tv.com:2103/15808/15808/2575
+#EXTINF:-1,|ES|MOVISTAR+ LALIGA_1_HD
+http://king365-tv.com:2103/15808/15808/641
+#EXTINF:-1,|ES|MOVISTAR+ LALIGA_1_FHD
+http://king365-tv.com:2103/15808/15808/2115
+#EXTINF:-1,|ES|MOVISTAR _LIGA_DE_CAMPEONES_SD
+http://king365-tv.com:2103/15808/15808/361
+#EXTINF:-1,|ES|MOVISTAR _LIGA_DE_CAMPEONES_HD
+http://king365-tv.com:2103/15808/15808/14624
+#EXTINF:-1,|ES|MOVISTAR _LIGA_DE_CAMPEONES_FHD
+http://king365-tv.com:2103/15808/15808/2083
+#EXTINF:-1,|ES|BeIN_LALIGA_SD
+http://king365-tv.com:2103/15808/15808/362
+#EXTINF:-1,|ES|MOVISTAR_LALIGA_HD
+http://king365-tv.com:2103/15808/15808/14973
+#EXTINF:-1,|ES|MOVISTAR_LALIGA_FHD
+http://king365-tv.com:2103/15808/15808/2082
+#EXTINF:-1,|ES|LALIGA_TV_BAR_FHD
+http://king365-tv.com:2103/15808/15808/2084
+#EXTINF:-1,|ES|M_F1_UHD_4K
+http://king365-tv.com:2103/15808/15808/2155
+#EXTINF:-1,|ES|FOX_SPORT_1_LATINO
+http://king365-tv.com:2103/15808/15808/2110
+#EXTINF:-1,|ES|FOX_SPORT_2_LATINO
+http://king365-tv.com:2103/15808/15808/2111
+#EXTINF:-1,|ES|FOX_SPORT_3_LATINO
+http://king365-tv.com:2103/15808/15808/2112
+#EXTINF:-1,|ES|GOL_TV
+http://king365-tv.com:2103/15808/15808/858
+#EXTINF:-1,|ES|TELEDEPORTE_HD
+http://king365-tv.com:2103/15808/15808/863
+#EXTINF:-1,|ES|TELEDEPORTE_FHD
+http://king365-tv.com:2103/15808/15808/2122
+#EXTINF:-1,|ES|BARCA_TV
+http://king365-tv.com:2103/15808/15808/643
+#EXTINF:-1,|ES|REAL_MADRID_TV
+http://king365-tv.com:2103/15808/15808/620
+#EXTINF:-1,|ES|BETIS TV
+http://king365-tv.com:2103/15808/15808/7009
+#EXTINF:-1,|ES|M.PARTIDAZO_(Solo_partidos)_FHD
+http://king365-tv.com:2103/15808/15808/827
+#EXTINF:-1,|ES|BeIN_LALIGA_4K_UHD
+http://king365-tv.com:2103/15808/15808/7001
+#EXTINF:-1,|ES|M.L.CAMPEONES_4K_UHD
+http://king365-tv.com:2103/15808/15808/15343
+#EXTINF:-1,|ES|MULTIDEPORTE_1
+http://king365-tv.com:2103/15808/15808/1620
+#EXTINF:-1,|ES|MULTIDEPORTE_2
+http://king365-tv.com:2103/15808/15808/1621
+#EXTINF:-1,|ES|MULTIDEPORTE_3
+http://king365-tv.com:2103/15808/15808/2811
+#EXTINF:-1,|ES|BEIN_MAX_1_(Solo partidos)
+http://king365-tv.com:2103/15808/15808/822
+#EXTINF:-1,|ES|BEIN_MAX_2_(Solo_partidos)
+http://king365-tv.com:2103/15808/15808/823
+#EXTINF:-1,|ES|BEIN_MAX_3_(Solo_partidos)
+http://king365-tv.com:2103/15808/15808/2229
+#EXTINF:-1,|ES|BEIN_MAX_4_(Solo_partidos)
+http://king365-tv.com:2103/15808/15808/2230
+#EXTINF:-1,|ES|MOVISTAR_LALIGA_FHD(Solo partidos)
+http://king365-tv.com:2103/15808/15808/6886
+#EXTINF:-1,|ES|LIGA_DE_CAMPEONES_1_FHD(Solo partidos)
+http://king365-tv.com:2103/15808/15808/6884
+#EXTINF:-1,|ES|LIGA_DE_CAMPEONES_2_FHD(Solo partidos)
+http://king365-tv.com:2103/15808/15808/6885
+#EXTINF:-1,|ES|MULTIFUT_1_HD_(Solo_partidos)
+http://king365-tv.com:2103/15808/15808/2282
+#EXTINF:-1,|ES|MULTIFUT_2_HD_(Solo_partidos)
+http://king365-tv.com:2103/15808/15808/2283
+#EXTINF:-1,|ES|MULTIFUT_3_HD_(Solo_partidos)
+http://king365-tv.com:2103/15808/15808/2284
+#EXTINF:-1,|ES|MULTIFUT_4_HD_(Solo_partidos)
+http://king365-tv.com:2103/15808/15808/2285
