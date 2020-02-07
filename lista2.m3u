@@ -1,0 +1,520 @@
+#EXTM3U
+
+#EXTINF:-1,----------- SPAIN FULLHD -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3359
+#EXTINF:-1,|ES| #0 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10330
+#EXTINF:-1,|ES| 7RM FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10311
+#EXTINF:-1,|ES| A3 SERIES FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10320
+#EXTINF:-1,|ES| AMC FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10317
+#EXTINF:-1,|ES| AXN FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10316
+#EXTINF:-1,|ES| AXN WHITE FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10315
+#EXTINF:-1,|ES| BEIN LALIGA FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10313
+#EXTINF:-1,|ES| BEIN SPORTS ESPANAA FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10314
+#EXTINF:-1,|ES| BEMAD FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10310
+#EXTINF:-1,|ES| CLAN TV FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10309
+#EXTINF:-1,|ES| COSMO FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10308
+#EXTINF:-1,|ES| MOVISTAR ACCION FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10325
+#EXTINF:-1,|ES| MOVISTAR CINEDOC&ROLL FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10326
+#EXTINF:-1,|ES| MOVISTAR COMEDIA FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10324
+#EXTINF:-1,|ES| MOVISTAR SERIESMANIA FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10323
+#EXTINF:-1,|ES| TCM FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10312
+#EXTINF:-1,|ES| ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5434
+#EXTINF:-1,|ES| BEIN SPORTS LA LIGA FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5417
+#EXTINF:-1,|ES| COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5426
+#EXTINF:-1,|ES| CUATRO FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5433
+#EXTINF:-1,|ES| HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5424
+#EXTINF:-1,|ES| LA 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5435
+#EXTINF:-1,|ES| MOVISTAR DCINE FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5429
+#EXTINF:-1,|ES| MOVISTAR XTRA FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5428
+#EXTINF:-1,|ES| SYFY FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5423
+#EXTINF:-1,|ES| TELECINCO FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5432
+#EXTINF:-1,|ES| NATIONAL GEO FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10345
+#EXTINF:-1,|ES| TNT FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/5422
+#EXTINF:-1,|ES| MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10900
+#EXTINF:-1,----------- BOUQUET ESPAGNE -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3273
+#EXTINF:-1,|ES| FDF HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9542
+#EXTINF:-1,|ES|  LA UNA 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3182
+#EXTINF:-1,|ES|  LA DOS 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3183
+#EXTINF:-1,|ES|  TV3 CATALONIA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3589
+#EXTINF:-1,|ES|  ANTENA 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3184
+#EXTINF:-1,|ES|  CUATRO HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3277
+#EXTINF:-1,|ES|  TELECINCO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3141
+#EXTINF:-1,|ES|  LA SEXTA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3185
+#EXTINF:-1,|ES|  TCM HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3253
+#EXTINF:-1,|ES|  CANAL 24 HORAS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3242
+#EXTINF:-1,|ES|  CANAL ORBE21
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3187
+#EXTINF:-1,|ES|  TELEDEPORTE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3976
+#EXTINF:-1,|ES|  ANDALUCIA TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3974
+#EXTINF:-1,|ES|  TV GALICIA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3139
+#EXTINF:-1,======== CINE ========
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3630
+#EXTINF:-1,|ES|  PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/4040
+#EXTINF:-1,|ES|  MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3198
+#EXTINF:-1,|ES|  MOVISTAR COMEDIA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3152
+#EXTINF:-1,|ES|  MOVISTAR DCINE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3151
+#EXTINF:-1,|ES|  MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3190
+#EXTINF:-1,|ES|  HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3268
+#EXTINF:-1,|ES|  MOVISTAR XTRA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3153
+#EXTINF:-1,|ES|  TNT HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3140
+#EXTINF:-1,======== ENTRETENIMIENTO ========
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3634
+#EXTINF:-1,|ES| ENERGY HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3972
+#EXTINF:-1,|ES| NOVA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3975
+#EXTINF:-1,|ES| NEOX TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3927
+#EXTINF:-1,|ES| AMC HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3679
+#EXTINF:-1,|ES| FOX HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3194
+#EXTINF:-1,|ES| FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3195
+#EXTINF:-1,|ES| MOVISTAR CINE N
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10271
+#EXTINF:-1,|ES| MOVISTAR CINEDOC&ROLL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10286
+#EXTINF:-1,|ES| MOVISTAR SERIES HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3149
+#EXTINF:-1,|ES| MOVISTAR SERIESMANIA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3148
+#EXTINF:-1,|ES| MOVISTAR DRAMA FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9539
+#EXTINF:-1,|ES| MOVISTAR DRAMA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9540
+#EXTINF:-1,|ES| MOVISTAR SERIESMANIA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9541
+#EXTINF:-1,|ES| AXN HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3259
+#EXTINF:-1,|ES| AXN WHITE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3260
+#EXTINF:-1,|ES| SYFY HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3267
+#EXTINF:-1,|ES| CALLE 13
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3197
+#EXTINF:-1,|ES| COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3196
+#EXTINF:-1,|ES| COSMO
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3236
+#EXTINF:-1,|ES| CANAL+ COCINA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3186
+#EXTINF:-1,|ES| CANAL+ TOROS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3189
+#EXTINF:-1,======== DEPORTES ========
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3631
+#EXTINF:-1,|ES| CANAL  GOL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3928
+#EXTINF:-1,|ES| LIGA 123 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/4044
+#EXTINF:-1,|ES| LA LIGA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3191
+#EXTINF:-1,|ES| MOVISTAR DEPORTES 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3155
+#EXTINF:-1,|ES| MOVISTAR LIGA CAMPEONES HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10284
+#EXTINF:-1,|ES| MOVISTAR VAMOS FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3154
+#EXTINF:-1,|ES| CANAL GOL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3192
+#EXTINF:-1,|ES| BEIN-SPORT SPAIN
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3258
+#EXTINF:-1,|ES| BEIN LA LIGA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3636
+#EXTINF:-1,|ES| BEIN LIGA 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3637
+#EXTINF:-1,|ES| BEIN LIGA 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3638
+#EXTINF:-1,|ES| LA LIGATV BAR HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3635
+#EXTINF:-1,|ES| REAL MADRID  TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3143
+#EXTINF:-1,|ES| BARCA TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3255
+#EXTINF:-1,|ES| MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3639
+#EXTINF:-1,|ES| MOVISTAR F1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3147
+#EXTINF:-1,|ES| MOVISTAR FUTBOL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3150
+#EXTINF:-1,|ES| MOVISTAR MOTO GP
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3146
+#EXTINF:-1,|ES| EUROSPORT 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3222
+#EXTINF:-1,|ES| EUROSPORT 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3221
+#EXTINF:-1,|ES| ESPN
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3622
+#EXTINF:-1,|ES| CANAL 26 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3585
+#EXTINF:-1,----------- CULTURA Y DECOUVERT -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3965
+#EXTINF:-1,|ES| DMAX HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10285
+#EXTINF:-1,|ES| VIAJAR HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3641
+#EXTINF:-1,|ES| SUNDANCE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/4042
+#EXTINF:-1,|ES| NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3145
+#EXTINF:-1,|ES| NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3144
+#EXTINF:-1,|ES| DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3214
+#EXTINF:-1,|ES| DISCOVERY MAX
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/4038
+#EXTINF:-1,|ES| ODISEA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3265
+#EXTINF:-1,|ES| CANAL DE CASA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3193
+#EXTINF:-1,|ES| A&E HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3239
+#EXTINF:-1,|ES| CAZA Y PESCA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3215
+#EXTINF:-1,|ES| CRIME & INVESTIGATION
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3212
+#EXTINF:-1,|ES| MEGA HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3587
+#EXTINF:-1,|ES| HISTORIA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3929
+#EXTINF:-1,|ES| TRECE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3588
+#EXTINF:-1,======== NINOS ========
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3640
+#EXTINF:-1,|ES| BABY TV
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/4330
+#EXTINF:-1,|ES| TVE CLAN
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3243
+#EXTINF:-1,|ES| CLAN TVE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3973
+#EXTINF:-1,|ES| CANAL PANDA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3188
+#EXTINF:-1,|ES| DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3247
+#EXTINF:-1,|ES| DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3966
+#EXTINF:-1,|ES| DISNEY XD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3249
+#EXTINF:-1,|ES| NICKELODEON
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3931
+#EXTINF:-1,|ES| NICK JUNIOR
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3933
+#EXTINF:-1,|ES| PANDA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/4043
+#EXTINF:-1,|ES| BOING
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3246
+#EXTINF:-1,========  Musica ========
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3648
+#EXTINF:-1,|ES| MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9581
+#EXTINF:-1,|ES| MTV ESPANA
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3642
+#EXTINF:-1,|ES| DIVINITY
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/4039
+#EXTINF:-1,|ES| NON STOP POEPLE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3926
+#EXTINF:-1,========Taquilla ========
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3819
+#EXTINF:-1,|ES| TAQUILLA 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3643
+#EXTINF:-1,|ES| TAQUILLA 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3644
+#EXTINF:-1,|ES| TAQUILLA 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3645
+#EXTINF:-1,|ES| TAQUILLA 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3646
+#EXTINF:-1,|ES| TAQUILLA 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3132
+#EXTINF:-1,|ES| TAQUILLA 6
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3647
+#EXTINF:-1,|ES| TAQUILLA 7
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3134
+#EXTINF:-1,|ES| TAQUILLA 8
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3135
+#EXTINF:-1,|ES| TAQUILLA 9
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3136
+#EXTINF:-1,|ES| TAQUILLA10
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3801
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10272
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10273
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10274
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10275
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10276
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10277
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 7 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10278
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 8 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10279
+#EXTINF:-1,|ES| MOVISTAR ALQUILER 9 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/10280
+
+#EXTINF:-1,----------- ADULTES -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2752
+#EXTINF:-1,|xXx|  EROTIC HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1566
+#EXTINF:-1,|xXx|  ALBA XXX-1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1564
+#EXTINF:-1,|xXx|  PRIVATE HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1567
+#EXTINF:-1,|xXx|  BRAZZERS TV HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1563
+#EXTINF:-1,|xXx|  DORCEL HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1562
+#EXTINF:-1,|xXx|  HUSTLER HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1565
+#EXTINF:-1,|xXx|  REDLIGHT HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2974
+
+#EXTINF:-1,----------- BOUQUET SPORT ET BEIN -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2452
+#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2431
+#EXTINF:-1,|FR| BEIN SPORT 1 FHD  STABLE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9210
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/85
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3401
+#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2432
+#EXTINF:-1,|FR| BEIN SPORT 2 FHD  STABLE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9211
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3402
+#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2433
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD STABLE
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9212
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3011
+#EXTINF:-1,|FR| BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9441
+#EXTINF:-1,|FR| BEIN MAX 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1209
+#EXTINF:-1,|FR| BEIN MAX 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/894
+#EXTINF:-1,|FR| BEIN MAX 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/903
+#EXTINF:-1,|FR| BEIN MAX 7 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/902
+#EXTINF:-1,|FR| BEIN MAX 8 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/901
+#EXTINF:-1,|FR| BEIN MAX 9 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2680
+#EXTINF:-1,|FR| BEIN MAX 10 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2770
+#EXTINF:-1,----------- BEINMAX FULLHD -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3551
+#EXTINF:-1,|FR| BEIN MAX 4 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3424
+#EXTINF:-1,|FR| BEIN MAX 6 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3422
+#EXTINF:-1,|FR| BEIN MAX 5 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3423
+#EXTINF:-1,|FR| BEIN MAX 7 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3421
+#EXTINF:-1,|FR| BEIN MAX 8 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3420
+#EXTINF:-1,|FR| BEIN MAX 9 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3419
+#EXTINF:-1,|FR| BEIN MAX 10 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3418
+
+#EXTINF:-1,----------- BOUQUET SPORT ARABE -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/2446
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS NEWS HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1898
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS NEWS
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1815
+#EXTINF:-1,----------- BEIN FULLHD TRUE-----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9682
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 1 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9681
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 2 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9680
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 3 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9679
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 4 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9678
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 5 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9677
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 6 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9676
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 7 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9675
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 8 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9674
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 9 FHD.
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/9673
+#EXTINF:-1,----------- BEINSPORT H265 FHD -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6822
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 1 HEVC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8567
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 2 HEVC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8566
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 3 HEVC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8565
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 4 HEVC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8564
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 5 HEVC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8563
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 6 HEVC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8562
+#EXTINF:-1,|AR.BEIN| beIN SPORTS 7 HEVC
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8561
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6814
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6813
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6812
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6815
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6816
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6817
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 7 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6818
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 8 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6819
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 9 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6820
+#EXTINF:-1,AR.BEIN| BEIN SPORTS 10 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/6821
+#EXTINF:-1,----------- BEIN  FULLHD -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3577
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3356
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3357
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3358
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3572
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3573
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3574
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 7 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3575
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 8 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3576
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 9 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3607
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 10 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3608
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 11 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3609
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 12 FHD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3610
+#EXTINF:-1,----------- BEIN HD -----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/3578
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 1
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/892
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 2
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/890
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 3
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/889
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 4
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/888
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 5
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/887
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 6
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/886
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 7
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/885
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 8
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/884
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 9
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8105
+#EXTINF:-1,|AR.BEIN|  BEIN SPORT HD 10
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/891
+#EXTINF:-1,----------- BEIN HD ----------
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/8104
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/281
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/282
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/283
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/284
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/351
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/353
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/354
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/355
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/356
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/352
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 11 HD
+plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://ultimateiptv.me:8081/ABFU/NzG3zm4pEQ/1492
+#EXTINF:-1,|AR.BEIN| BEIN SPORTS 12 HD
+ 
+
+
+
