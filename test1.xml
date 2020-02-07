@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR pink][COLOR pink]-[/COLOR]TV_PREMIUM</title>
+<title>[COLOR pink][COLOR pink]-[/COLOR]TV_PREMIUM 1</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/lista1.m3u</externallink>
+</item>
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]TV_PREMIUM 2</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -198,4 +206,12 @@ item>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/fZksPfav</externallink>
+</item>
+
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]prueba portugues</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/portuguese.m3u</externallink>
 </item>
