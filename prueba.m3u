@@ -8,7 +8,7 @@ http://app.powerfhd.me/live/sup.php?z=997&u=772193273475979&s=223224419324459&id
 #EXTINF:-1 tvg-name="M. LaLiga 2K" tvg-logo="" group-title="MOVISTAR+",M. LaLiga 2K
 http://app.powerfhd.me/live/sup.php?z=997&u=772193273475979&s=223224419324459&id=26141&t=live&f=ts
 #EXTINF:-1 tvg-name="M. LaLiga 4K" tvg-logo="" group-title="MOVISTAR+",M. LaLiga 4K
-plugin://plugin.video.f4mTester/?name=wolf&streamtype=HLSRETRY&amp;url=http://app.powerfhd.me/live/sup.php?z=997&u=772193273475979&s=223224419324459&id=26142&t=live&f=ts
+http://app.powerfhd.me/live/sup.php?z=997&u=772193273475979&s=223224419324459&id=26142&t=live&f=ts
 #EXTINF:-1 tvg-name="M. LaLiga FULL HD" tvg-logo="" group-title="MOVISTAR+",M. LaLiga FULL HD
 http://app.powerfhd.me/live/sup.php?z=997&u=772193273475979&s=223224419324459&id=3849&t=live&f=ts
 #EXTINF:-1 tvg-name="M. LaLiga UHD 4K" tvg-logo="" group-title="MOVISTAR+",M. LaLiga UHD 4K
