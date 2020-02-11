@@ -20,5 +20,7 @@ plugin://program.plexus/?mode=1&url=acestream://793b56ae85af194bd8661f5a17bcfac2
 plugin://program.plexus/?mode=1&url=acestream://fc50356297ea6919528e0a7ab63ea16f5bedd11a&name=My+acestream+channel
 #EXTINF:-1, Huster HD
 plugin://program.plexus/?mode=1&url=acestream://512d21052629e67dbfc6b71306393a24792ccd80&name=My+acestream+channel
-
-
+#EXTINF:-1, Passion XXX
+plugin://program.plexus/?mode=1&url=acestream://3b11b41ff3694e96dfb827d858ffaafbf5b056b9&name=My+acestream+channel
+#EXTINF:-1, Blazzers TV
+plugin://program.plexus/?mode=1&url=acestream://d035036a8c34608bafbe25d97eeccfa53ad0035b&name=My+acestream+channel
