@@ -1,9 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1, Arenavision 1
-plugin://program.plexus/?mode=1&url=acestream://94222b3110e020855348929ff1caa37d9b2c4665&name=My+acestream+channel
-#EXTINF:-1, Arenavision 2
-plugin://program.plexus/?mode=1&url=acestream://0ba60a0d1bbcf25f79b2e9ff8d3ff749bb8de6ae&name=My+acestream+channel
-#EXTINF:-1, Arenavision 3
-plugin://program.plexus/?mode=1&url=acestream://ec39db0f497469731c8acd578ca756860368944c2db3&name=My+acestream+channel
-#EXTINF:-1, Arenavision 4
+
+#EXTINF:-1, La Liga Acestreams
 plugin://program.plexus/?mode=1&url=acestream://08d22acab5e8fcb2b8b67d8e04801c588184ed81&name=My+acestream+channel
