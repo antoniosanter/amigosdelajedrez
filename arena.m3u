@@ -4,3 +4,5 @@
 plugin://program.plexus/?mode=1&url=acestream://08d22acab5e8fcb2b8b67d8e04801c588184ed81&name=My+acestream+channel
 #EXTINF:-1, Liga de campeones Acestreams
 plugin://program.plexus/?mode=1&url=acestream://98eeeb100539856fb998f32d8b8fb8ea9139022b&name=My+acestream+channel
+#EXTINF:-1, Dazn
+plugin://program.plexus/?mode=1&url=acestream://a788039194b1deeeda00f0d5144a58331e614b1e&name=My+acestream+channel
