@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 #EXTINF:0, Arenavision 1
-acestream://94222b3110e020855348929ff1caa37d9b2c4665
+plugin://program.plexus/?mode=1&url=acestream://94222b3110e020855348929ff1caa37d9b2c4665&name=My+acestream+channel
 #EXTINF:-1, Arenavision 2
-acestream://94222b3110e020855348929ff1caa37d9b2c4665
+plugin://program.plexus/?mode=1&url=acestream://94222b3110e020855348929ff1caa37d9b2c4665&name=My+acestream+channel
 #EXTINF:0, Arenavision 3
-acestream://ec39db0f497469731c8acd578ca756860368944c2db3
+plugin://program.plexus/?mode=1&url=acestream://ec39db0f497469731c8acd578ca756860368944c2db3&name=My+acestream+channel
 #EXTINF:-1, Arenavision 4
-acestream://ec39db0f497469731c8acd578ca756860368944c2db3
+plugin://program.plexus/?mode=1&url=acestream://ec39db0f497469731c8acd578ca756860368944c2db3&name=My+acestream+channel
