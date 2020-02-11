@@ -24,3 +24,5 @@ plugin://program.plexus/?mode=1&url=acestream://512d21052629e67dbfc6b71306393a24
 plugin://program.plexus/?mode=1&url=acestream://3b11b41ff3694e96dfb827d858ffaafbf5b056b9&name=My+acestream+channel
 #EXTINF:-1, Blazzers TV
 plugin://program.plexus/?mode=1&url=acestream://d035036a8c34608bafbe25d97eeccfa53ad0035b&name=My+acestream+channel
+#EXTINF:-1, Erotik 18+
+plugin://program.plexus/?mode=1&url=acestream://2cf0d284147b134ad68822b9ee8f073b4e8c2e01&name=My+acestream+channel
