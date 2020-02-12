@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]TV_PREMIUM 3</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://tvpremiumhd.club/hd/lista.m3u</externallink>
+</item>
+
+<item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -117,12 +125,12 @@ item>
 </item>
 
 
-item>
+<item>
 <title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_ryu.xml</externallink>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Peliculas_ryu_2.m3u</externallink>
 </item>
 
 item>
