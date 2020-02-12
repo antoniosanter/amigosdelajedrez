@@ -2,7 +2,7 @@
 
 #EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/01/10/23/4884537.jpg", Jugando Con Fuego 
 http://regioflix.club/REGIOFLIX/310120ABC/Jugando.con.fuego.SrRegio.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/29/10/44/0186539.jpg", Geminis 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/29/10/44/0186539.jpg", Geminis 
 http://regioflix.club/REGIOFLIX/310120ABC/g3m1mn1.m4n.2019.SrRegio.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/01/08/16/54/5502811.jpg", Diamantes En Bruto 
 http://regioflix.club/REGIOFLIX/310120ABC/Diamantes.en.bruto.SrRegio.mkv
