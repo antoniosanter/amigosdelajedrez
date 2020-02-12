@@ -13,7 +13,7 @@ plugin://program.plexus/?mode=1&url=acestream://12e09b2dad97f61783402cb0a4878b61
 #EXTINF:-1, Eurosport 1 HD 
 plugin://program.plexus/?mode=1&url=acestream://4245ab78ec2b350aad90a6290348ea8e85486e7b&name=My+acestream+channel
 #EXTINF:-1, Eurosport 1 4K
-plugin://program.plexus/?mode=1&url=acestream://c30d48586896d79910dc0f593a2c0284e2e80c5b&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://2eb0dad727511c2d55c37aac3b77f216e6aa98dc&name=My+acestream+channel
 
 
 
