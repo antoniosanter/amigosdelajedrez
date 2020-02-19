@@ -64,12 +64,13 @@ item>
 <fanart></fanart>
 </item>
 
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy</title>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]directos</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://g.dailysport.pw/s1/s1.m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/directos.m3u</externallink>
 </item>
 
 <item>
@@ -91,14 +92,14 @@ item>
 
 
 <item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy 2</title>
+<title>[COLOR blue][COLOR blue]-[/COLOR]deportes arenavision</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/arena.m3u</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy 3</title>
 <thumbnail></thumbnail>
 <fanart></fanart>

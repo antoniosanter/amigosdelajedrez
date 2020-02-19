@@ -1,0 +1,14 @@
+﻿#EXTM3U
+
+#EXTINF:-1, Directos Chuky ES
+http://35.244.254.93:80/live/es/chunks.m3u8
+#EXTINF:-1, Directos Chuky LA
+http://35.244.254.93:80/live/la/chunks.m3u8
+#EXTINF:-1, Directos Feber
+http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
+#EXTINF:-1, Directos Fight Time
+https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
+#EXTINF:-1, Directos TDP
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:-1, Directos Daily
+http://acestreampi.ddns.net/dailys.m3u8
