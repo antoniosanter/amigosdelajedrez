@@ -3,7 +3,9 @@
 #EXTINF:-1, La Liga Acestreams
 plugin://program.plexus/?mode=1&url=acestream://08d22acab5e8fcb2b8b67d8e04801c588184ed81&name=My+acestream+channel
 #EXTINF:-1, Liga de campeones Acestreams
-plugin://program.plexus/?mode=1&url=acestream://98eeeb100539856fb998f32d8b8fb8ea9139022b&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://d5c39d3d88f9d1256d36ec172a6a4733b0a0bb2d&name=My+acestream+channel
+#EXTINF:-1, Liga de campeones Acestreams
+plugin://program.plexus/?mode=1&url=acestream://a6d932fe9dfec1a2f331235731e33f6a8adabbd4&name=My+acestream+channel
 #EXTINF:-1, Sport TV2 HD
 plugin://program.plexus/?mode=1&url=acestream://84fed93a0b1beefea23476ccb0c7253f9b821316&name=My+acestream+channel
 #EXTINF:-1, Sport TV3 HD
@@ -15,7 +17,10 @@ plugin://program.plexus/?mode=1&url=acestream://4245ab78ec2b350aad90a6290348ea8e
 #EXTINF:-1, Eurosport 1 4K
 plugin://program.plexus/?mode=1&url=acestream://2eb0dad727511c2d55c37aac3b77f216e6aa98dc&name=My+acestream+channel
 
-
+acestream://d5c39d3d88f9d1256d36ec172a6a4733b0a0bb2d
+ acestream://a6d932fe9dfec1a2f331235731e33f6a8adabbd4
+acestream://d5c39d3d88f9d1256d36ec172a6a4733b0a0bb2d
+acestream://a6d932fe9dfec1a2f331235731e33f6a8adabbd4
 
 #EXTINF:-1, ****Mayores +18****
 http://no.html
