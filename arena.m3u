@@ -11,16 +11,12 @@ plugin://program.plexus/?mode=1&url=acestream://84fed93a0b1beefea23476ccb0c7253f
 #EXTINF:-1, Sport TV3 HD
 plugin://program.plexus/?mode=1&url=acestream://a788039194b1deeeda00f0d5144a58331e614b1e&name=My+acestream+channel
 #EXTINF:-1, Dazn
-plugin://program.plexus/?mode=1&url=acestream://12e09b2dad97f61783402cb0a4878b61dadb1607&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://0d977b915a230ec2de2130d98c4e2ac9689454a0&name=My+acestream+channel
 #EXTINF:-1, Eurosport 1 HD 
 plugin://program.plexus/?mode=1&url=acestream://4245ab78ec2b350aad90a6290348ea8e85486e7b&name=My+acestream+channel
 #EXTINF:-1, Eurosport 1 4K
 plugin://program.plexus/?mode=1&url=acestream://2eb0dad727511c2d55c37aac3b77f216e6aa98dc&name=My+acestream+channel
 
-acestream://d5c39d3d88f9d1256d36ec172a6a4733b0a0bb2d
- acestream://a6d932fe9dfec1a2f331235731e33f6a8adabbd4
-acestream://d5c39d3d88f9d1256d36ec172a6a4733b0a0bb2d
-acestream://a6d932fe9dfec1a2f331235731e33f6a8adabbd4
 
 #EXTINF:-1, ****Mayores +18****
 http://no.html
