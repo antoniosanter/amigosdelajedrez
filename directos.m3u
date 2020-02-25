@@ -6,10 +6,14 @@ http://35.201.84.52/live/bt3/chunks.m3u8
 https://g.dailysport.pw/epl02/epl02.m3u8
 #EXTINF:-1, Directos Chuky ES
 http://35.244.254.93:80/live/es/chunks.m3u8
-#EXTINF:-1, Directos Feber
+#EXTINF:-1, Directos Feber 1
 http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
+#EXTINF:-1, Directos Feber 2
+http://push7.feber.xyz/hls/channel8hd29/chunks.m3u8
+#EXTINF:-1, Directos Feber 3
+http://push19.feber.xyz/hls/channe21hd47/chunks.m3u8
 #EXTINF:-1, Daily 1
-https://g.dailysport.pw/xx1/x1.m3u8
+https://g.dailysport.pw/x3/x3.m3u8
 #EXTINF:-1, Daily 2
 https://g.dailysport.pw/xx2/x2.m3u8
 #EXTINF:-1, Directos Chuky LA
