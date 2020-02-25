@@ -4,6 +4,8 @@
 http://35.201.84.52/live/bt3/chunks.m3u8
 #EXTINF:-1, Napoli vs Barcelona opcion 2
 https://g.dailysport.pw/epl02/epl02.m3u8
+#EXTINF:-1, Napoli vs Barcelona opcion 3
+http://ueagrouup.azureedge.net:80/hls/br3/chunks.m3u8
 #EXTINF:-1, Directos Chuky ES
 http://35.244.254.93:80/live/es/chunks.m3u8
 #EXTINF:-1, Directos Feber 1
@@ -16,6 +18,8 @@ http://push19.feber.xyz/hls/channe21hd47/chunks.m3u8
 https://g.dailysport.pw/x3/x3.m3u8
 #EXTINF:-1, Daily 2
 https://g.dailysport.pw/xx2/x2.m3u8
+#EXTINF:-1, Daily 3
+https://g.dailysport.pw/x1/x1.m3u8
 #EXTINF:-1, Directos Chuky LA
 http://35.244.254.93:80/live/la/chunks.m3u8
 #EXTINF:-1, Directos Fight Time
