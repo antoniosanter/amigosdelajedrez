@@ -1,5 +1,9 @@
 ﻿#EXTM3U
 
+#EXTINF:-1, Napoli vs Barcelona opcion 1
+http://35.201.84.52/live/bt3/chunks.m3u8
+#EXTINF:-1, Napoli vs Barcelona opcion 2
+https://g.dailysport.pw/epl02/epl02.m3u8
 #EXTINF:-1, Directos Chuky ES
 http://35.244.254.93:80/live/es/chunks.m3u8
 #EXTINF:-1, Directos Feber
