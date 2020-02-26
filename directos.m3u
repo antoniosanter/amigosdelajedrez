@@ -1,27 +1,23 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, Napoli vs Barcelona opcion 1
-http://35.201.84.52/live/bt3/chunks.m3u8
-#EXTINF:-1, Napoli vs Barcelona opcion 2
-https://g.dailysport.pw/epl02/epl02.m3u8
-#EXTINF:-1, Napoli vs Barcelona opcion 3
-http://ueagrouup.azureedge.net:80/hls/br3/chunks.m3u8
+#EXTINF:-1, Directos Evento mas importante por Feber 1
+http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
+#EXTINF:-1, Directos Evento mas importante por Feber 2
+http://push19.feber.xyz/hls/channel21hd47/chunks.m3u8
+#EXTINF:-1, Directo Acestream UEFA CHAMPIONS LEAGUE REAL MADRID-MANCHESTER CITY
+plugin://program.plexus/?mode=1&url=acestream://361dcc828d8e3e0cb2c8cd15eeeb5355a6d45a2c&name=My+acestream+channel
+#EXTINF:-1, Directo Acestream UEFA CHAMPIONS LEAGUE OLYMPIQUE LYON-JUVENTUS
+plugin://program.plexus/?mode=1&url=acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c&name=My+acestream+channel
 #EXTINF:-1, Directos Chuky ES
 http://35.244.254.93:80/live/es/chunks.m3u8
-#EXTINF:-1, Directos Feber 1
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
-#EXTINF:-1, Directos Feber 2
-http://push7.feber.xyz/hls/channel18hd29/chunks.m3u8
-#EXTINF:-1, Directos Feber 3
-http://push19.feber.xyz/hls/channel21hd47/chunks.m3u8
 #EXTINF:-1, Daily 1
 https://g.dailysport.pw/x3/x3.m3u8
 #EXTINF:-1, Daily 2
 https://g.dailysport.pw/xx2/x2.m3u8
 #EXTINF:-1, Daily 3
 https://g.dailysport.pw/x1/x1.m3u8
-#EXTINF:-1, Directos Chuky LA
-http://35.244.254.93:80/live/la/chunks.m3u8
+#EXTINF:-1, Daily 4
+https://g.dailysport.pw/epl02/epl02.m3u8
 #EXTINF:-1, Directos Fight Time
 https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
 #EXTINF:-1, Directos TDP
