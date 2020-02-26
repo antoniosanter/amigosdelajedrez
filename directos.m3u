@@ -6,6 +6,8 @@ http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
 http://push19.feber.xyz/hls/channel21hd47/chunks.m3u8
 #EXTINF:-1, Directo Acestream UEFA CHAMPIONS LEAGUE REAL MADRID-MANCHESTER CITY
 plugin://program.plexus/?mode=1&url=acestream://361dcc828d8e3e0cb2c8cd15eeeb5355a6d45a2c&name=My+acestream+channel
+#EXTINF:-1, Directo Acestream UEFA CHAMPIONS LEAGUE REAL MADRID-MANCHESTER CITY
+plugin://program.plexus/?mode=1&url=acestream://01d637270fcafa0419925f405d00c8ec8d2bb9ac&name=My+acestream+channel
 #EXTINF:-1, Directo Acestream UEFA CHAMPIONS LEAGUE OLYMPIQUE LYON-JUVENTUS
 plugin://program.plexus/?mode=1&url=acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c&name=My+acestream+channel
 #EXTINF:-1, Directos Chuky ES
