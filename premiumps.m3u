@@ -1,0 +1,218 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jbC4Ct0/La-1.gif"group-title="TDT", La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/YhnnPK6/La-2.gif"group-title="TDT", La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_2800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/58qD5PH/Antena-3.gif"group-title="TDT", Antena 3
+https://livestartover.atresmedia.com/geoantena3/bitrate_3.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/BTFVVnH/La-4.gif"group-title="TDT", La 4
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/h9vrfnW/tele-5.gif"group-title="TDT", Tele 5
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8gcnJxq/la-sexta.gif"group-title="TDT", La Sexta
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/Jv27HY1/Mega.gif"group-title="TDT", Mega
+https://livestartover-i.akamaized.net/geomega/master.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/xLKKsG0/fdf.gif"group-title="TDT", FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/mNtgMVH/neox.gif"group-title="TDT", Neox
+https://livestartover-i.akamaized.net/geoneox/master.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/fSqc0Kb/nova.gif"group-title="TDT", Nova
+https://livestartover-i.akamaized.net/geonova/master.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/0B4VNsD/Be-mad.gif"group-title="TDT", Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/LrX6mjv/Divinity.gif"group-title="TDT", Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/kSxgr3R/Paramount.gif"group-title="TDT", Paramount
+https://paramount-live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FK15syj/Boing.gif"group-title="TDT", Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://static3.abc.es/media/play/2018/12/27/gh-duo-k97D--620x349@abc.jpg"group-title="TDT", Gran Hermano duo
+https://zimblektv02.blogspot.com/2014/03/ver-gran-hermano-duo-online-en-directo.html?m=1
+ 
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ftkr6MH/atencion-2.gif"group-title="CINE", Tarda en cargar 20 SEGUNDOS
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/tQbDC7M/jumanji-1.gif"group-title="CINE", Jumanji
+https://clipwatching.com/w68g0ps6ee9f.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/L908BQY/juma-1.gif"group-title="CINE", Jumanji: Bienvenidos a la jungla HD
+https://clipwatching.com/vxrxlni7s4ji.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/FgyVsmW/juma.gif"group-title="CINE", Jumanji: siguiente nivel DVD Screen
+https://clipwatching.com/oqglkqyosqy7.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/99TFQM2/star-ultima-2.gif"group-title="CINE", Star Wars TS
+https://clipwatching.com/5wifn6mo1muo.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/99TFQM2/star-ultima-2.gif"group-title="CINE", Star Wars TS:Sub Kore
+https://vidoza.co/embed-at8fgqeoci4s.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/RSX6KFL/star.gif"group-title="CINE", V.O.S.E Star Wars Avengers Infinity   
+https://clipwatching.com/lvgvoaf3bfag/Star.Wars.Episode.VII.The.Force.Awakens.2015.BRRip.XViD.AC3-ETRG_HDTV.avi.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/nBns9qy/frozen-2.gif"group-title="CINE", Frozen 2 DVD Screnner
+https://clipwatching.com/yamwfa72rb7h.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/rQ7mYnV/el-sexto-sentido.gif"group-title="CINE", El sexto sentido
+https://clipwatching.com/f51pcfick4kr/el_sexto_sentido.avi.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/5YK0Ms9/le-mans.gif"group-title="CINE", Le mans 66 DVD Screnner
+https://clipwatching.com/ivqo0gj6a0ha.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/S7NdcyT/Quien-a-hierro-mata.gif"group-title="CINE", Quien a hierro mata HDRIP
+https://clipwatching.com/vz00e71fw4ey.html#
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://www.elseptimoarte.net/carteles/341/dios_mio_pero_que_te_hemos_hecho_32604.jpg"group-title="CINE", Dios mio ¿pero que te hemos hecho? HDRIP
+https://clipwatching.com/ymjec84m4aui/Dios_mio_pero_que_te_hemos_hecho_(HDRip)_(Elitetorrent.net).avi.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/g6ddKF5/The-poison.gif"group-title="CINE", The Poison Rose
+https://clipwatching.com/2hz7xessz9o2.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://www.elseptimoarte.net/carteles/341/a_47_metros_2_77202.jpg"group-title="CINE", A 47 metros 2 HDRIP
+https://clipwatching.com/ud6hmze9gt6l.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/03/16/58/5053583.jpg"group-title="CINE",   Terminator: Destino oscuro
+https://clipwatching.com/nghv2wd7rsat.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="http://es.web.img2.acsta.net/pictures/14/02/18/16/51/000179.jpg"group-title="CINE", HDRIP No se aceptan devoluciones
+https://clipwatching.com/f29p2towo29r/No_se_aceptan_devoluciones_(HDRip)_(By_chuky).avi.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/95/76/74/20426978.jpg"group-title="CINE", DVDRIP El violín rojo
+https://clipwatching.com/iflguyw8ni8y/El_violin_rojo[DVDrip][Castellano][By_chuky].avi.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/mientras-dure-la-guerra/37868571-9-esl-ES/mientras-dure-la-guerra.jpg"group-title="CINE", Mientras dure la guerra
+https://vidoza.net/8357jecxqd21
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://hdfull.io/tthumb/172x256/movie_aa874c038db4311d96541714383d5cf2.jpg"group-title="CINE", Las aventuras del Doctor Dolittle DVD Screen
+https://vidtoup.com/7kniihwqurv4
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://m.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/manou/37923942-10-esl-ES/manou.jpg"group-title="CINE", Manou HD
+https://clipwatching.com/za52eve1p8i4.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/13/3740579.jpg"group-title="CINE", Parásitos HD
+https://allvids.co/212ogxv92hz4
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://hdfull.io/tthumb/172x256/movie_0bc8003f5f48de17b7d647dd05e9094a.jpg"group-title="CINE", Campeones HD
+https://clipwatching.com/eml8bq96zrls.html
+ 
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/ftkr6MH/atencion-2.gif"group-title="SERIES", Tarda en cargar 20 SEGUNDOS
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", 
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", The Witcher cap 1
+https://vidtoup.com/l8nzxxeli4m0
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", The Witcher cap 2
+https://vidtoup.com/juz95o0uklgh
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", The Witcher cap 3
+https://vidtoup.com/znv7cuv8oibm
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", The Witcher cap 4
+https://vidtoup.com/1lvl98zwwg9e
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", The Witcher cap 5
+https://clipwatching.com/we6ipqmtf9kj.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", The Witcher cap 6
+https://clipwatching.com/zdjsvgwjp6mh.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", The Witcher cap 7
+https://clipwatching.com/d59et9uulcda.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/CmfRbCD/The-wich.gif"group-title="SERIES", The Witcher cap 8
+https://clipwatching.com/y9of2zf9gugt.html
+ 
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", Temporada 1
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", El pueblo cap 1
+https://clipwatching.com/us43u6xfyl5o.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", El pueblo cap 2
+https://clipwatching.com/1lpn5h8am8eo.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", El pueblo cap 3
+https://clipwatching.com/orkpwk0en452.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", El pueblo cap 4
+https://clipwatching.com/dutxg0bjjv4x.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", El pueblo cap 5
+https://clipwatching.com/xr7emsf88fg1.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", El pueblo cap 6
+https://clipwatching.com/gcg03okx52mo.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", El pueblo cap 7
+https://clipwatching.com/66tb9zhy3ysq.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/jGjJVnQ/el-pueblo.gif"group-title="SERIES", El pueblo cap 8
+https://clipwatching.com/wmwejrukmhi9.html
+ 
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", Temporada 2
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", El pueblo cap 1
+https://vidtoup.com/iuxr77yzn0q8
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", El pueblo cap 2
+https://vidtoup.com/g5cmtqu5uigj
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", El pueblo cap 3
+https://vidtoup.com/5i9cd8fj2jrn
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", El pueblo cap 4
+https://vidtoup.com/0uvn11y6j2sl
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", El pueblo cap 5
+https://clipwatching.com/embed-xr7emsf88fg1.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", El pueblo cap 6
+https://clipwatching.com/embed-5smwkzvdvme9.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", El pueblo cap 7
+https://clipwatching.com/embed-bi2hu9pdhmah.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/4V8LW0T/El-pueblo-segunda.gif"group-title="SERIES", El pueblo cap 8
+https://clipwatching.com/embed-clw9s5zybz9g.html
+ 
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 1
+https://vidtoply.com/im2hsaa184nw
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 2
+https://vidtoply.com/i3onwjan2gqy
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 3
+https://vidtoply.com/93boo9gao79t
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 4
+https://vidtoply.com/gagrxrcb1ozh
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 5
+https://clipwatching.com/wdywo3zjo0gb.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 6
+https://lasmxciosd201id2s0o2axmelsopco212i1l0m.com/yinvf131wu2g
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 7
+https://vidoza.net/ypnb9lwr76f2
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 8
+https://vidtoup.com/64f7dsfywkke
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/vsBVW30o4lY/maxresdefault.jpg"group-title="SERIES", T6 Vikingos cap 9
+https://vidtoup.com/c5nv0nqg4ns2
+ 
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8sxbvmN/dra.gif"group-title="SERIES", 
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8sxbvmN/dra.gif"group-title="SERIES", Drácula cap 1
+https://clipwatching.com/sn58vby429w4.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8sxbvmN/dra.gif"group-title="SERIES", Drácula cap 2
+https://clipwatching.com/weoivoqkquec.html
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/8sxbvmN/dra.gif"group-title="SERIES", Drácula cap 3
+https://clipwatching.com/o9wwrnj0rpw2.html
+ 
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", Temporada 1
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 1
+https://vidtoup.com/rgcvytrxiuye
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 2
+https://vidtoup.com/f0nskvly9ez4
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 3
+https://vidtoup.com/8qzbmktfbh9d
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 4
+https://vidtoup.com/0fzm1p7vcpny
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 5
+https://vidtoup.com/iovb4cucuszf
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 6
+https://vidtoup.com/j744rasr8kyo
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 7
+https://vidtoup.com/2lv3lj5cysxj
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 8
+https://vidtoup.com/twuvvhg48b3l
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 9
+https://vidtoup.com/aemfl7o7cmrw
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 10
+https://vidtoup.com/ll92jdj1dh2p
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 11
+https://vidtoup.com/whoawh1x5tgf
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 12
+https://vidtoup.com/a894t38s55ox
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 13
+https://vidtoup.com/2yf7ojim5sse
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 14
+https://vidtoup.com/tvetgxx8fx3x
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 15
+https://vidtoup.com/nv0pgutl6zj3
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/QfkvPTn/Manifest.gif"group-title="SERIES", T1 Manifest cap 16
+https://vidtoup.com/wt4mkb1nxt8c
+ 
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/89QdsF1/Manifest-2.gif"group-title="SERIES", Temporada 2
+https://www.google.es/
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/89QdsF1/Manifest-2.gif"group-title="SERIES", T2 Manifest cap 1
+https://vidtoup.com/1zlhicccxlqp
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/89QdsF1/Manifest-2.gif"group-title="SERIES", T2 Manifest cap 2
+https://vidtoup.com/u10ze7kp15xa
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/89QdsF1/Manifest-2.gif"group-title="SERIES", T2 Manifest cap 3
+https://vidtoup.com/dh7sdw71cock
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/89QdsF1/Manifest-2.gif"group-title="SERIES", T2 Manifest cap 4
+https://vidtoup.com/8deylwdwranp
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/89QdsF1/Manifest-2.gif"group-title="SERIES", T2 Manifest cap 5
+https://vidtoup.com/p8zfi8flxgwu
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/89QdsF1/Manifest-2.gif"group-title="SERIES", T2 Manifest cap 6
+https://vidtoup.com/9cuxtiflmkui
+#EXTINF:-1, tvg-logo=#EXTINF:-1, tvg-logo="https://i.ibb.co/89QdsF1/Manifest-2.gif"group-title="SERIES", T2 Manifest cap 7
+https://vidtoup.com/nvb4lkiu6y27
