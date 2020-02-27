@@ -1,6 +1,11 @@
 ﻿#EXTM3U
 
-
+#EXTINF:-1, Acestream 18:55 SOCCER UEFA EUROPA LEAGUE ESPANYOL-WOLVERHAMPTON
+plugin://program.plexus/?mode=1&url=acestream://361dcc828d8e3e0cb2c8cd15eeeb5355a6d45a2c&name=My+acestream+channel
+#EXTINF:-1, Acestream 21:00 SOCCER UEFA EUROPA LEAGUE AJAX-GETAFE
+plugin://program.plexus/?mode=1&url=acestream://361dcc828d8e3e0cb2c8cd15eeeb5355a6d45a2c&name=My+acestream+channel
+#EXTINF:-1, Acestream 21:00 SOCCER UEFA EUROPA LEAGUE SEVILLA-CLUJ
+plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
 #EXTINF:-1, Directos hoy Chunks
 http://push19.feber.xyz/hls/channel21hd47/chunks.m3u8
 #EXTINF:-1, Directos hoy Daily
@@ -10,15 +15,17 @@ http://push7.feber.xyz/hls/channel18hd29/chunks.m3u8
 #EXTINF:-1, Directos hoy Feber 2
 http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
 #EXTINF:-1, Directos hoy Nova
+http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8
+#EXTINF:-1, Directos hoy Nova 2
+http://novacdn.org/broadcasts/khl/khl.m3u8
+#EXTINF:-1, Directos hoy Nova 3
+http://novacdn.org/broadcasts/khlhd/khlhd.m3u8
+#EXTINF:-1, Directos hoy Nova 4
+http://novacdn.org/broadcasts/matchfutbol2/matchfutbol2.m3u8
+#EXTINF:-1, Directos hoy Nova 5
 http://novacdn.org/broadcasts/matchfutbol3/matchfutbol3.m3u8
-
-#EXTINF:-1, Acestream 18:55 SOCCER UEFA EUROPA LEAGUE ESPANYOL-WOLVERHAMPTON
-plugin://program.plexus/?mode=1&url=acestream://361dcc828d8e3e0cb2c8cd15eeeb5355a6d45a2c&name=My+acestream+channel
-#EXTINF:-1, Acestream 21:00 SOCCER UEFA EUROPA LEAGUE AJAX-GETAFE
-plugin://program.plexus/?mode=1&url=acestream://361dcc828d8e3e0cb2c8cd15eeeb5355a6d45a2c&name=My+acestream+channel
-#EXTINF:-1, Acestream 21:00 SOCCER UEFA EUROPA LEAGUE SEVILLA-CLUJ
-plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
-
+#EXTINF:-1, Directos hoy Nova 6
+http://novacdn.org/broadcasts/setantaua/setantaua.m3u8 
 #EXTINF:-1, Directos Chuky ES
 http://35.244.254.93:80/live/es/chunks.m3u8
 #EXTINF:-1, Daily 1
