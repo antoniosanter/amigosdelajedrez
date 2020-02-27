@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1, Acestream LA LIGA BAR 1080
+plugin://program.plexus/?mode=1&url=acestream://6f3e26ca8e7308977f3a5abca81895d7037e4908&name=My+acestream+channel
 #EXTINF:-1, La Liga Acestreams
 plugin://program.plexus/?mode=1&url=acestream://08d22acab5e8fcb2b8b67d8e04801c588184ed81&name=My+acestream+channel
 #EXTINF:-1, Liga de campeones Acestreams

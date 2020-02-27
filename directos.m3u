@@ -6,7 +6,7 @@ plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d415
 #EXTINF:-1, Acestream 18:55 SOCCER UEFA EUROPA LEAGUE ESPANYOL-WOLVERHAMPTON
 plugin://program.plexus/?mode=1&url=acestream://19c1dd78f5749a99238adda7c73d35b7f7752aa0&name=My+acestream+channel
 #EXTINF:-1, Acestream 21:00 SOCCER UEFA EUROPA LEAGUE AJAX-GETAFE
-plugin://program.plexus/?mode=1&url=acestream://6f3e26ca8e7308977f3a5abca81895d7037e4908&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://9ce18b5f26f178fa59c1f705b0d6aa574c922f04&name=My+acestream+channel
 #EXTINF:-1, Acestream 21:00 SOCCER UEFA EUROPA LEAGUE SEVILLA-CLUJ
 plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
 #EXTINF:-1, Acestream 21:00 SOCCER UEFA EUROPA LEAGUE SEVILLA-CLUJ
