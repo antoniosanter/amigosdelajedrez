@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
+plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d4158bed479f&name=My+acestream+channel
 #EXTINF:-1, Acestream 18:55 SOCCER UEFA EUROPA LEAGUE ESPANYOL-WOLVERHAMPTON
 plugin://program.plexus/?mode=1&url=acestream://361dcc828d8e3e0cb2c8cd15eeeb5355a6d45a2c&name=My+acestream+channel
 #EXTINF:-1, Acestream 21:00 SOCCER UEFA EUROPA LEAGUE AJAX-GETAFE
