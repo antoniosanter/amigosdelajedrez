@@ -1,5 +1,18 @@
 ﻿#EXTM3U
 
+#EXTINF:-1, 13:00 The Championship Of Spain. Eibar - Levante
+http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
+http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
+#EXTINF:-1, 16:00 Spanish Primera Division. Valencia - Real Betis
+http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
+http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
+#EXTINF:-1, 18:30 Spanish Primera Division. Leganes - Deportivo Alaves
+http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
+http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
+#EXTINF:-1, 21:00 Spanish Primera Division. Granada - Celta
+http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
+http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
+
 #EXTINF:-1, Acestream Formula 1
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
 #EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
