@@ -2,6 +2,10 @@
 
 #EXTINF:-1, Acestream Formula 1
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
+#EXTINF:-1, Acestream La Liga
+plugin://program.plexus/?mode=1&url=acestream://752be2f1511c25efa456a7c81747da66e251098a&name=My+acestream+channel
+#EXTINF:-1, Acestream La Liga Bar
+plugin://program.plexus/?mode=1&url=acestream://fff00861dd6984b4c6acb41cb823b41f82b4afcf&name=My+acestream+channel
 #EXTINF:-1, 13:00 Spanish Primera Division. Eibar - Levante
 http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
 #EXTINF:-1, 13:00 Spanish Primera Division. Eibar - Levante
