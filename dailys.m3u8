@@ -1,0 +1,76 @@
+#EXTM3U 
+
+#EXTINF:-1, Activador
+https://dailysport.pw/login
+#EXTINF:-1, Key
+https://dailysport.pw/key
+#EXTINF:-1 group-title="Deportes", Valencia vs Betis
+https://g.dailysport.pw/x1/x1.m3u8
+#EXTINF:-1 group-title="Deportes", Valencia vs Betis(English)
+https://g.dailysport.pw/x11/x11.m3u8
+#EXTINF:-1 group-title="Deportes", Leganés vs Alavés
+https://g.dailysport.pw/x1/x1.m3u8
+#EXTINF:-1 group-title="Deportes", Leganés vs Alavés(English)
+https://g.dailysport.pw/x2/x2.m3u8
+#EXTINF:-1 group-title="Deportes", Leganés vs Alavés(English)
+https://g.dailysport.pw/x11/x11.m3u8
+#EXTINF:-1 group-title="Deportes", Granada vs Celta de Vigo
+https://g.dailysport.pw/x1/x1.m3u8
+#EXTINF:-1 group-title="Deportes", Granada vs Celta de Vigo(English)
+https://g.dailysport.pw/x2/x2.m3u8
+#EXTINF:-1 group-title="Deportes", Granada vs Celta de Vigo(English)
+https://g.dailysport.pw/x11/x11.m3u8
+#EXTINF:-1 group-title="Deportes", Bournemouth vs Chelsea
+https://g.dailysport.pw/x3/x3.m3u8
+#EXTINF:-1 group-title="Deportes", Bournemouth vs Chelsea(English)
+https://g.dailysport.pw/x4/x4.m3u8
+#EXTINF:-1 group-title="Deportes", Newcastle vs Burnley
+https://g.dailysport.pw/epl02/epl02.m3u8
+#EXTINF:-1 group-title="Deportes", West Ham vs Southampton
+https://g.dailysport.pw/epl03/epl03.m3u8
+#EXTINF:-1 group-title="Deportes", Watford vs Liverpool
+https://g.dailysport.pw/x3/x3.m3u8
+#EXTINF:-1 group-title="Deportes", Watford vs Liverpool(English)
+https://g.dailysport.pw/x4/x4.m3u8
+#EXTINF:-1 group-title="Deportes", Huesca vs Extremadura
+https://g.dailysport.pw/x6/x6.m3u8
+#EXTINF:-1 group-title="Deportes", Ponferradina vs Sporting Gijón
+https://g.dailysport.pw/x7/x7.m3u8
+#EXTINF:-1 group-title="Deportes", Cádiz vs Almería
+https://g.dailysport.pw/x5/x5.m3u8
+#EXTINF:-1 group-title="Deportes", Albacete vs Rayo
+https://g.dailysport.pw/x6/x6.m3u8
+#EXTINF:-1 group-title="Deportes", Racing Santander vs Real Zaragoza
+https://g.dailysport.pw/x7/x7.m3u8
+#EXTINF:-1 group-title="Deportes", Hoffenheim vs FC Bayern
+https://g.dailysport.pw/x5/x5.m3u8
+#EXTINF:-1 group-title="Deportes", Napoli vs Torino
+https://g.dailysport.pw/x5/x5.m3u8
+#EXTINF:-1 group-title="Deportes", PSG vs Dijon
+https://acestreampi.ddns.net/movis.mp4
+#EXTINF:-1 group-title="Deportes", AS Monaco vs Stade de Reims
+https://acestreampi.ddns.net/movis.mp4
+#EXTINF:-1 group-title="Deportes", Casademont Zaragoza vs Movistar Estudiantes
+https://g.dailysport.pw/epl02/epl02.m3u8
+#EXTINF:-1 group-title="Deportes", Iberostar Tenerife vs Joventut Badalona
+https://g.dailysport.pw/x12/x12.m3u8
+#EXTINF:-1 group-title="Deportes", MoraBanc Andorra vs Herbalife Gran Canaria
+https://g.dailysport.pw/x12/x12.m3u8
+#EXTINF:-1 group-title="Deportes", Montakit Fuenlabrada vs Kirolbet Baskonia
+https://g.dailysport.pw/x10/x10.m3u8
+#EXTINF:-1 group-title="Deportes", Chicago Bulls vs New York Knicks
+https://g.dailysport.pw/x5/x5.m3u8
+#EXTINF:-1 group-title="Deportes", DC United vs Colorado Rapids
+https://acestreampi.ddns.net/movis.mp4
+#EXTINF:-1 group-title="Deportes", Montreal Impact vs New England
+https://acestreampi.ddns.net/movis.mp4
+#EXTINF:-1 group-title="Deportes", Houston Dynamo vs LA Galaxy
+https://g.dailysport.pw/x20/x20.m3u8
+#EXTINF:-1 group-title="Deportes", UFC - It will be updated more later
+#EXTINF:-1 tvg-logo="http://acestreampi.ddns.net/up.png" group-title="Deportes", ACTIVADOR
+https://dailysport.pw/c1.php
+#EXTINF:-1 tvg-logo="http://acestreampi.ddns.net/up.png" group-title="Deportes", Actualizado 29-02-2020 17h
+#EXTINF:-1, Activador
+https://g.dailysport.pw/x1/x1-4752.ts
+#EXTINF:-1 tvg-logo="http://acestreampi.ddns.net/tel.png" group-title="Deportes", +info
+494668b4c0ef4d25bda4e75c27de2817=23397f7a-85e1-49e4-86b7-1e9e515c7e85:3:2; _gid=GA1.2.896546501.1582973797; _ga=GA1.2.1394009036.1579368334; auth=LqoRtbxzG7fx0VrDmj3nmhaYNgHyK2U3Gc1w9hUnx71aIjlyLNwgjEsw
