@@ -2,49 +2,25 @@
 
 #EXTINF:-1, Acestream Formula 1
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
+#EXTINF:-1, La Liga en directo. Opción 1
+http://34.107.131.44/live/l/chunks.m3u8
+#EXTINF:-1, La Liga en directo. Opción 2
+http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
+#EXTINF:-1, La Liga en directo. Opción 3
+http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
 #EXTINF:-1, Acestream La Liga
 plugin://program.plexus/?mode=1&url=acestream://752be2f1511c25efa456a7c81747da66e251098a&name=My+acestream+channel
 #EXTINF:-1, Acestream La Liga Bar
 plugin://program.plexus/?mode=1&url=acestream://fff00861dd6984b4c6acb41cb823b41f82b4afcf&name=My+acestream+channel
 #EXTINF:-1, Acestream La Liga Bar 1080 solo para fibra
 plugin://program.plexus/?mode=1&url=acestream://0542dc6f57459e4566dece214353463331bf7cc5&name=My+acestream+channel
-#EXTINF:-1, 16:00 Spanish Primera Division. Valencia - Real Betis
-http://34.107.131.44/live/l/chunks.m3u8
-#EXTINF:-1, 16:00 Spanish Primera Division. Valencia - Real Betis
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
-#EXTINF:-1, 16:00 Spanish Primera Division. Valencia - Real Betis
-http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
-#EXTINF:-1, 16:00 Spanish Primera Division. Valencia - Real Betis
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
-#EXTINF:-1, 18:30 Spanish Primera Division. Leganes - Deportivo Alaves
-http://34.107.131.44/live/l/chunks.m3u8
-#EXTINF:-1, 18:30 Spanish Primera Division. Leganes - Deportivo Alaves
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
-#EXTINF:-1, 18:30 Spanish Primera Division. Leganes - Deportivo Alaves
-http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
-#EXTINF:-1, 18:30 Spanish Primera Division. Leganes - Deportivo Alaves
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
-#EXTINF:-1, 21:00 Spanish Primera Division. Granada - Celta
-http://34.107.131.44/live/l/chunks.m3u8
-#EXTINF:-1, 21:00 Spanish Primera Division. Granada - Celta
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
-#EXTINF:-1, 21:00 Spanish Primera Division. Granada - Celta
-http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
-#EXTINF:-1, 21:00 Spanish Primera Division. Granada - Celta
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
-#EXTINF:-1, 13: 30 Football. championship of England. Championship. Hull City - Leeds United
+#EXTINF:-1, Premier Opcion 1
 http://novacdn.org/broadcasts/setantaua/setantaua.m3u8
-#EXTINF:-1, 13: 30 Football. championship of England. Championship. Hull City - Leeds United
-http://novacdn.org/broadcasts/setantaua/setantaua.m3u8
-#EXTINF:-1, 16: 00 Football. championship of England. Premier League. West Ham United - Southampton
+#EXTINF:-1, Premier Opcion 2
 http://34.107.131.44/live/west/chunks.m3u8
-#EXTINF:-1, 16: 00 Football. championship of England. Premier League. West Ham United - Southampton
-http://novacdn.org/broadcasts/setantaua/setantaua.m3u8
-#EXTINF:-1, 18: 30 Football. championship of England. Premier League. Watford - Liverpool
-http://novacdn.org/broadcasts/setantaua/setantaua.m3u8
-#EXTINF:-1, AFC Bournemouth vs Chelsea 16:00
+#EXTINF:-1, Premier Opcion 3
 http://34.107.131.44/live/n/chunks.m3u8
-#EXTINF:-1, Newcastle United vs Burnley 16:00
+#EXTINF:-1, Premier Opcion 4
 http://34.107.131.44/live/new/chunks.m3u8
 #EXTINF:-1, Acestream VARIOS HOY PREMIER
 plugin://program.plexus/?mode=1&url=acestream://f2d6a893bc3da40537d4a40aaedeb20adc494dcb&name=My+acestream+channel
