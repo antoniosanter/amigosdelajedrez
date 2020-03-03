@@ -8,7 +8,7 @@
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/premiumps.m3u</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR pink][COLOR pink]-[/COLOR]TV_PREMIUM</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -29,24 +29,16 @@ item>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>http://91.121.64.179/tdt_project/output/channels.m3u</externallink>
+<externallink>http://www.tdtchannels.com/lists/channels.m3u8</externallink>
 </item>
 
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]CANALES TV2</title> 
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>http://91.121.64.179/tdt_project/output/channels.m3u8</externallink>
-</item>
 
 <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]CANALES RADIO</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://91.121.64.179/tdt_project/output/radio_channels.m3u</externallink>
-<externallink>http://91.121.64.179/tdt_project/output/radio_channels.m3u8</externallink>
+<externallink>http://www.tdtchannels.com/lists/radio_channels.m3u8</externallink>
 </item>
 
 <item>
@@ -90,7 +82,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/MUSICA_ryu.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]CINE 24H TOTAL</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -216,7 +208,7 @@ item>
 <externallink>https://pastebin.com/raw/fZksPfav</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR pink][COLOR pink]-[/COLOR]prueba portugues</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
