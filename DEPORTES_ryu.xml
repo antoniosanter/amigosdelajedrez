@@ -64,6 +64,13 @@ item>
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes hoy </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>
+</item>
 
 <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]directos</title>
@@ -74,7 +81,7 @@ item>
 </item>
 
 <item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy 1</title>
+<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy (en arreglo)</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -82,16 +89,10 @@ item>
 </item>
 
 
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]Activador deportes hoy 1</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>http://mullafabz.xyz/HOST/LiveTV/sportsstreamz.xml</externallink>
-</item>
 
 
-<item>
+
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]deportes arenavision</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -124,7 +125,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]Prueba La Liga</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
