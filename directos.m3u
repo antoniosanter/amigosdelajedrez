@@ -1,7 +1,29 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, Acestream Formula 1
+#EXTINF:-1, M. LIGA DE CAMPEONES
+plugin://program.plexus/?mode=1&url=acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c&name=My+acestream+channel
+
+#EXTINF:-1, 18:30 CET SOCCER DFB POKAL BAYER LEVERKUSEN-UNION BERLIN
+plugin://program.plexus/?mode=1&url=acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c&name=My+acestream+channel
+
+#EXTINF:-1, 20:45 CET SOCCER FA CUP SHEFFIELD WEDNESDAY-MANCHESTER CITY
+plugin://program.plexus/?mode=1&url=acestream://b35893613efbcdb4b4e8a4a1be39651093cad9df&name=My+acestream+channel
+
+#EXTINF:-1, 20:45 CET SOCCER FA CUP TOTTENHAM HOTSPUR-NORWICH CITY
+plugin://program.plexus/?mode=1&url=acestream://ee607df847b1b6d0accf4b189ef353a67e2a86c1&name=My+acestream+channel
+
+#EXTINF:-1, 20:45 CET SOCCER ITALY CUP JUVENTUS-AC MILAN
+plugin://program.plexus/?mode=1&url=acestream://de327a53a97219088cd3d4f4ad721c4bfd191168&name=My+acestream+channel
+
+#EXTINF:-1, 21:00 CET SOCCER COPA DEL REY MIRANDES-REAL SOCIEDAD
+plugin://program.plexus/?mode=1&url=acestream://5178725227a75a4172e52bbf4eb16391d6a6b3a7&name=My+acestream+channel
+
+#EXTINF:-1, 21:10 CET SOCCER FRENCH CUP OLYMPIQUE LYON-PARIS SAINT GERMAIN
+plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
+
+#EXTINF:-1, Eurosport
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
+
 #EXTINF:-1, La Liga en directo. Opción 1
 http://34.107.131.44/live/l/chunks.m3u8
 #EXTINF:-1, La Liga en directo. Opción 2
@@ -32,6 +54,12 @@ plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d415
 plugin://program.plexus/?mode=1&url=acestream://9ce18b5f26f178fa59c1f705b0d6aa574c922f04&name=My+acestream+channel
 #EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
 plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
+
+
+
+
+
+
 
 #EXTINF:-1, Directos hoy Ryu
 http://35.201.84.52/live/bt2/chunks.m3u8
