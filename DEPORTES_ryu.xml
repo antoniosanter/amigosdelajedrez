@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][LOWERCASE][CAPITALIZE][COLOR white] DEPORTES TU MARCADOR[COLOR lime][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>        
+<title>[B][LOWERCASE][CAPITALIZE][COLOR white] DEPORTES TU MARCADOR CORTESIA TORETE[COLOR lime][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>        
 <link>$doregex[yaestaarreglada]</link>
  
  
@@ -75,6 +75,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
         <expres>$pyFunction:base64.b64decode("$doregex[ea-ya-la-tienes-arreglaita]")</expres>
         <page></page>
     </regex>
+	
+<thumbnail>https://i.imgur.com/Vq1pYBs.jpg</thumbnail>
+<fanart>https://i.imgur.com/py1aH72.jpg</fanart>
+</item>
 
 item>
 <title>[COLOR orange][B] Sport365 [/B][/COLOR]</title>
