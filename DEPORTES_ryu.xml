@@ -2,22 +2,6 @@
 
 
 item>
-<title>[COLOR red][B] AGENDA ARENAVISION [/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.arenavisionezy/?action=mostrar_agenda=soccer</jsonrpc>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCxgmx7dxap_Db3qQB_c3-W2GlxHtFTdd58HMnYo1qyA6zaPO</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
-</item>
-
-item>
-<title>[COLOR red][B] AGENDA EZY[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.avezy/?action=mostrar_agenda=soccer</jsonrpc>
-<thumbnail>http://redeneobux.com/wp-content/uploads/2016/12/avezy_kodi_addon.png</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
-</item>
-
-item>
 <title>[COLOR orange][B] Sport365 [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
@@ -34,35 +18,6 @@ item>
 <fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
 </item>
 
-
-item>
-<title>[COLOR orange]Dazn[/COLOR] [COLOR skyblue]Agenda[/COLOR] </title>
-<link>http://acestreampi.ddns.net/dailysport.m3u8</link>
-<thumbnail>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/06/DAZN-Logo-Perform-Group.png?fit=1200%2C1200&ssl=1</thumbnail>
-<fanart></fanart>
-</item>
-
-
-item>
-<title>[COLOR orange]Dazn[/COLOR] [COLOR skyblue]2[/COLOR] </title>
-<link>https://bit.ly/2SYCGTK</link>
-<thumbnail>https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/06/DAZN-Logo-Perform-Group.png?fit=1200%2C1200&ssl=1</thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLOR orange]Bein Sport[/COLOR] [COLOR skyblue]Solo Eventos[/COLOR] </title>
-<link>https://vk.com/video_ext.php?oid=571155588&id=456239027&hash=ff5e83c758a207dd</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-item>
-<title>[COLOR orange]prueba[/COLOR] [COLOR skyblue]Solo Eventos[/COLOR]</title>
-<urlsolve>https://pastebin.com/raw/75NAQrDu</urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes hoy </title>
@@ -96,68 +51,5 @@ item>
 <link>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Sport.m3u</link>
 <item>
 
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy (prueba1)</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://m.dailysport.pw/x2/x2.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
-<item>
-
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy (prueba2)</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=https://dailysport.pw/login&amp;mode=showSite&amp;stopPlayback=yes</link>
-<item>
-
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy 3</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/deportesjuanjo.m3u</externallink>
-</item>
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy 4</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy arenavision</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/arena.m3u</externallink>
-</item>
-
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]Prueba La Liga</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/prueba.m3u</externallink>
-</item>
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]prueba</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/75NAQrDu</externallink>
-</item>
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]Otros</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://vk.com/video_ext.php?oid=571155588&id=456239027&hash=ff5e83c758a207dd</externallink>
-</item>
 
 
