@@ -89,11 +89,11 @@ item>
 </item>
 
 
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy (prueba)</title>
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]deportes extranjeros</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;url=http://acestreampi.ddns.net/dailys.m3u8&amp;mode=showSite&amp;stopPlayback=yes</link>
+<link>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/sport.m3u</link>
 <item>
 
 item>

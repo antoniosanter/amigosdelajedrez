@@ -1,0 +1,1791 @@
+#EXTM3U
+#EXTINF:-1,Футбол 1 HD
+https://46-166-139-148.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1,Футбол 2 HD
+https://46-166-139-148.livesports24.online/fooootball2.m3u8
+#EXTINF:-1,Беларусь 5
+https://46-166-139-148.livesports24.online/belarusss5.m3u8
+#EXTINF:-1,МАТЧ!
+https://46-166-139-148.livesports24.online/ooomatch.m3u8
+#EXTINF:-1,Матч! Игра
+https://46-166-139-148.livesports24.online/migra.m3u8
+#EXTINF:-1,МАТЧ! Боец
+https://46-166-139-148.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1,МАТЧ! Планета
+https://46-166-139-148.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1,МАТЧ! Премьер
+https://46-166-139-148.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1,МАТЧ! Страна
+https://46-166-139-148.livesports24.online/mnashsport.m3u8
+#EXTINF:-1,МАТЧ! Футбол 1
+https://46-166-139-148.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,МАТЧ! Футбол 2
+https://46-166-139-148.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,МАТЧ! Футбол 3
+https://46-166-139-148.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1,Setanta Sports ua
+https://46-166-139-148.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sports
+https://46-166-139-148.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,Eurosport 1
+https://46-166-139-148.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1,Eurosport 2
+https://46-166-139-148.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1,КХЛ HD
+https://46-166-139-148.livesports24.online/khlhdru.m3u8
+#EXTINF:-1,Sport 1 ua
+https://46-166-139-148.livesports24.online/sport1ua.m3u8
+#EXTINF:-1,Матч!
+http://46.165.2.202:8080/matchtv/index.m3u8
+#EXTINF:-1,Матч!
+https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+#EXTINF:-1,Setanta Sports 1
+http://178.124.183.6:80/hls/FWHTTL8YXU_HLS/variant.m3u8
+#EXTINF:-1,Setanta Sports 2
+http://178.124.183.6:80/hls/5T3FNFICQ4_HLS/variant.m3u8
+#EXTINF:-1,КХЛ
+http://178.124.183.6:80/hls/36H3IDE2WF_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 5
+http://178.124.183.6:80/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1,Матч! Премьер
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1, Arena Sport 1 HR HD
+http://185.180.12.34:8080/ARENA1HR/index.m3u8?token=test
+#EXTINF:-1, Arena Sport 2 HR HD
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1, Arena Sport 3 HR HD
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1, Arena Sport 4 HR HD
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1, SK10
+http://185.180.12.34:8080/SK10/video.m3u8?token=test
+#EXTINF:-1, SK1 HR HD
+http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
+#EXTINF:-1, SK2 HR HD
+http://185.180.12.34:8080/SK2HR/index.m3u8?token=test
+#EXTINF:-1, SK3 HR HD
+http://185.180.12.34:8080/SK3HR/index.m3u8?token=test
+#EXTINF:-1, SK4
+http://185.180.12.34:8080/SK4/video.m3u8?token=test
+#EXTINF:-1, SK5
+http://185.180.12.34:8080/SK5/video.m3u8?token=test
+#EXTINF:-1, SK6
+http://185.180.12.34:8080/SK6/video.m3u8?token=test
+#EXTINF:-1, SK7
+http://185.180.12.34:8080/SK7/video.m3u8?token=test
+#EXTINF:-1, SK8
+http://185.180.12.34:8080/SK8/video.m3u8?token=test
+#EXTINF:-1, SK9
+http://185.180.12.34:8080/SK9/video.m3u8?token=test
+#EXTINF:-1, Sportska TV
+http://185.180.12.34:8080/SPORTSKATV/video.m3u8?token=test
+#EXTINF:-1, SKY SPORT1 HD
+http://185.180.12.89:8080/SPORT1/index.m3u8?token=test
+#EXTINF:-1, SKY SPORT2 HD
+http://185.180.12.89:8080/SPORT2/index.m3u8?token=test
+#EXTINF:-1, SportTv 3
+http://62.203.143.51:9981/play/SPORT3
+#EXTINF:-1, SportTv 1
+http://62.203.143.51:9981/play/SPORTTV1
+#EXTINF:-1, SportTv 2
+http://62.203.143.51:9981/play/SPORTV2
+#EXTINF:-1, RMC Sport 1
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/361.ts
+#EXTINF:-1, RMC Sport 2
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/362.ts
+#EXTINF:-1, RMC Sport 3
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/363.ts
+#EXTINF:-1, RMC Sport 4
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/364.ts
+#EXTINF:-1, RMC Sport 5
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/365.ts
+#EXTINF:-1, RMC Sport 6
+http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/366.ts
+#EXTINF:-1, RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1, FOX Sport HD 1 -USA-
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1, BeIN SPORTS 2 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/112.m3u8
+#EXTINF:-1, Ziggo Sport Voetbal HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1138.m3u8
+#EXTINF:-1, Eurosport 1 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1245.m3u8
+#EXTINF:-1, Eurosport 2 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1246.m3u8
+#EXTINF:-1, TiviBu Spor 3 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1273.m3u8
+#EXTINF:-1, FB TV HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/156.m3u8
+#EXTINF:-1, beIN SPORTS MAX 1 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1730.m3u8
+#EXTINF:-1, Tivibu Spor 2 SD
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1733.m3u8
+#EXTINF:-1, Tivibu Spor 1 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1734.m3u8
+#EXTINF:-1, Tivibu Spor 3 SD
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1735.m3u8
+#EXTINF:-1, A SPOR HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/17433.m3u8
+#EXTINF:-1, A SPOR SD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/196.m3u8
+#EXTINF:-1, BeIN SPORTS 3 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/205.m3u8
+#EXTINF:-1, BeIN SPORTS 4 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/206.m3u8
+#EXTINF:-1, TiviBu Spor 1 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/22.m3u8
+#EXTINF:-1, GS TV HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/232.m3u8
+#EXTINF:-1, beIN SPORTS 2 SD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23688.m3u8
+#EXTINF:-1, beIN SPORTS 3 SD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23689.m3u8
+#EXTINF:-1, beIN SPORTS 4 SD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23690.m3u8
+#EXTINF:-1, beIN SPORTS MAX 1 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23691.m3u8
+#EXTINF:-1, beIN SPORTS MAX 2 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23692.m3u8
+#EXTINF:-1, FOX SPORTS 1 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/264.m3u8
+#EXTINF:-1, FOX SPORTS 2 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/265.m3u8
+#EXTINF:-1, FOX SPORTS 3 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/266.m3u8
+#EXTINF:-1, FOX SPORTS 4 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/267.m3u8
+#EXTINF:-1, FOX SPORTS 5 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/268.m3u8
+#EXTINF:-1, beIN SPORTS HABER FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/26886.m3u8
+#EXTINF:-1, beIN SPORTS 1 FHD TR (HVEC 265 50 FPS)
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/32293.m3u8
+#EXTINF:-1, S Sports 2 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/34663.m3u8
+#EXTINF:-1, TiviBu Spor 2 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/367.m3u8
+#EXTINF:-1, beIN SPORTS 1 SD TR (TTNET-OZEL)
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/37847.m3u8
+#EXTINF:-1, S SPORT HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/385.m3u8
+#EXTINF:-1, beIN SPORTS 1 SD TR. (VODAFONE-TURKCELL-TURKIYE)
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/403.m3u8
+#EXTINF:-1, beIN SPORTS 2 SD TR.
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/404.m3u8
+#EXTINF:-1, beIN SPORTS 3 SD TR.
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/405.m3u8
+#EXTINF:-1, beIN SPORTS 4 SD TR.
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/406.m3u8
+#EXTINF:-1, Ziggo Sport Select FHD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4326.m3u8
+#EXTINF:-1, Ziggo Sport Racing HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4327.m3u8
+#EXTINF:-1, Ziggo Sport Golf HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4328.m3u8
+#EXTINF:-1, Ziggo Sport eXtra 2 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4329.m3u8
+#EXTINF:-1, Ziggo Sport eXtra 1 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4330.m3u8
+#EXTINF:-1, Fox Sports 6 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4331.m3u8
+#EXTINF:-1, BeIN SPORTS 1 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/446.m3u8
+#EXTINF:-1, NBA TV HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4535.m3u8
+#EXTINF:-1, TRT SPOR HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/46.m3u8
+#EXTINF:-1, EUROSPORT 1 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50800.m3u8
+#EXTINF:-1, EUROSPORT 2 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50801.m3u8
+#EXTINF:-1, FIGHTBOX FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50804.m3u8
+#EXTINF:-1, NBA TV FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50824.m3u8
+#EXTINF:-1, S SPORT FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50826.m3u8
+#EXTINF:-1, SPOR SMART FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50827.m3u8
+#EXTINF:-1, SPORTS TV HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/60.m3u8
+#EXTINF:-1, ZIGGO SPORT EXTRA 1 HD N NLL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74083.m3u8
+#EXTINF:-1, ZIGGO SPORT EXTRA 2 HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74084.m3u8
+#EXTINF:-1, ZIGGO SPORT GOLF HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74085.m3u8
+#EXTINF:-1, ZIGGO SPORT HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74086.m3u8
+#EXTINF:-1, ZIGGO SPORT SELECT HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74087.m3u8
+#EXTINF:-1, ZIGGO SPORT VOETBAL HD NL
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74088.m3u8
+#EXTINF:-1, SMART SPOR  1 HD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7486.m3u8
+#EXTINF:-1, beIN SPORTS MAX 2 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7514.m3u8
+#EXTINF:-1, beIN SPORTS 1 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7706.m3u8
+#EXTINF:-1, beIN SPORTS 2 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7707.m3u8
+#EXTINF:-1, beIN SPORTS 3 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7708.m3u8
+#EXTINF:-1, beIN SPORTS 4 FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/8046.m3u8
+#EXTINF:-1, A SPOR FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/8100.m3u8
+#EXTINF:-1, TRT SPOR FHD TR
+http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/8101.m3u8
+#EXTINF:-1, Dubai Racing 2
+http://skdn.redi-vo.com/iptv/ch1031?code=138137164006399&key=15238
+#EXTINF:-1, SKY Sport news UK
+http://skdn.redi-vo.com/iptv/ch1053?code=138137164006399&key=62639
+#EXTINF:-1, Bein Sports News
+http://skdn.redi-vo.com/iptv/ch110?code=138137164006399&key=44880
+#EXTINF:-1, BeInSport 1 HD
+http://skdn.redi-vo.com/iptv/ch111?code=138137164006399&key=54576
+#EXTINF:-1, BeInSport 2 HD
+http://skdn.redi-vo.com/iptv/ch112?code=138137164006399&key=46098
+#EXTINF:-1, BeInSport 3 HD
+http://skdn.redi-vo.com/iptv/ch113?code=138137164006399&key=39255
+#EXTINF:-1, BeInSport 4 HD
+http://skdn.redi-vo.com/iptv/ch114?code=138137164006399&key=46165
+#EXTINF:-1, BeInSport 5 HD
+http://skdn.redi-vo.com/iptv/ch115?code=138137164006399&key=45992
+#EXTINF:-1, BeInSport 6 HD
+http://skdn.redi-vo.com/iptv/ch116?code=138137164006399&key=57392
+#EXTINF:-1, BeInSport 7 HD
+http://skdn.redi-vo.com/iptv/ch117?code=138137164006399&key=58844
+#EXTINF:-1, BeInSport 8 HD
+http://skdn.redi-vo.com/iptv/ch118?code=138137164006399&key=43336
+#EXTINF:-1, BeInSport 1 FR
+http://skdn.redi-vo.com/iptv/ch119?code=138137164006399&key=62807
+#EXTINF:-1, BeInSport 2 FR
+http://skdn.redi-vo.com/iptv/ch120?code=138137164006399&key=38010
+#EXTINF:-1, TELE DEPORTE SP
+http://skdn.redi-vo.com/iptv/ch1208?code=138137164006399&key=60635
+#EXTINF:-1, Bein Sport SPANA
+http://skdn.redi-vo.com/iptv/ch1220?code=138137164006399&key=25450
+#EXTINF:-1, Real Madrid CH.
+http://skdn.redi-vo.com/iptv/ch1223?code=138137164006399&key=47675
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://skdn.redi-vo.com/iptv/ch1224?code=138137164006399&key=17683
+#EXTINF:-1, Barca Tv
+http://skdn.redi-vo.com/iptv/ch1225?code=138137164006399&key=64018
+#EXTINF:-1, Neox SP
+http://skdn.redi-vo.com/iptv/ch1229?code=138137164006399&key=58268
+#EXTINF:-1, M.L. Campeones HD SP
+http://skdn.redi-vo.com/iptv/ch1281?code=138137164006399&key=32884
+#EXTINF:-1, Moto GP HD SP
+http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&key=11345
+#EXTINF:-1, Formula1 HD SP
+http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&key=47444
+#EXTINF:-1, Golf Plus FR
+http://skdn.redi-vo.com/iptv/ch1299?code=138137164006399&key=28405
+#EXTINF:-1, Rai Sport 1 IT
+http://skdn.redi-vo.com/iptv/ch1315?code=138137164006399&key=56931
+#EXTINF:-1, BeinSport 1 TR
+http://skdn.redi-vo.com/iptv/ch1353?code=138137164006399&key=31156
+#EXTINF:-1, Smart Sport 1
+http://skdn.redi-vo.com/iptv/ch1355?code=138137164006399&key=20046
+#EXTINF:-1, Tivibu Sport 3
+http://skdn.redi-vo.com/iptv/ch1356?code=138137164006399&key=18724
+#EXTINF:-1, TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=138137164006399&key=44118
+#EXTINF:-1, Dubai Racing 1
+http://skdn.redi-vo.com/iptv/ch1531?code=138137164006399&key=38695
+#EXTINF:-1, Dubai Racing 3
+http://skdn.redi-vo.com/iptv/ch1532?code=138137164006399&key=31381
+#EXTINF:-1, Dubai Sport 3
+http://skdn.redi-vo.com/iptv/ch1533?code=138137164006399&key=48799
+#EXTINF:-1, Dubai Sport 1
+http://skdn.redi-vo.com/iptv/ch154?code=138137164006399&key=28938
+#EXTINF:-1, Super Tennis IT
+http://skdn.redi-vo.com/iptv/ch1544?code=138137164006399&key=33560
+#EXTINF:-1, Dubai Sport 2
+http://skdn.redi-vo.com/iptv/ch155?code=138137164006399&key=22583
+#EXTINF:-1, Eleven Sport 1 Fr.
+http://skdn.redi-vo.com/iptv/ch1648?code=138137164006399&key=46306
+#EXTINF:-1, Eleven Sport 2 Fr.
+http://skdn.redi-vo.com/iptv/ch1649?code=138137164006399&key=42751
+#EXTINF:-1, BT Sport 1
+http://skdn.redi-vo.com/iptv/ch1828?code=138137164006399&key=45498
+#EXTINF:-1, BT Sport 2
+http://skdn.redi-vo.com/iptv/ch1829?code=138137164006399&key=57494
+#EXTINF:-1, Nile Sport
+http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&key=23703
+#EXTINF:-1, BT Sport 3
+http://skdn.redi-vo.com/iptv/ch1830?code=138137164006399&key=30373
+#EXTINF:-1, Fox Sport 5
+http://skdn.redi-vo.com/iptv/ch1862?code=138137164006399&key=33238
+#EXTINF:-1, Fox Sport 6
+http://skdn.redi-vo.com/iptv/ch1863?code=138137164006399&key=59444
+#EXTINF:-1, Ziggo Sport Doc.
+http://skdn.redi-vo.com/iptv/ch1866?code=138137164006399&key=31666
+#EXTINF:-1, Ziggo Sport Extra
+http://skdn.redi-vo.com/iptv/ch1867?code=138137164006399&key=50232
+#EXTINF:-1, Ziggo Sport Golf
+http://skdn.redi-vo.com/iptv/ch1879?code=138137164006399&key=14362
+#EXTINF:-1, Sport Italia IT
+http://skdn.redi-vo.com/iptv/ch1933?code=138137164006399&key=32845
+#EXTINF:-1, Eurosport 1 NL
+http://skdn.redi-vo.com/iptv/ch1969?code=138137164006399&key=38198
+#EXTINF:-1, Canal+ Sport
+http://skdn.redi-vo.com/iptv/ch202?code=138137164006399&key=22881
+#EXTINF:-1, BeInSport 3 FR
+http://skdn.redi-vo.com/iptv/ch206?code=138137164006399&key=26341
+#EXTINF:-1, Sport TV 3 PT
+http://skdn.redi-vo.com/iptv/ch2125?code=138137164006399&key=54310
+#EXTINF:-1, Sport TV 4 PT
+http://skdn.redi-vo.com/iptv/ch2126?code=138137164006399&key=18673
+#EXTINF:-1, Sport TV 5 PT
+http://skdn.redi-vo.com/iptv/ch2127?code=138137164006399&key=49822
+#EXTINF:-1, BeinSport 2 TR
+http://skdn.redi-vo.com/iptv/ch2355?code=138137164006399&key=15735
+#EXTINF:-1, BeinSport 3 TR
+http://skdn.redi-vo.com/iptv/ch2356?code=138137164006399&key=44129
+#EXTINF:-1, BeinSport Max 1
+http://skdn.redi-vo.com/iptv/ch2358?code=138137164006399&key=41059
+#EXTINF:-1, BeinSport Max 2
+http://skdn.redi-vo.com/iptv/ch2359?code=138137164006399&key=29388
+#EXTINF:-1, BeinSport 4 TR
+http://skdn.redi-vo.com/iptv/ch2360?code=138137164006399&key=19535
+#EXTINF:-1, Tivibu Sport 1
+http://skdn.redi-vo.com/iptv/ch2361?code=138137164006399&key=18337
+#EXTINF:-1, Tivibu Sport 2
+http://skdn.redi-vo.com/iptv/ch2362?code=138137164006399&key=10226
+#EXTINF:-1, Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=138137164006399&key=29705
+#EXTINF:-1, RMC Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch243?code=138137164006399&key=62334
+#EXTINF:-1, RMC News HD
+http://skdn.redi-vo.com/iptv/ch244?code=138137164006399&key=24950
+#EXTINF:-1, RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=138137164006399&key=43971
+#EXTINF:-1, RMC Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch254?code=138137164006399&key=13496
+#EXTINF:-1, RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=138137164006399&key=43852
+#EXTINF:-1, Foot Plus
+http://skdn.redi-vo.com/iptv/ch266?code=138137164006399&key=35881
+#EXTINF:-1, AB Moteur
+http://skdn.redi-vo.com/iptv/ch268?code=138137164006399&key=34426
+#EXTINF:-1, Equidia Live
+http://skdn.redi-vo.com/iptv/ch269?code=138137164006399&key=51917
+#EXTINF:-1, Golf Channel FR
+http://skdn.redi-vo.com/iptv/ch290?code=138137164006399&key=43121
+#EXTINF:-1, BeInSport Max 4
+http://skdn.redi-vo.com/iptv/ch340?code=138137164006399&key=46196
+#EXTINF:-1, BeInSport Max 5
+http://skdn.redi-vo.com/iptv/ch341?code=138137164006399&key=45618
+#EXTINF:-1, BeInSport Max 6
+http://skdn.redi-vo.com/iptv/ch342?code=138137164006399&key=61413
+#EXTINF:-1, BeInSport Max 7
+http://skdn.redi-vo.com/iptv/ch343?code=138137164006399&key=52352
+#EXTINF:-1, BeInSport Max 8
+http://skdn.redi-vo.com/iptv/ch344?code=138137164006399&key=31483
+#EXTINF:-1, BeInSport Max 9
+http://skdn.redi-vo.com/iptv/ch345?code=138137164006399&key=28076
+#EXTINF:-1, ESPN News HD
+http://skdn.redi-vo.com/iptv/ch3510?code=138137164006399&key=60519
+#EXTINF:-1, ESPN2 HD
+http://skdn.redi-vo.com/iptv/ch3512?code=138137164006399&key=16615
+#EXTINF:-1, Fox Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch3514?code=138137164006399&key=23881
+#EXTINF:-1, NBA HD
+http://skdn.redi-vo.com/iptv/ch3515?code=138137164006399&key=40035
+#EXTINF:-1, NBC Sports net.
+http://skdn.redi-vo.com/iptv/ch3516?code=138137164006399&key=50917
+#EXTINF:-1, NHL net. HD
+http://skdn.redi-vo.com/iptv/ch3517?code=138137164006399&key=50778
+#EXTINF:-1, WWE net.
+http://skdn.redi-vo.com/iptv/ch3518?code=138137164006399&key=21916
+#EXTINF:-1, NBC HD
+http://skdn.redi-vo.com/iptv/ch3521?code=138137164006399&key=61270
+#EXTINF:-1, TSN 1 HD
+http://skdn.redi-vo.com/iptv/ch3522?code=138137164006399&key=12157
+#EXTINF:-1, TSN 2 HD
+http://skdn.redi-vo.com/iptv/ch3523?code=138137164006399&key=54617
+#EXTINF:-1, TSN 3 HD
+http://skdn.redi-vo.com/iptv/ch3524?code=138137164006399&key=24582
+#EXTINF:-1, TSN 5 HD
+http://skdn.redi-vo.com/iptv/ch3526?code=138137164006399&key=38701
+#EXTINF:-1, Eurosport 2 NL
+http://skdn.redi-vo.com/iptv/ch3549?code=138137164006399&key=17867
+#EXTINF:-1, Ziggo Sport Racing NL
+http://skdn.redi-vo.com/iptv/ch3585?code=138137164006399&key=57561
+#EXTINF:-1, Ziggo NL
+http://skdn.redi-vo.com/iptv/ch3586?code=138137164006399&key=35409
+#EXTINF:-1, Bein Sport
+http://skdn.redi-vo.com/iptv/ch400?code=138137164006399&key=63718
+#EXTINF:-1, Al Kaas 2
+http://skdn.redi-vo.com/iptv/ch442?code=138137164006399&key=27203
+#EXTINF:-1, Canal+ Sport Cy
+http://skdn.redi-vo.com/iptv/ch4527?code=138137164006399&key=39502
+#EXTINF:-1, Al Kaas 1
+http://skdn.redi-vo.com/iptv/ch497?code=138137164006399&key=32539
+#EXTINF:-1, BeInSport 9 HD
+http://skdn.redi-vo.com/iptv/ch510?code=138137164006399&key=27398
+#EXTINF:-1, BeInSport 10 HD
+http://skdn.redi-vo.com/iptv/ch511?code=138137164006399&key=51278
+#EXTINF:-1, BeInSport 11 HD
+http://skdn.redi-vo.com/iptv/ch512?code=138137164006399&key=55556
+#EXTINF:-1, BeInSport 12 HD
+http://skdn.redi-vo.com/iptv/ch513?code=138137164006399&key=55186
+#EXTINF:-1, BeInSport 15 HD
+http://skdn.redi-vo.com/iptv/ch516?code=138137164006399&key=27664
+#EXTINF:-1, BeInSport NBA HD
+http://skdn.redi-vo.com/iptv/ch522?code=138137164006399&key=52241
+#EXTINF:-1, Al Kaas 4
+http://skdn.redi-vo.com/iptv/ch545?code=138137164006399&key=49809
+#EXTINF:-1, AD Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch5519?code=138137164006399&key=18357
+#EXTINF:-1, AD Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch5520?code=138137164006399&key=41241
+#EXTINF:-1, AD Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch603?code=138137164006399&key=53427
+#EXTINF:-1, Eleven Sport 4 Cy
+http://skdn.redi-vo.com/iptv/ch6523?code=138137164006399&key=23500
+#EXTINF:-1, EuroSport 1 HD
+http://skdn.redi-vo.com/iptv/ch743?code=138137164006399&key=45912
+#EXTINF:-1, EuroSport 2 HD
+http://skdn.redi-vo.com/iptv/ch744?code=138137164006399&key=23667
+#EXTINF:-1, Saudie Sport
+http://skdn.redi-vo.com/iptv/ch747?code=138137164006399&key=20096
+#EXTINF:-1, Ahly Channel
+http://skdn.redi-vo.com/iptv/ch783?code=138137164006399&key=59553
+#EXTINF:-1, BeInSport 1 SD
+http://skdn.redi-vo.com/iptv/ch8111?code=138137164006399&key=33281
+#EXTINF:-1, BeInSport 2 SD
+http://skdn.redi-vo.com/iptv/ch8112?code=138137164006399&key=12334
+#EXTINF:-1, BeInSport 3 SD
+http://skdn.redi-vo.com/iptv/ch8113?code=138137164006399&key=46519
+#EXTINF:-1, BeInSport 4 SD
+http://skdn.redi-vo.com/iptv/ch8114?code=138137164006399&key=40487
+#EXTINF:-1, BeInSport 5 SD
+http://skdn.redi-vo.com/iptv/ch8115?code=138137164006399&key=26611
+#EXTINF:-1, BeInSport 6 SD
+http://skdn.redi-vo.com/iptv/ch8116?code=138137164006399&key=29929
+#EXTINF:-1, BeInSport 7 SD
+http://skdn.redi-vo.com/iptv/ch8117?code=138137164006399&key=24135
+#EXTINF:-1, BeInSport 8 SD
+http://skdn.redi-vo.com/iptv/ch8118?code=138137164006399&key=39883
+#EXTINF:-1, KSA SPORT 1
+http://skdn.redi-vo.com/iptv/ch823?code=138137164006399&key=44583
+#EXTINF:-1, KSA SPORT 2
+http://skdn.redi-vo.com/iptv/ch824?code=138137164006399&key=38478
+#EXTINF:-1, KSA SPORT +1
+http://skdn.redi-vo.com/iptv/ch825?code=138137164006399&key=17779
+#EXTINF:-1, KSA SPORT +2
+http://skdn.redi-vo.com/iptv/ch826?code=138137164006399&key=42093
+#EXTINF:-1, BeInSport 9 SD
+http://skdn.redi-vo.com/iptv/ch8510?code=138137164006399&key=20158
+#EXTINF:-1, BeInSport 10 SD
+http://skdn.redi-vo.com/iptv/ch8511?code=138137164006399&key=15103
+#EXTINF:-1, Ziggo Sport Select
+http://skdn.redi-vo.com/iptv/ch860?code=138137164006399&key=24851
+#EXTINF:-1, Fox sport 1
+http://skdn.redi-vo.com/iptv/ch867?code=138137164006399&key=62019
+#EXTINF:-1, Ziggo Sport Voetball
+http://skdn.redi-vo.com/iptv/ch878?code=138137164006399&key=53667
+#EXTINF:-1, Fox sport 3
+http://skdn.redi-vo.com/iptv/ch880?code=138137164006399&key=48133
+#EXTINF:-1, SKY Sport Football UK
+http://skdn.redi-vo.com/iptv/ch922?code=138137164006399&key=22520
+#EXTINF:-1, Sky Sport Premium UK
+http://skdn.redi-vo.com/iptv/ch937?code=138137164006399&key=57619
+#EXTINF:-1, Motor Trend IT
+http://skdn.redi-vo.com/iptv/ch993?code=138137164006399&key=42448
+#EXTINF:-1, Dubai Racing 2
+http://vvn.neoredi.com/iptv/ch1031?code=135114454296143&key=15238
+#EXTINF:-1, Dubai Racing 2
+http://vvn.neoredi.com/iptv/ch1031?code=138137164006399&key=15238
+#EXTINF:-1, Dubai Racing 2
+http://vvn.neoredi.com/iptv/ch1031?code=1501309316704233&key=15238
+#EXTINF:-1, Dubai Racing 2
+http://vvn.neoredi.com/iptv/ch1031?code=590138456678768&key=15238
+#EXTINF:-1, Dubai Racing 2
+http://vvn.neoredi.com/iptv/ch1031?code=8601338691674826&key=15238
+#EXTINF:-1, SKY Sport news UK
+http://vvn.neoredi.com/iptv/ch1053?code=135114454296143&key=62639
+#EXTINF:-1, SKY Sport news UK
+http://vvn.neoredi.com/iptv/ch1053?code=138137164006399&key=62639
+#EXTINF:-1, SKY Sport news UK
+http://vvn.neoredi.com/iptv/ch1053?code=1501309316704233&key=62639
+#EXTINF:-1, SKY Sport news UK
+http://vvn.neoredi.com/iptv/ch1053?code=590138456678768&key=62639
+#EXTINF:-1, SKY Sport news UK
+http://vvn.neoredi.com/iptv/ch1053?code=8601338691674826&key=62639
+#EXTINF:-1, Bein Sports News
+http://vvn.neoredi.com/iptv/ch110?code=135114454296143&key=44880
+#EXTINF:-1, Bein Sports News
+http://vvn.neoredi.com/iptv/ch110?code=138137164006399&key=44880
+#EXTINF:-1, Bein Sports News
+http://vvn.neoredi.com/iptv/ch110?code=1501309316704233&key=44880
+#EXTINF:-1, Bein Sports News
+http://vvn.neoredi.com/iptv/ch110?code=590138456678768&key=44880
+#EXTINF:-1, Bein Sports News
+http://vvn.neoredi.com/iptv/ch110?code=8601338691674826&key=44880
+#EXTINF:-1, BeInSport 1 HD
+http://vvn.neoredi.com/iptv/ch111?code=135114454296143&key=54576
+#EXTINF:-1, BeInSport 1 HD
+http://vvn.neoredi.com/iptv/ch111?code=138137164006399&key=54576
+#EXTINF:-1, BeInSport 1 HD
+http://vvn.neoredi.com/iptv/ch111?code=1501309316704233&key=54576
+#EXTINF:-1, BeInSport 1 HD
+http://vvn.neoredi.com/iptv/ch111?code=590138456678768&key=54576
+#EXTINF:-1, BeInSport 1 HD
+http://vvn.neoredi.com/iptv/ch111?code=8601338691674826&key=54576
+#EXTINF:-1, BeInSport 2 HD
+http://vvn.neoredi.com/iptv/ch112?code=135114454296143&key=46098
+#EXTINF:-1, BeInSport 2 HD
+http://vvn.neoredi.com/iptv/ch112?code=138137164006399&key=46098
+#EXTINF:-1, BeInSport 2 HD
+http://vvn.neoredi.com/iptv/ch112?code=1501309316704233&key=46098
+#EXTINF:-1, BeInSport 2 HD
+http://vvn.neoredi.com/iptv/ch112?code=590138456678768&key=46098
+#EXTINF:-1, BeInSport 2 HD
+http://vvn.neoredi.com/iptv/ch112?code=8601338691674826&key=46098
+#EXTINF:-1, BeInSport 3 HD
+http://vvn.neoredi.com/iptv/ch113?code=135114454296143&key=39255
+#EXTINF:-1, BeInSport 3 HD
+http://vvn.neoredi.com/iptv/ch113?code=138137164006399&key=39255
+#EXTINF:-1, BeInSport 3 HD
+http://vvn.neoredi.com/iptv/ch113?code=1501309316704233&key=39255
+#EXTINF:-1, BeInSport 3 HD
+http://vvn.neoredi.com/iptv/ch113?code=590138456678768&key=39255
+#EXTINF:-1, BeInSport 3 HD
+http://vvn.neoredi.com/iptv/ch113?code=8601338691674826&key=39255
+#EXTINF:-1, BeInSport 4 HD
+http://vvn.neoredi.com/iptv/ch114?code=135114454296143&key=46165
+#EXTINF:-1, BeInSport 4 HD
+http://vvn.neoredi.com/iptv/ch114?code=138137164006399&key=46165
+#EXTINF:-1, BeInSport 4 HD
+http://vvn.neoredi.com/iptv/ch114?code=1501309316704233&key=46165
+#EXTINF:-1, BeInSport 4 HD
+http://vvn.neoredi.com/iptv/ch114?code=590138456678768&key=46165
+#EXTINF:-1, BeInSport 4 HD
+http://vvn.neoredi.com/iptv/ch114?code=8601338691674826&key=46165
+#EXTINF:-1, BeInSport 5 HD
+http://vvn.neoredi.com/iptv/ch115?code=135114454296143&key=45992
+#EXTINF:-1, BeInSport 5 HD
+http://vvn.neoredi.com/iptv/ch115?code=138137164006399&key=45992
+#EXTINF:-1, BeInSport 5 HD
+http://vvn.neoredi.com/iptv/ch115?code=1501309316704233&key=45992
+#EXTINF:-1, BeInSport 5 HD
+http://vvn.neoredi.com/iptv/ch115?code=590138456678768&key=45992
+#EXTINF:-1, BeInSport 5 HD
+http://vvn.neoredi.com/iptv/ch115?code=8601338691674826&key=45992
+#EXTINF:-1, BeInSport 6 HD
+http://vvn.neoredi.com/iptv/ch116?code=135114454296143&key=57392
+#EXTINF:-1, BeInSport 6 HD
+http://vvn.neoredi.com/iptv/ch116?code=138137164006399&key=57392
+#EXTINF:-1, BeInSport 6 HD
+http://vvn.neoredi.com/iptv/ch116?code=1501309316704233&key=57392
+#EXTINF:-1, BeInSport 6 HD
+http://vvn.neoredi.com/iptv/ch116?code=590138456678768&key=57392
+#EXTINF:-1, BeInSport 6 HD
+http://vvn.neoredi.com/iptv/ch116?code=8601338691674826&key=57392
+#EXTINF:-1, BeInSport 7 HD
+http://vvn.neoredi.com/iptv/ch117?code=135114454296143&key=58844
+#EXTINF:-1, BeInSport 7 HD
+http://vvn.neoredi.com/iptv/ch117?code=138137164006399&key=58844
+#EXTINF:-1, BeInSport 7 HD
+http://vvn.neoredi.com/iptv/ch117?code=1501309316704233&key=58844
+#EXTINF:-1, BeInSport 7 HD
+http://vvn.neoredi.com/iptv/ch117?code=590138456678768&key=58844
+#EXTINF:-1, BeInSport 7 HD
+http://vvn.neoredi.com/iptv/ch117?code=8601338691674826&key=58844
+#EXTINF:-1, BeInSport 8 HD
+http://vvn.neoredi.com/iptv/ch118?code=135114454296143&key=43336
+#EXTINF:-1, BeInSport 8 HD
+http://vvn.neoredi.com/iptv/ch118?code=138137164006399&key=43336
+#EXTINF:-1, BeInSport 8 HD
+http://vvn.neoredi.com/iptv/ch118?code=1501309316704233&key=43336
+#EXTINF:-1, BeInSport 8 HD
+http://vvn.neoredi.com/iptv/ch118?code=590138456678768&key=43336
+#EXTINF:-1, BeInSport 8 HD
+http://vvn.neoredi.com/iptv/ch118?code=8601338691674826&key=43336
+#EXTINF:-1, BeInSport 1 FR
+http://vvn.neoredi.com/iptv/ch119?code=135114454296143&key=62807
+#EXTINF:-1, BeInSport 1 FR
+http://vvn.neoredi.com/iptv/ch119?code=138137164006399&key=62807
+#EXTINF:-1, BeInSport 1 FR
+http://vvn.neoredi.com/iptv/ch119?code=1501309316704233&key=62807
+#EXTINF:-1, BeInSport 1 FR
+http://vvn.neoredi.com/iptv/ch119?code=590138456678768&key=62807
+#EXTINF:-1, BeInSport 1 FR
+http://vvn.neoredi.com/iptv/ch119?code=8601338691674826&key=62807
+#EXTINF:-1, BeInSport 2 FR
+http://vvn.neoredi.com/iptv/ch120?code=135114454296143&key=38010
+#EXTINF:-1, BeInSport 2 FR
+http://vvn.neoredi.com/iptv/ch120?code=138137164006399&key=38010
+#EXTINF:-1, BeInSport 2 FR
+http://vvn.neoredi.com/iptv/ch120?code=1501309316704233&key=38010
+#EXTINF:-1, BeInSport 2 FR
+http://vvn.neoredi.com/iptv/ch120?code=590138456678768&key=38010
+#EXTINF:-1, BeInSport 2 FR
+http://vvn.neoredi.com/iptv/ch120?code=8601338691674826&key=38010
+#EXTINF:-1, Eurosport 1
+http://vvn.neoredi.com/iptv/ch1202?code=1501309316704233&key=17418
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=135114454296143&key=60635
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=138137164006399&key=60635
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=1501309316704233&key=60635
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=590138456678768&key=60635
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=8601338691674826&key=60635
+#EXTINF:-1, AD Sport 1 HD
+http://vvn.neoredi.com/iptv/ch122?code=135114454296143&key=21973
+#EXTINF:-1, AD Sport 1 HD
+http://vvn.neoredi.com/iptv/ch122?code=590138456678768&key=21973
+#EXTINF:-1, AD Sport 1 HD
+http://vvn.neoredi.com/iptv/ch122?code=8601338691674826&key=21973
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=135114454296143&key=25450
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=138137164006399&key=25450
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=1501309316704233&key=25450
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=590138456678768&key=25450
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=8601338691674826&key=25450
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=135114454296143&key=47675
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=138137164006399&key=47675
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=1501309316704233&key=47675
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=590138456678768&key=47675
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=8601338691674826&key=47675
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=135114454296143&key=17683
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=138137164006399&key=17683
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=1501309316704233&key=17683
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=590138456678768&key=17683
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=8601338691674826&key=17683
+#EXTINF:-1, Canal Panda SP
+http://vvn.neoredi.com/iptv/ch1228?code=138137164006399&key=33487
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=135114454296143&key=58268
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=138137164006399&key=58268
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=1501309316704233&key=58268
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=590138456678768&key=58268
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=8601338691674826&key=58268
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=135114454296143&key=32884
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=138137164006399&key=32884
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=1501309316704233&key=32884
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=590138456678768&key=32884
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=8601338691674826&key=32884
+#EXTINF:-1, Moto GP HD SP
+http://vvn.neoredi.com/iptv/ch1284?code=135114454296143&key=11345
+#EXTINF:-1, Moto GP HD SP
+http://vvn.neoredi.com/iptv/ch1284?code=1501309316704233&key=11345
+#EXTINF:-1, Moto GP HD SP
+http://vvn.neoredi.com/iptv/ch1284?code=590138456678768&key=11345
+#EXTINF:-1, Moto GP HD SP
+http://vvn.neoredi.com/iptv/ch1284?code=8601338691674826&key=11345
+#EXTINF:-1, Formula1 HD SP
+http://vvn.neoredi.com/iptv/ch1285?code=138137164006399&key=47444
+#EXTINF:-1, Formula1 HD SP
+http://vvn.neoredi.com/iptv/ch1285?code=590138456678768&key=47444
+#EXTINF:-1, Formula1 HD SP
+http://vvn.neoredi.com/iptv/ch1285?code=8601338691674826&key=47444
+#EXTINF:-1, Golf Plus FR
+http://vvn.neoredi.com/iptv/ch1299?code=135114454296143&key=28405
+#EXTINF:-1, Golf Plus FR
+http://vvn.neoredi.com/iptv/ch1299?code=138137164006399&key=28405
+#EXTINF:-1, Golf Plus FR
+http://vvn.neoredi.com/iptv/ch1299?code=1501309316704233&key=28405
+#EXTINF:-1, Golf Plus FR
+http://vvn.neoredi.com/iptv/ch1299?code=590138456678768&key=28405
+#EXTINF:-1, Golf Plus FR
+http://vvn.neoredi.com/iptv/ch1299?code=8601338691674826&key=28405
+#EXTINF:-1, Rai Sport 1 IT
+http://vvn.neoredi.com/iptv/ch1315?code=135114454296143&key=56931
+#EXTINF:-1, Rai Sport 1 IT
+http://vvn.neoredi.com/iptv/ch1315?code=138137164006399&key=56931
+#EXTINF:-1, Rai Sport 1 IT
+http://vvn.neoredi.com/iptv/ch1315?code=1501309316704233&key=56931
+#EXTINF:-1, Rai Sport 1 IT
+http://vvn.neoredi.com/iptv/ch1315?code=590138456678768&key=56931
+#EXTINF:-1, Rai Sport 1 IT
+http://vvn.neoredi.com/iptv/ch1315?code=8601338691674826&key=56931
+#EXTINF:-1, BeinSport 1 TR
+http://vvn.neoredi.com/iptv/ch1353?code=135114454296143&key=31156
+#EXTINF:-1, BeinSport 1 TR
+http://vvn.neoredi.com/iptv/ch1353?code=138137164006399&key=31156
+#EXTINF:-1, BeinSport 1 TR
+http://vvn.neoredi.com/iptv/ch1353?code=1501309316704233&key=31156
+#EXTINF:-1, BeinSport 1 TR
+http://vvn.neoredi.com/iptv/ch1353?code=590138456678768&key=31156
+#EXTINF:-1, BeinSport 1 TR
+http://vvn.neoredi.com/iptv/ch1353?code=8601338691674826&key=31156
+#EXTINF:-1, Smart Sport 1
+http://vvn.neoredi.com/iptv/ch1355?code=135114454296143&key=20046
+#EXTINF:-1, Smart Sport 1
+http://vvn.neoredi.com/iptv/ch1355?code=138137164006399&key=20046
+#EXTINF:-1, Smart Sport 1
+http://vvn.neoredi.com/iptv/ch1355?code=1501309316704233&key=20046
+#EXTINF:-1, Smart Sport 1
+http://vvn.neoredi.com/iptv/ch1355?code=590138456678768&key=20046
+#EXTINF:-1, Smart Sport 1
+http://vvn.neoredi.com/iptv/ch1355?code=8601338691674826&key=20046
+#EXTINF:-1, Tivibu Sport 3
+http://vvn.neoredi.com/iptv/ch1356?code=135114454296143&key=18724
+#EXTINF:-1, Tivibu Sport 3
+http://vvn.neoredi.com/iptv/ch1356?code=138137164006399&key=18724
+#EXTINF:-1, Tivibu Sport 3
+http://vvn.neoredi.com/iptv/ch1356?code=1501309316704233&key=18724
+#EXTINF:-1, Tivibu Sport 3
+http://vvn.neoredi.com/iptv/ch1356?code=590138456678768&key=18724
+#EXTINF:-1, Tivibu Sport 3
+http://vvn.neoredi.com/iptv/ch1356?code=8601338691674826&key=18724
+#EXTINF:-1, TRT Sport
+http://vvn.neoredi.com/iptv/ch1363?code=135114454296143&key=44118
+#EXTINF:-1, TRT Sport
+http://vvn.neoredi.com/iptv/ch1363?code=138137164006399&key=44118
+#EXTINF:-1, TRT Sport
+http://vvn.neoredi.com/iptv/ch1363?code=1501309316704233&key=44118
+#EXTINF:-1, TRT Sport
+http://vvn.neoredi.com/iptv/ch1363?code=590138456678768&key=44118
+#EXTINF:-1, TRT Sport
+http://vvn.neoredi.com/iptv/ch1363?code=8601338691674826&key=44118
+#EXTINF:-1, Dubai Racing 1
+http://vvn.neoredi.com/iptv/ch1531?code=135114454296143&key=38695
+#EXTINF:-1, Dubai Racing 1
+http://vvn.neoredi.com/iptv/ch1531?code=138137164006399&key=38695
+#EXTINF:-1, Dubai Racing 1
+http://vvn.neoredi.com/iptv/ch1531?code=1501309316704233&key=38695
+#EXTINF:-1, Dubai Racing 1
+http://vvn.neoredi.com/iptv/ch1531?code=590138456678768&key=38695
+#EXTINF:-1, Dubai Racing 1
+http://vvn.neoredi.com/iptv/ch1531?code=8601338691674826&key=38695
+#EXTINF:-1, Dubai Racing 3
+http://vvn.neoredi.com/iptv/ch1532?code=135114454296143&key=31381
+#EXTINF:-1, Dubai Racing 3
+http://vvn.neoredi.com/iptv/ch1532?code=138137164006399&key=31381
+#EXTINF:-1, Dubai Racing 3
+http://vvn.neoredi.com/iptv/ch1532?code=1501309316704233&key=31381
+#EXTINF:-1, Dubai Racing 3
+http://vvn.neoredi.com/iptv/ch1532?code=590138456678768&key=31381
+#EXTINF:-1, Dubai Racing 3
+http://vvn.neoredi.com/iptv/ch1532?code=8601338691674826&key=31381
+#EXTINF:-1, Dubai Sport 3
+http://vvn.neoredi.com/iptv/ch1533?code=135114454296143&key=48799
+#EXTINF:-1, Dubai Sport 3
+http://vvn.neoredi.com/iptv/ch1533?code=138137164006399&key=48799
+#EXTINF:-1, Dubai Sport 3
+http://vvn.neoredi.com/iptv/ch1533?code=1501309316704233&key=48799
+#EXTINF:-1, Dubai Sport 3
+http://vvn.neoredi.com/iptv/ch1533?code=590138456678768&key=48799
+#EXTINF:-1, Dubai Sport 3
+http://vvn.neoredi.com/iptv/ch1533?code=8601338691674826&key=48799
+#EXTINF:-1, Dubai Sport 1
+http://vvn.neoredi.com/iptv/ch154?code=135114454296143&key=28938
+#EXTINF:-1, Dubai Sport 1
+http://vvn.neoredi.com/iptv/ch154?code=138137164006399&key=28938
+#EXTINF:-1, Dubai Sport 1
+http://vvn.neoredi.com/iptv/ch154?code=1501309316704233&key=28938
+#EXTINF:-1, Dubai Sport 1
+http://vvn.neoredi.com/iptv/ch154?code=590138456678768&key=28938
+#EXTINF:-1, Dubai Sport 1
+http://vvn.neoredi.com/iptv/ch154?code=8601338691674826&key=28938
+#EXTINF:-1, Super Tennis IT
+http://vvn.neoredi.com/iptv/ch1544?code=135114454296143&key=33560
+#EXTINF:-1, Super Tennis IT
+http://vvn.neoredi.com/iptv/ch1544?code=138137164006399&key=33560
+#EXTINF:-1, Super Tennis IT
+http://vvn.neoredi.com/iptv/ch1544?code=1501309316704233&key=33560
+#EXTINF:-1, Super Tennis IT
+http://vvn.neoredi.com/iptv/ch1544?code=590138456678768&key=33560
+#EXTINF:-1, Super Tennis IT
+http://vvn.neoredi.com/iptv/ch1544?code=8601338691674826&key=33560
+#EXTINF:-1, Dubai Sport 2
+http://vvn.neoredi.com/iptv/ch155?code=135114454296143&key=22583
+#EXTINF:-1, Dubai Sport 2
+http://vvn.neoredi.com/iptv/ch155?code=138137164006399&key=22583
+#EXTINF:-1, Dubai Sport 2
+http://vvn.neoredi.com/iptv/ch155?code=1501309316704233&key=22583
+#EXTINF:-1, Dubai Sport 2
+http://vvn.neoredi.com/iptv/ch155?code=590138456678768&key=22583
+#EXTINF:-1, Dubai Sport 2
+http://vvn.neoredi.com/iptv/ch155?code=8601338691674826&key=22583
+#EXTINF:-1, Eleven Sport 1 Fr.
+http://vvn.neoredi.com/iptv/ch1648?code=135114454296143&key=46306
+#EXTINF:-1, Eleven Sport 1 Fr.
+http://vvn.neoredi.com/iptv/ch1648?code=138137164006399&key=46306
+#EXTINF:-1, Eleven Sport 1 Fr.
+http://vvn.neoredi.com/iptv/ch1648?code=1501309316704233&key=46306
+#EXTINF:-1, Eleven Sport 1 Fr.
+http://vvn.neoredi.com/iptv/ch1648?code=8601338691674826&key=46306
+#EXTINF:-1, Eleven Sport 2 Fr.
+http://vvn.neoredi.com/iptv/ch1649?code=135114454296143&key=42751
+#EXTINF:-1, Eleven Sport 2 Fr.
+http://vvn.neoredi.com/iptv/ch1649?code=138137164006399&key=42751
+#EXTINF:-1, Eleven Sport 2 Fr.
+http://vvn.neoredi.com/iptv/ch1649?code=1501309316704233&key=42751
+#EXTINF:-1, Eleven Sport 2 Fr.
+http://vvn.neoredi.com/iptv/ch1649?code=8601338691674826&key=42751
+#EXTINF:-1, BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=135114454296143&key=45498
+#EXTINF:-1, BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=138137164006399&key=45498
+#EXTINF:-1, BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=1501309316704233&key=45498
+#EXTINF:-1, BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=590138456678768&key=45498
+#EXTINF:-1, BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=8601338691674826&key=45498
+#EXTINF:-1, BT Sport 2
+http://vvn.neoredi.com/iptv/ch1829?code=135114454296143&key=57494
+#EXTINF:-1, BT Sport 2
+http://vvn.neoredi.com/iptv/ch1829?code=138137164006399&key=57494
+#EXTINF:-1, BT Sport 2
+http://vvn.neoredi.com/iptv/ch1829?code=1501309316704233&key=57494
+#EXTINF:-1, BT Sport 2
+http://vvn.neoredi.com/iptv/ch1829?code=590138456678768&key=57494
+#EXTINF:-1, BT Sport 2
+http://vvn.neoredi.com/iptv/ch1829?code=8601338691674826&key=57494
+#EXTINF:-1, Nile Sport
+http://vvn.neoredi.com/iptv/ch183?code=135114454296143&key=23703
+#EXTINF:-1, Nile Sport
+http://vvn.neoredi.com/iptv/ch183?code=138137164006399&key=23703
+#EXTINF:-1, Nile Sport
+http://vvn.neoredi.com/iptv/ch183?code=1501309316704233&key=23703
+#EXTINF:-1, Nile Sport
+http://vvn.neoredi.com/iptv/ch183?code=590138456678768&key=23703
+#EXTINF:-1, Nile Sport
+http://vvn.neoredi.com/iptv/ch183?code=8601338691674826&key=23703
+#EXTINF:-1, BT Sport 3
+http://vvn.neoredi.com/iptv/ch1830?code=135114454296143&key=30373
+#EXTINF:-1, BT Sport 3
+http://vvn.neoredi.com/iptv/ch1830?code=138137164006399&key=30373
+#EXTINF:-1, BT Sport 3
+http://vvn.neoredi.com/iptv/ch1830?code=1501309316704233&key=30373
+#EXTINF:-1, BT Sport 3
+http://vvn.neoredi.com/iptv/ch1830?code=590138456678768&key=30373
+#EXTINF:-1, BT Sport 3
+http://vvn.neoredi.com/iptv/ch1830?code=8601338691674826&key=30373
+#EXTINF:-1, Fox Sport 5
+http://vvn.neoredi.com/iptv/ch1862?code=135114454296143&key=33238
+#EXTINF:-1, Fox Sport 5
+http://vvn.neoredi.com/iptv/ch1862?code=138137164006399&key=33238
+#EXTINF:-1, Fox Sport 5
+http://vvn.neoredi.com/iptv/ch1862?code=1501309316704233&key=33238
+#EXTINF:-1, Fox Sport 5
+http://vvn.neoredi.com/iptv/ch1862?code=590138456678768&key=33238
+#EXTINF:-1, Fox Sport 5
+http://vvn.neoredi.com/iptv/ch1862?code=8601338691674826&key=33238
+#EXTINF:-1, Fox Sport 6
+http://vvn.neoredi.com/iptv/ch1863?code=135114454296143&key=59444
+#EXTINF:-1, Fox Sport 6
+http://vvn.neoredi.com/iptv/ch1863?code=138137164006399&key=59444
+#EXTINF:-1, Fox Sport 6
+http://vvn.neoredi.com/iptv/ch1863?code=1501309316704233&key=59444
+#EXTINF:-1, Fox Sport 6
+http://vvn.neoredi.com/iptv/ch1863?code=590138456678768&key=59444
+#EXTINF:-1, Fox Sport 6
+http://vvn.neoredi.com/iptv/ch1863?code=8601338691674826&key=59444
+#EXTINF:-1, Ziggo Sport Doc.
+http://vvn.neoredi.com/iptv/ch1866?code=135114454296143&key=31666
+#EXTINF:-1, Ziggo Sport Doc.
+http://vvn.neoredi.com/iptv/ch1866?code=138137164006399&key=31666
+#EXTINF:-1, Ziggo Sport Doc.
+http://vvn.neoredi.com/iptv/ch1866?code=1501309316704233&key=31666
+#EXTINF:-1, Ziggo Sport Doc.
+http://vvn.neoredi.com/iptv/ch1866?code=590138456678768&key=31666
+#EXTINF:-1, Ziggo Sport Doc.
+http://vvn.neoredi.com/iptv/ch1866?code=8601338691674826&key=31666
+#EXTINF:-1, Ziggo Sport Extra
+http://vvn.neoredi.com/iptv/ch1867?code=135114454296143&key=50232
+#EXTINF:-1, Ziggo Sport Extra
+http://vvn.neoredi.com/iptv/ch1867?code=138137164006399&key=50232
+#EXTINF:-1, Ziggo Sport Extra
+http://vvn.neoredi.com/iptv/ch1867?code=1501309316704233&key=50232
+#EXTINF:-1, Ziggo Sport Extra
+http://vvn.neoredi.com/iptv/ch1867?code=590138456678768&key=50232
+#EXTINF:-1, Ziggo Sport Extra
+http://vvn.neoredi.com/iptv/ch1867?code=8601338691674826&key=50232
+#EXTINF:-1, Ziggo Sport Golf
+http://vvn.neoredi.com/iptv/ch1879?code=135114454296143&key=14362
+#EXTINF:-1, Ziggo Sport Golf
+http://vvn.neoredi.com/iptv/ch1879?code=138137164006399&key=14362
+#EXTINF:-1, Ziggo Sport Golf
+http://vvn.neoredi.com/iptv/ch1879?code=1501309316704233&key=14362
+#EXTINF:-1, Ziggo Sport Golf
+http://vvn.neoredi.com/iptv/ch1879?code=590138456678768&key=14362
+#EXTINF:-1, Ziggo Sport Golf
+http://vvn.neoredi.com/iptv/ch1879?code=8601338691674826&key=14362
+#EXTINF:-1, Sport Italia IT
+http://vvn.neoredi.com/iptv/ch1933?code=135114454296143&key=32845
+#EXTINF:-1, Sport Italia IT
+http://vvn.neoredi.com/iptv/ch1933?code=138137164006399&key=32845
+#EXTINF:-1, Sport Italia IT
+http://vvn.neoredi.com/iptv/ch1933?code=1501309316704233&key=32845
+#EXTINF:-1, Sport Italia IT
+http://vvn.neoredi.com/iptv/ch1933?code=590138456678768&key=32845
+#EXTINF:-1, Sport Italia IT
+http://vvn.neoredi.com/iptv/ch1933?code=8601338691674826&key=32845
+#EXTINF:-1, Eurosport 1 NL
+http://vvn.neoredi.com/iptv/ch1969?code=135114454296143&key=38198
+#EXTINF:-1, Eurosport 1 NL
+http://vvn.neoredi.com/iptv/ch1969?code=138137164006399&key=38198
+#EXTINF:-1, Eurosport 1 NL
+http://vvn.neoredi.com/iptv/ch1969?code=1501309316704233&key=38198
+#EXTINF:-1, Eurosport 1 NL
+http://vvn.neoredi.com/iptv/ch1969?code=590138456678768&key=38198
+#EXTINF:-1, Eurosport 1 NL
+http://vvn.neoredi.com/iptv/ch1969?code=8601338691674826&key=38198
+#EXTINF:-1, Canal+ Sport
+http://vvn.neoredi.com/iptv/ch202?code=135114454296143&key=22881
+#EXTINF:-1, Canal+ Sport
+http://vvn.neoredi.com/iptv/ch202?code=138137164006399&key=22881
+#EXTINF:-1, Canal+ Sport
+http://vvn.neoredi.com/iptv/ch202?code=1501309316704233&key=22881
+#EXTINF:-1, Canal+ Sport
+http://vvn.neoredi.com/iptv/ch202?code=590138456678768&key=22881
+#EXTINF:-1, Canal+ Sport
+http://vvn.neoredi.com/iptv/ch202?code=8601338691674826&key=22881
+#EXTINF:-1, BeInSport 3 FR
+http://vvn.neoredi.com/iptv/ch206?code=135114454296143&key=26341
+#EXTINF:-1, BeInSport 3 FR
+http://vvn.neoredi.com/iptv/ch206?code=138137164006399&key=26341
+#EXTINF:-1, BeInSport 3 FR
+http://vvn.neoredi.com/iptv/ch206?code=1501309316704233&key=26341
+#EXTINF:-1, BeInSport 3 FR
+http://vvn.neoredi.com/iptv/ch206?code=590138456678768&key=26341
+#EXTINF:-1, BeInSport 3 FR
+http://vvn.neoredi.com/iptv/ch206?code=8601338691674826&key=26341
+#EXTINF:-1, Sport TV 3 PT
+http://vvn.neoredi.com/iptv/ch2125?code=135114454296143&key=54310
+#EXTINF:-1, Sport TV 3 PT
+http://vvn.neoredi.com/iptv/ch2125?code=138137164006399&key=54310
+#EXTINF:-1, Sport TV 3 PT
+http://vvn.neoredi.com/iptv/ch2125?code=1501309316704233&key=54310
+#EXTINF:-1, Sport TV 3 PT
+http://vvn.neoredi.com/iptv/ch2125?code=590138456678768&key=54310
+#EXTINF:-1, Sport TV 3 PT
+http://vvn.neoredi.com/iptv/ch2125?code=8601338691674826&key=54310
+#EXTINF:-1, Sport TV 4 PT
+http://vvn.neoredi.com/iptv/ch2126?code=135114454296143&key=18673
+#EXTINF:-1, Sport TV 4 PT
+http://vvn.neoredi.com/iptv/ch2126?code=138137164006399&key=18673
+#EXTINF:-1, Sport TV 4 PT
+http://vvn.neoredi.com/iptv/ch2126?code=1501309316704233&key=18673
+#EXTINF:-1, Sport TV 4 PT
+http://vvn.neoredi.com/iptv/ch2126?code=590138456678768&key=18673
+#EXTINF:-1, Sport TV 4 PT
+http://vvn.neoredi.com/iptv/ch2126?code=8601338691674826&key=18673
+#EXTINF:-1, Sport TV 5 PT
+http://vvn.neoredi.com/iptv/ch2127?code=135114454296143&key=49822
+#EXTINF:-1, Sport TV 5 PT
+http://vvn.neoredi.com/iptv/ch2127?code=138137164006399&key=49822
+#EXTINF:-1, Sport TV 5 PT
+http://vvn.neoredi.com/iptv/ch2127?code=1501309316704233&key=49822
+#EXTINF:-1, Sport TV 5 PT
+http://vvn.neoredi.com/iptv/ch2127?code=590138456678768&key=49822
+#EXTINF:-1, Sport TV 5 PT
+http://vvn.neoredi.com/iptv/ch2127?code=8601338691674826&key=49822
+#EXTINF:-1, BeinSport 2 TR
+http://vvn.neoredi.com/iptv/ch2355?code=135114454296143&key=15735
+#EXTINF:-1, BeinSport 2 TR
+http://vvn.neoredi.com/iptv/ch2355?code=138137164006399&key=15735
+#EXTINF:-1, BeinSport 2 TR
+http://vvn.neoredi.com/iptv/ch2355?code=1501309316704233&key=15735
+#EXTINF:-1, BeinSport 2 TR
+http://vvn.neoredi.com/iptv/ch2355?code=590138456678768&key=15735
+#EXTINF:-1, BeinSport 2 TR
+http://vvn.neoredi.com/iptv/ch2355?code=8601338691674826&key=15735
+#EXTINF:-1, BeinSport 3 TR
+http://vvn.neoredi.com/iptv/ch2356?code=135114454296143&key=44129
+#EXTINF:-1, BeinSport 3 TR
+http://vvn.neoredi.com/iptv/ch2356?code=138137164006399&key=44129
+#EXTINF:-1, BeinSport 3 TR
+http://vvn.neoredi.com/iptv/ch2356?code=1501309316704233&key=44129
+#EXTINF:-1, BeinSport 3 TR
+http://vvn.neoredi.com/iptv/ch2356?code=590138456678768&key=44129
+#EXTINF:-1, BeinSport 3 TR
+http://vvn.neoredi.com/iptv/ch2356?code=8601338691674826&key=44129
+#EXTINF:-1, BeinSport Max 1
+http://vvn.neoredi.com/iptv/ch2358?code=135114454296143&key=41059
+#EXTINF:-1, BeinSport Max 1
+http://vvn.neoredi.com/iptv/ch2358?code=138137164006399&key=41059
+#EXTINF:-1, BeinSport Max 1
+http://vvn.neoredi.com/iptv/ch2358?code=1501309316704233&key=41059
+#EXTINF:-1, BeinSport Max 1
+http://vvn.neoredi.com/iptv/ch2358?code=590138456678768&key=41059
+#EXTINF:-1, BeinSport Max 1
+http://vvn.neoredi.com/iptv/ch2358?code=8601338691674826&key=41059
+#EXTINF:-1, BeinSport Max 2
+http://vvn.neoredi.com/iptv/ch2359?code=135114454296143&key=29388
+#EXTINF:-1, BeinSport Max 2
+http://vvn.neoredi.com/iptv/ch2359?code=138137164006399&key=29388
+#EXTINF:-1, BeinSport Max 2
+http://vvn.neoredi.com/iptv/ch2359?code=1501309316704233&key=29388
+#EXTINF:-1, BeinSport Max 2
+http://vvn.neoredi.com/iptv/ch2359?code=590138456678768&key=29388
+#EXTINF:-1, BeinSport Max 2
+http://vvn.neoredi.com/iptv/ch2359?code=8601338691674826&key=29388
+#EXTINF:-1, BeinSport 4 TR
+http://vvn.neoredi.com/iptv/ch2360?code=135114454296143&key=19535
+#EXTINF:-1, BeinSport 4 TR
+http://vvn.neoredi.com/iptv/ch2360?code=138137164006399&key=19535
+#EXTINF:-1, BeinSport 4 TR
+http://vvn.neoredi.com/iptv/ch2360?code=1501309316704233&key=19535
+#EXTINF:-1, BeinSport 4 TR
+http://vvn.neoredi.com/iptv/ch2360?code=590138456678768&key=19535
+#EXTINF:-1, BeinSport 4 TR
+http://vvn.neoredi.com/iptv/ch2360?code=8601338691674826&key=19535
+#EXTINF:-1, Tivibu Sport 1
+http://vvn.neoredi.com/iptv/ch2361?code=135114454296143&key=18337
+#EXTINF:-1, Tivibu Sport 1
+http://vvn.neoredi.com/iptv/ch2361?code=138137164006399&key=18337
+#EXTINF:-1, Tivibu Sport 1
+http://vvn.neoredi.com/iptv/ch2361?code=1501309316704233&key=18337
+#EXTINF:-1, Tivibu Sport 1
+http://vvn.neoredi.com/iptv/ch2361?code=590138456678768&key=18337
+#EXTINF:-1, Tivibu Sport 1
+http://vvn.neoredi.com/iptv/ch2361?code=8601338691674826&key=18337
+#EXTINF:-1, Tivibu Sport 2
+http://vvn.neoredi.com/iptv/ch2362?code=135114454296143&key=10226
+#EXTINF:-1, Tivibu Sport 2
+http://vvn.neoredi.com/iptv/ch2362?code=138137164006399&key=10226
+#EXTINF:-1, Tivibu Sport 2
+http://vvn.neoredi.com/iptv/ch2362?code=1501309316704233&key=10226
+#EXTINF:-1, Tivibu Sport 2
+http://vvn.neoredi.com/iptv/ch2362?code=590138456678768&key=10226
+#EXTINF:-1, Tivibu Sport 2
+http://vvn.neoredi.com/iptv/ch2362?code=8601338691674826&key=10226
+#EXTINF:-1, Sport Tv TR
+http://vvn.neoredi.com/iptv/ch2366?code=135114454296143&key=29705
+#EXTINF:-1, Sport Tv TR
+http://vvn.neoredi.com/iptv/ch2366?code=138137164006399&key=29705
+#EXTINF:-1, Sport Tv TR
+http://vvn.neoredi.com/iptv/ch2366?code=1501309316704233&key=29705
+#EXTINF:-1, Sport Tv TR
+http://vvn.neoredi.com/iptv/ch2366?code=590138456678768&key=29705
+#EXTINF:-1, Sport Tv TR
+http://vvn.neoredi.com/iptv/ch2366?code=8601338691674826&key=29705
+#EXTINF:-1, RMC Sport 4 HD
+http://vvn.neoredi.com/iptv/ch243?code=135114454296143&key=62334
+#EXTINF:-1, RMC Sport 4 HD
+http://vvn.neoredi.com/iptv/ch243?code=138137164006399&key=62334
+#EXTINF:-1, RMC Sport 4 HD
+http://vvn.neoredi.com/iptv/ch243?code=1501309316704233&key=62334
+#EXTINF:-1, RMC Sport 4 HD
+http://vvn.neoredi.com/iptv/ch243?code=590138456678768&key=62334
+#EXTINF:-1, RMC Sport 4 HD
+http://vvn.neoredi.com/iptv/ch243?code=8601338691674826&key=62334
+#EXTINF:-1, RMC News HD
+http://vvn.neoredi.com/iptv/ch244?code=135114454296143&key=24950
+#EXTINF:-1, RMC News HD
+http://vvn.neoredi.com/iptv/ch244?code=138137164006399&key=24950
+#EXTINF:-1, RMC News HD
+http://vvn.neoredi.com/iptv/ch244?code=1501309316704233&key=24950
+#EXTINF:-1, RMC News HD
+http://vvn.neoredi.com/iptv/ch244?code=590138456678768&key=24950
+#EXTINF:-1, RMC News HD
+http://vvn.neoredi.com/iptv/ch244?code=8601338691674826&key=24950
+#EXTINF:-1, RMC Sport 2 HD
+http://vvn.neoredi.com/iptv/ch253?code=135114454296143&key=43971
+#EXTINF:-1, RMC Sport 2 HD
+http://vvn.neoredi.com/iptv/ch253?code=138137164006399&key=43971
+#EXTINF:-1, RMC Sport 2 HD
+http://vvn.neoredi.com/iptv/ch253?code=1501309316704233&key=43971
+#EXTINF:-1, RMC Sport 2 HD
+http://vvn.neoredi.com/iptv/ch253?code=590138456678768&key=43971
+#EXTINF:-1, RMC Sport 2 HD
+http://vvn.neoredi.com/iptv/ch253?code=8601338691674826&key=43971
+#EXTINF:-1, RMC Sport 3 HD
+http://vvn.neoredi.com/iptv/ch254?code=135114454296143&key=13496
+#EXTINF:-1, RMC Sport 3 HD
+http://vvn.neoredi.com/iptv/ch254?code=138137164006399&key=13496
+#EXTINF:-1, RMC Sport 3 HD
+http://vvn.neoredi.com/iptv/ch254?code=1501309316704233&key=13496
+#EXTINF:-1, RMC Sport 3 HD
+http://vvn.neoredi.com/iptv/ch254?code=590138456678768&key=13496
+#EXTINF:-1, RMC Sport 3 HD
+http://vvn.neoredi.com/iptv/ch254?code=8601338691674826&key=13496
+#EXTINF:-1, RMC Sport 1 HD
+http://vvn.neoredi.com/iptv/ch255?code=135114454296143&key=43852
+#EXTINF:-1, RMC Sport 1 HD
+http://vvn.neoredi.com/iptv/ch255?code=138137164006399&key=43852
+#EXTINF:-1, RMC Sport 1 HD
+http://vvn.neoredi.com/iptv/ch255?code=1501309316704233&key=43852
+#EXTINF:-1, RMC Sport 1 HD
+http://vvn.neoredi.com/iptv/ch255?code=590138456678768&key=43852
+#EXTINF:-1, RMC Sport 1 HD
+http://vvn.neoredi.com/iptv/ch255?code=8601338691674826&key=43852
+#EXTINF:-1, Foot Plus
+http://vvn.neoredi.com/iptv/ch266?code=135114454296143&key=35881
+#EXTINF:-1, Foot Plus
+http://vvn.neoredi.com/iptv/ch266?code=138137164006399&key=35881
+#EXTINF:-1, Foot Plus
+http://vvn.neoredi.com/iptv/ch266?code=1501309316704233&key=35881
+#EXTINF:-1, Foot Plus
+http://vvn.neoredi.com/iptv/ch266?code=590138456678768&key=35881
+#EXTINF:-1, Foot Plus
+http://vvn.neoredi.com/iptv/ch266?code=8601338691674826&key=35881
+#EXTINF:-1, AB Moteur
+http://vvn.neoredi.com/iptv/ch268?code=135114454296143&key=34426
+#EXTINF:-1, AB Moteur
+http://vvn.neoredi.com/iptv/ch268?code=138137164006399&key=34426
+#EXTINF:-1, AB Moteur
+http://vvn.neoredi.com/iptv/ch268?code=1501309316704233&key=34426
+#EXTINF:-1, AB Moteur
+http://vvn.neoredi.com/iptv/ch268?code=590138456678768&key=34426
+#EXTINF:-1, AB Moteur
+http://vvn.neoredi.com/iptv/ch268?code=8601338691674826&key=34426
+#EXTINF:-1, Equidia Live
+http://vvn.neoredi.com/iptv/ch269?code=135114454296143&key=51917
+#EXTINF:-1, Equidia Live
+http://vvn.neoredi.com/iptv/ch269?code=138137164006399&key=51917
+#EXTINF:-1, Equidia Live
+http://vvn.neoredi.com/iptv/ch269?code=1501309316704233&key=51917
+#EXTINF:-1, Equidia Live
+http://vvn.neoredi.com/iptv/ch269?code=590138456678768&key=51917
+#EXTINF:-1, Equidia Live
+http://vvn.neoredi.com/iptv/ch269?code=8601338691674826&key=51917
+#EXTINF:-1, Golf Channel FR
+http://vvn.neoredi.com/iptv/ch290?code=135114454296143&key=43121
+#EXTINF:-1, Golf Channel FR
+http://vvn.neoredi.com/iptv/ch290?code=138137164006399&key=43121
+#EXTINF:-1, Golf Channel FR
+http://vvn.neoredi.com/iptv/ch290?code=1501309316704233&key=43121
+#EXTINF:-1, Golf Channel FR
+http://vvn.neoredi.com/iptv/ch290?code=590138456678768&key=43121
+#EXTINF:-1, Golf Channel FR
+http://vvn.neoredi.com/iptv/ch290?code=8601338691674826&key=43121
+#EXTINF:-1, BeInSport Max 4
+http://vvn.neoredi.com/iptv/ch340?code=135114454296143&key=46196
+#EXTINF:-1, BeInSport Max 4
+http://vvn.neoredi.com/iptv/ch340?code=138137164006399&key=46196
+#EXTINF:-1, BeInSport Max 4
+http://vvn.neoredi.com/iptv/ch340?code=1501309316704233&key=46196
+#EXTINF:-1, BeInSport Max 4
+http://vvn.neoredi.com/iptv/ch340?code=590138456678768&key=46196
+#EXTINF:-1, BeInSport Max 4
+http://vvn.neoredi.com/iptv/ch340?code=8601338691674826&key=46196
+#EXTINF:-1, BeInSport Max 5
+http://vvn.neoredi.com/iptv/ch341?code=135114454296143&key=45618
+#EXTINF:-1, BeInSport Max 5
+http://vvn.neoredi.com/iptv/ch341?code=138137164006399&key=45618
+#EXTINF:-1, BeInSport Max 5
+http://vvn.neoredi.com/iptv/ch341?code=1501309316704233&key=45618
+#EXTINF:-1, BeInSport Max 5
+http://vvn.neoredi.com/iptv/ch341?code=590138456678768&key=45618
+#EXTINF:-1, BeInSport Max 5
+http://vvn.neoredi.com/iptv/ch341?code=8601338691674826&key=45618
+#EXTINF:-1, BeInSport Max 6
+http://vvn.neoredi.com/iptv/ch342?code=135114454296143&key=61413
+#EXTINF:-1, BeInSport Max 6
+http://vvn.neoredi.com/iptv/ch342?code=138137164006399&key=61413
+#EXTINF:-1, BeInSport Max 6
+http://vvn.neoredi.com/iptv/ch342?code=1501309316704233&key=61413
+#EXTINF:-1, BeInSport Max 6
+http://vvn.neoredi.com/iptv/ch342?code=590138456678768&key=61413
+#EXTINF:-1, BeInSport Max 6
+http://vvn.neoredi.com/iptv/ch342?code=8601338691674826&key=61413
+#EXTINF:-1, BeInSport Max 7
+http://vvn.neoredi.com/iptv/ch343?code=135114454296143&key=52352
+#EXTINF:-1, BeInSport Max 7
+http://vvn.neoredi.com/iptv/ch343?code=138137164006399&key=52352
+#EXTINF:-1, BeInSport Max 7
+http://vvn.neoredi.com/iptv/ch343?code=1501309316704233&key=52352
+#EXTINF:-1, BeInSport Max 7
+http://vvn.neoredi.com/iptv/ch343?code=590138456678768&key=52352
+#EXTINF:-1, BeInSport Max 7
+http://vvn.neoredi.com/iptv/ch343?code=8601338691674826&key=52352
+#EXTINF:-1, BeInSport Max 8
+http://vvn.neoredi.com/iptv/ch344?code=135114454296143&key=31483
+#EXTINF:-1, BeInSport Max 8
+http://vvn.neoredi.com/iptv/ch344?code=138137164006399&key=31483
+#EXTINF:-1, BeInSport Max 8
+http://vvn.neoredi.com/iptv/ch344?code=1501309316704233&key=31483
+#EXTINF:-1, BeInSport Max 8
+http://vvn.neoredi.com/iptv/ch344?code=590138456678768&key=31483
+#EXTINF:-1, BeInSport Max 8
+http://vvn.neoredi.com/iptv/ch344?code=8601338691674826&key=31483
+#EXTINF:-1, BeInSport Max 9
+http://vvn.neoredi.com/iptv/ch345?code=135114454296143&key=28076
+#EXTINF:-1, BeInSport Max 9
+http://vvn.neoredi.com/iptv/ch345?code=138137164006399&key=28076
+#EXTINF:-1, BeInSport Max 9
+http://vvn.neoredi.com/iptv/ch345?code=1501309316704233&key=28076
+#EXTINF:-1, BeInSport Max 9
+http://vvn.neoredi.com/iptv/ch345?code=590138456678768&key=28076
+#EXTINF:-1, BeInSport Max 9
+http://vvn.neoredi.com/iptv/ch345?code=8601338691674826&key=28076
+#EXTINF:-1, ESPN News HD
+http://vvn.neoredi.com/iptv/ch3510?code=1501309316704233&key=60519
+#EXTINF:-1, ESPN News HD
+http://vvn.neoredi.com/iptv/ch3510?code=590138456678768&key=60519
+#EXTINF:-1, ESPN HD
+http://vvn.neoredi.com/iptv/ch3511?code=1501309316704233&key=54244
+#EXTINF:-1, ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=135114454296143&key=16615
+#EXTINF:-1, ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=138137164006399&key=16615
+#EXTINF:-1, ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=1501309316704233&key=16615
+#EXTINF:-1, ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=590138456678768&key=16615
+#EXTINF:-1, ESPN2 HD
+http://vvn.neoredi.com/iptv/ch3512?code=8601338691674826&key=16615
+#EXTINF:-1, Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=135114454296143&key=23881
+#EXTINF:-1, Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=138137164006399&key=23881
+#EXTINF:-1, Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=1501309316704233&key=23881
+#EXTINF:-1, Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=590138456678768&key=23881
+#EXTINF:-1, Fox Sport 2 HD
+http://vvn.neoredi.com/iptv/ch3514?code=8601338691674826&key=23881
+#EXTINF:-1, NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=135114454296143&key=40035
+#EXTINF:-1, NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=138137164006399&key=40035
+#EXTINF:-1, NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=1501309316704233&key=40035
+#EXTINF:-1, NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=590138456678768&key=40035
+#EXTINF:-1, NBA HD
+http://vvn.neoredi.com/iptv/ch3515?code=8601338691674826&key=40035
+#EXTINF:-1, NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=135114454296143&key=50917
+#EXTINF:-1, NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=138137164006399&key=50917
+#EXTINF:-1, NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=1501309316704233&key=50917
+#EXTINF:-1, NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=590138456678768&key=50917
+#EXTINF:-1, NBC Sports net.
+http://vvn.neoredi.com/iptv/ch3516?code=8601338691674826&key=50917
+#EXTINF:-1, NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=135114454296143&key=50778
+#EXTINF:-1, NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=138137164006399&key=50778
+#EXTINF:-1, NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=1501309316704233&key=50778
+#EXTINF:-1, NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=590138456678768&key=50778
+#EXTINF:-1, NHL net. HD
+http://vvn.neoredi.com/iptv/ch3517?code=8601338691674826&key=50778
+#EXTINF:-1, WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=135114454296143&key=21916
+#EXTINF:-1, WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=138137164006399&key=21916
+#EXTINF:-1, WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=1501309316704233&key=21916
+#EXTINF:-1, WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=590138456678768&key=21916
+#EXTINF:-1, WWE net.
+http://vvn.neoredi.com/iptv/ch3518?code=8601338691674826&key=21916
+#EXTINF:-1, NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=135114454296143&key=61270
+#EXTINF:-1, NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=138137164006399&key=61270
+#EXTINF:-1, NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=1501309316704233&key=61270
+#EXTINF:-1, NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=590138456678768&key=61270
+#EXTINF:-1, NBC HD
+http://vvn.neoredi.com/iptv/ch3521?code=8601338691674826&key=61270
+#EXTINF:-1, TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=135114454296143&key=12157
+#EXTINF:-1, TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=138137164006399&key=12157
+#EXTINF:-1, TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=1501309316704233&key=12157
+#EXTINF:-1, TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=590138456678768&key=12157
+#EXTINF:-1, TSN 1 HD
+http://vvn.neoredi.com/iptv/ch3522?code=8601338691674826&key=12157
+#EXTINF:-1, TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=135114454296143&key=54617
+#EXTINF:-1, TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=138137164006399&key=54617
+#EXTINF:-1, TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=1501309316704233&key=54617
+#EXTINF:-1, TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=590138456678768&key=54617
+#EXTINF:-1, TSN 2 HD
+http://vvn.neoredi.com/iptv/ch3523?code=8601338691674826&key=54617
+#EXTINF:-1, TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=135114454296143&key=24582
+#EXTINF:-1, TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=138137164006399&key=24582
+#EXTINF:-1, TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=1501309316704233&key=24582
+#EXTINF:-1, TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=590138456678768&key=24582
+#EXTINF:-1, TSN 3 HD
+http://vvn.neoredi.com/iptv/ch3524?code=8601338691674826&key=24582
+#EXTINF:-1, TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=135114454296143&key=38701
+#EXTINF:-1, TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=138137164006399&key=38701
+#EXTINF:-1, TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=1501309316704233&key=38701
+#EXTINF:-1, TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=590138456678768&key=38701
+#EXTINF:-1, TSN 5 HD
+http://vvn.neoredi.com/iptv/ch3526?code=8601338691674826&key=38701
+#EXTINF:-1, Eurosport 2 NL
+http://vvn.neoredi.com/iptv/ch3549?code=135114454296143&key=17867
+#EXTINF:-1, Eurosport 2 NL
+http://vvn.neoredi.com/iptv/ch3549?code=138137164006399&key=17867
+#EXTINF:-1, Eurosport 2 NL
+http://vvn.neoredi.com/iptv/ch3549?code=1501309316704233&key=17867
+#EXTINF:-1, Eurosport 2 NL
+http://vvn.neoredi.com/iptv/ch3549?code=590138456678768&key=17867
+#EXTINF:-1, Eurosport 2 NL
+http://vvn.neoredi.com/iptv/ch3549?code=8601338691674826&key=17867
+#EXTINF:-1, Ziggo Sport Racing NL
+http://vvn.neoredi.com/iptv/ch3585?code=135114454296143&key=57561
+#EXTINF:-1, Ziggo Sport Racing NL
+http://vvn.neoredi.com/iptv/ch3585?code=138137164006399&key=57561
+#EXTINF:-1, Ziggo Sport Racing NL
+http://vvn.neoredi.com/iptv/ch3585?code=1501309316704233&key=57561
+#EXTINF:-1, Ziggo Sport Racing NL
+http://vvn.neoredi.com/iptv/ch3585?code=590138456678768&key=57561
+#EXTINF:-1, Ziggo Sport Racing NL
+http://vvn.neoredi.com/iptv/ch3585?code=8601338691674826&key=57561
+#EXTINF:-1, Ziggo NL
+http://vvn.neoredi.com/iptv/ch3586?code=135114454296143&key=35409
+#EXTINF:-1, Ziggo NL
+http://vvn.neoredi.com/iptv/ch3586?code=138137164006399&key=35409
+#EXTINF:-1, Ziggo NL
+http://vvn.neoredi.com/iptv/ch3586?code=1501309316704233&key=35409
+#EXTINF:-1, Ziggo NL
+http://vvn.neoredi.com/iptv/ch3586?code=590138456678768&key=35409
+#EXTINF:-1, Ziggo NL
+http://vvn.neoredi.com/iptv/ch3586?code=8601338691674826&key=35409
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=135114454296143&key=63718
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=138137164006399&key=63718
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=1501309316704233&key=63718
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=590138456678768&key=63718
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=8601338691674826&key=63718
+#EXTINF:-1, Al Kaas 2
+http://vvn.neoredi.com/iptv/ch442?code=135114454296143&key=27203
+#EXTINF:-1, Al Kaas 2
+http://vvn.neoredi.com/iptv/ch442?code=138137164006399&key=27203
+#EXTINF:-1, Al Kaas 2
+http://vvn.neoredi.com/iptv/ch442?code=1501309316704233&key=27203
+#EXTINF:-1, Al Kaas 2
+http://vvn.neoredi.com/iptv/ch442?code=590138456678768&key=27203
+#EXTINF:-1, Al Kaas 2
+http://vvn.neoredi.com/iptv/ch442?code=8601338691674826&key=27203
+#EXTINF:-1, Canal+ Sport Cy
+http://vvn.neoredi.com/iptv/ch4527?code=135114454296143&key=39502
+#EXTINF:-1, Canal+ Sport Cy
+http://vvn.neoredi.com/iptv/ch4527?code=138137164006399&key=39502
+#EXTINF:-1, Canal+ Sport Cy
+http://vvn.neoredi.com/iptv/ch4527?code=1501309316704233&key=39502
+#EXTINF:-1, Canal+ Sport Cy
+http://vvn.neoredi.com/iptv/ch4527?code=590138456678768&key=39502
+#EXTINF:-1, Canal+ Sport Cy
+http://vvn.neoredi.com/iptv/ch4527?code=8601338691674826&key=39502
+#EXTINF:-1, Al Kaas 1
+http://vvn.neoredi.com/iptv/ch497?code=135114454296143&key=32539
+#EXTINF:-1, Al Kaas 1
+http://vvn.neoredi.com/iptv/ch497?code=138137164006399&key=32539
+#EXTINF:-1, Al Kaas 1
+http://vvn.neoredi.com/iptv/ch497?code=1501309316704233&key=32539
+#EXTINF:-1, Al Kaas 1
+http://vvn.neoredi.com/iptv/ch497?code=590138456678768&key=32539
+#EXTINF:-1, Al Kaas 1
+http://vvn.neoredi.com/iptv/ch497?code=8601338691674826&key=32539
+#EXTINF:-1, BeInSport 9 HD
+http://vvn.neoredi.com/iptv/ch510?code=135114454296143&key=27398
+#EXTINF:-1, BeInSport 9 HD
+http://vvn.neoredi.com/iptv/ch510?code=138137164006399&key=27398
+#EXTINF:-1, BeInSport 9 HD
+http://vvn.neoredi.com/iptv/ch510?code=1501309316704233&key=27398
+#EXTINF:-1, BeInSport 9 HD
+http://vvn.neoredi.com/iptv/ch510?code=590138456678768&key=27398
+#EXTINF:-1, BeInSport 9 HD
+http://vvn.neoredi.com/iptv/ch510?code=8601338691674826&key=27398
+#EXTINF:-1, BeInSport 10 HD
+http://vvn.neoredi.com/iptv/ch511?code=135114454296143&key=51278
+#EXTINF:-1, BeInSport 10 HD
+http://vvn.neoredi.com/iptv/ch511?code=138137164006399&key=51278
+#EXTINF:-1, BeInSport 10 HD
+http://vvn.neoredi.com/iptv/ch511?code=1501309316704233&key=51278
+#EXTINF:-1, BeInSport 10 HD
+http://vvn.neoredi.com/iptv/ch511?code=590138456678768&key=51278
+#EXTINF:-1, BeInSport 10 HD
+http://vvn.neoredi.com/iptv/ch511?code=8601338691674826&key=51278
+#EXTINF:-1, BeInSport 11 HD
+http://vvn.neoredi.com/iptv/ch512?code=135114454296143&key=55556
+#EXTINF:-1, BeInSport 11 HD
+http://vvn.neoredi.com/iptv/ch512?code=138137164006399&key=55556
+#EXTINF:-1, BeInSport 11 HD
+http://vvn.neoredi.com/iptv/ch512?code=1501309316704233&key=55556
+#EXTINF:-1, BeInSport 11 HD
+http://vvn.neoredi.com/iptv/ch512?code=590138456678768&key=55556
+#EXTINF:-1, BeInSport 11 HD
+http://vvn.neoredi.com/iptv/ch512?code=8601338691674826&key=55556
+#EXTINF:-1, BeInSport 12 HD
+http://vvn.neoredi.com/iptv/ch513?code=135114454296143&key=55186
+#EXTINF:-1, BeInSport 12 HD
+http://vvn.neoredi.com/iptv/ch513?code=138137164006399&key=55186
+#EXTINF:-1, BeInSport 12 HD
+http://vvn.neoredi.com/iptv/ch513?code=1501309316704233&key=55186
+#EXTINF:-1, BeInSport 12 HD
+http://vvn.neoredi.com/iptv/ch513?code=590138456678768&key=55186
+#EXTINF:-1, BeInSport 12 HD
+http://vvn.neoredi.com/iptv/ch513?code=8601338691674826&key=55186
+#EXTINF:-1, BeInSport 15 HD
+http://vvn.neoredi.com/iptv/ch516?code=135114454296143&key=27664
+#EXTINF:-1, BeInSport 15 HD
+http://vvn.neoredi.com/iptv/ch516?code=138137164006399&key=27664
+#EXTINF:-1, BeInSport 15 HD
+http://vvn.neoredi.com/iptv/ch516?code=1501309316704233&key=27664
+#EXTINF:-1, BeInSport 15 HD
+http://vvn.neoredi.com/iptv/ch516?code=590138456678768&key=27664
+#EXTINF:-1, BeInSport 15 HD
+http://vvn.neoredi.com/iptv/ch516?code=8601338691674826&key=27664
+#EXTINF:-1, BeInSport NBA HD
+http://vvn.neoredi.com/iptv/ch522?code=135114454296143&key=52241
+#EXTINF:-1, BeInSport NBA HD
+http://vvn.neoredi.com/iptv/ch522?code=138137164006399&key=52241
+#EXTINF:-1, BeInSport NBA HD
+http://vvn.neoredi.com/iptv/ch522?code=1501309316704233&key=52241
+#EXTINF:-1, BeInSport NBA HD
+http://vvn.neoredi.com/iptv/ch522?code=590138456678768&key=52241
+#EXTINF:-1, BeInSport NBA HD
+http://vvn.neoredi.com/iptv/ch522?code=8601338691674826&key=52241
+#EXTINF:-1, Al Kaas 4
+http://vvn.neoredi.com/iptv/ch545?code=135114454296143&key=49809
+#EXTINF:-1, Al Kaas 4
+http://vvn.neoredi.com/iptv/ch545?code=138137164006399&key=49809
+#EXTINF:-1, Al Kaas 4
+http://vvn.neoredi.com/iptv/ch545?code=1501309316704233&key=49809
+#EXTINF:-1, Al Kaas 4
+http://vvn.neoredi.com/iptv/ch545?code=590138456678768&key=49809
+#EXTINF:-1, Al Kaas 4
+http://vvn.neoredi.com/iptv/ch545?code=8601338691674826&key=49809
+#EXTINF:-1, AD Sport 3 HD
+http://vvn.neoredi.com/iptv/ch5519?code=135114454296143&key=18357
+#EXTINF:-1, AD Sport 3 HD
+http://vvn.neoredi.com/iptv/ch5519?code=138137164006399&key=18357
+#EXTINF:-1, AD Sport 3 HD
+http://vvn.neoredi.com/iptv/ch5519?code=1501309316704233&key=18357
+#EXTINF:-1, AD Sport 3 HD
+http://vvn.neoredi.com/iptv/ch5519?code=590138456678768&key=18357
+#EXTINF:-1, AD Sport 3 HD
+http://vvn.neoredi.com/iptv/ch5519?code=8601338691674826&key=18357
+#EXTINF:-1, AD Sport 4 HD
+http://vvn.neoredi.com/iptv/ch5520?code=135114454296143&key=41241
+#EXTINF:-1, AD Sport 4 HD
+http://vvn.neoredi.com/iptv/ch5520?code=138137164006399&key=41241
+#EXTINF:-1, AD Sport 4 HD
+http://vvn.neoredi.com/iptv/ch5520?code=1501309316704233&key=41241
+#EXTINF:-1, AD Sport 4 HD
+http://vvn.neoredi.com/iptv/ch5520?code=590138456678768&key=41241
+#EXTINF:-1, AD Sport 4 HD
+http://vvn.neoredi.com/iptv/ch5520?code=8601338691674826&key=41241
+#EXTINF:-1, AD Sport 2 HD
+http://vvn.neoredi.com/iptv/ch603?code=8601338691674826&key=53427
+#EXTINF:-1, Yas Sports
+http://vvn.neoredi.com/iptv/ch629?code=138137164006399&key=11373
+#EXTINF:-1, Yas Sports
+http://vvn.neoredi.com/iptv/ch629?code=1501309316704233&key=11373
+#EXTINF:-1, Eleven Sport 4 Cy
+http://vvn.neoredi.com/iptv/ch6523?code=135114454296143&key=23500
+#EXTINF:-1, Eleven Sport 4 Cy
+http://vvn.neoredi.com/iptv/ch6523?code=138137164006399&key=23500
+#EXTINF:-1, Eleven Sport 4 Cy
+http://vvn.neoredi.com/iptv/ch6523?code=1501309316704233&key=23500
+#EXTINF:-1, Eleven Sport 4 Cy
+http://vvn.neoredi.com/iptv/ch6523?code=590138456678768&key=23500
+#EXTINF:-1, Eleven Sport 4 Cy
+http://vvn.neoredi.com/iptv/ch6523?code=8601338691674826&key=23500
+#EXTINF:-1, EuroSport 1 HD
+http://vvn.neoredi.com/iptv/ch743?code=135114454296143&key=45912
+#EXTINF:-1, EuroSport 1 HD
+http://vvn.neoredi.com/iptv/ch743?code=138137164006399&key=45912
+#EXTINF:-1, EuroSport 1 HD
+http://vvn.neoredi.com/iptv/ch743?code=1501309316704233&key=45912
+#EXTINF:-1, EuroSport 1 HD
+http://vvn.neoredi.com/iptv/ch743?code=590138456678768&key=45912
+#EXTINF:-1, EuroSport 1 HD
+http://vvn.neoredi.com/iptv/ch743?code=8601338691674826&key=45912
+#EXTINF:-1, EuroSport 2 HD
+http://vvn.neoredi.com/iptv/ch744?code=135114454296143&key=23667
+#EXTINF:-1, EuroSport 2 HD
+http://vvn.neoredi.com/iptv/ch744?code=138137164006399&key=23667
+#EXTINF:-1, EuroSport 2 HD
+http://vvn.neoredi.com/iptv/ch744?code=1501309316704233&key=23667
+#EXTINF:-1, EuroSport 2 HD
+http://vvn.neoredi.com/iptv/ch744?code=590138456678768&key=23667
+#EXTINF:-1, EuroSport 2 HD
+http://vvn.neoredi.com/iptv/ch744?code=8601338691674826&key=23667
+#EXTINF:-1, Saudie Sport
+http://vvn.neoredi.com/iptv/ch747?code=135114454296143&key=20096
+#EXTINF:-1, Saudie Sport
+http://vvn.neoredi.com/iptv/ch747?code=138137164006399&key=20096
+#EXTINF:-1, Saudie Sport
+http://vvn.neoredi.com/iptv/ch747?code=1501309316704233&key=20096
+#EXTINF:-1, Saudie Sport
+http://vvn.neoredi.com/iptv/ch747?code=590138456678768&key=20096
+#EXTINF:-1, Saudie Sport
+http://vvn.neoredi.com/iptv/ch747?code=8601338691674826&key=20096
+#EXTINF:-1, Ahly Channel
+http://vvn.neoredi.com/iptv/ch783?code=135114454296143&key=59553
+#EXTINF:-1, Ahly Channel
+http://vvn.neoredi.com/iptv/ch783?code=138137164006399&key=59553
+#EXTINF:-1, Ahly Channel
+http://vvn.neoredi.com/iptv/ch783?code=1501309316704233&key=59553
+#EXTINF:-1, Ahly Channel
+http://vvn.neoredi.com/iptv/ch783?code=590138456678768&key=59553
+#EXTINF:-1, Ahly Channel
+http://vvn.neoredi.com/iptv/ch783?code=8601338691674826&key=59553
+#EXTINF:-1, BeInSport 1 SD
+http://vvn.neoredi.com/iptv/ch8111?code=135114454296143&key=33281
+#EXTINF:-1, BeInSport 1 SD
+http://vvn.neoredi.com/iptv/ch8111?code=138137164006399&key=33281
+#EXTINF:-1, BeInSport 1 SD
+http://vvn.neoredi.com/iptv/ch8111?code=1501309316704233&key=33281
+#EXTINF:-1, BeInSport 1 SD
+http://vvn.neoredi.com/iptv/ch8111?code=590138456678768&key=33281
+#EXTINF:-1, BeInSport 1 SD
+http://vvn.neoredi.com/iptv/ch8111?code=8601338691674826&key=33281
+#EXTINF:-1, BeInSport 2 SD
+http://vvn.neoredi.com/iptv/ch8112?code=135114454296143&key=12334
+#EXTINF:-1, BeInSport 2 SD
+http://vvn.neoredi.com/iptv/ch8112?code=138137164006399&key=12334
+#EXTINF:-1, BeInSport 2 SD
+http://vvn.neoredi.com/iptv/ch8112?code=1501309316704233&key=12334
+#EXTINF:-1, BeInSport 2 SD
+http://vvn.neoredi.com/iptv/ch8112?code=590138456678768&key=12334
+#EXTINF:-1, BeInSport 2 SD
+http://vvn.neoredi.com/iptv/ch8112?code=8601338691674826&key=12334
+#EXTINF:-1, BeInSport 3 SD
+http://vvn.neoredi.com/iptv/ch8113?code=135114454296143&key=46519
+#EXTINF:-1, BeInSport 3 SD
+http://vvn.neoredi.com/iptv/ch8113?code=138137164006399&key=46519
+#EXTINF:-1, BeInSport 3 SD
+http://vvn.neoredi.com/iptv/ch8113?code=1501309316704233&key=46519
+#EXTINF:-1, BeInSport 3 SD
+http://vvn.neoredi.com/iptv/ch8113?code=590138456678768&key=46519
+#EXTINF:-1, BeInSport 3 SD
+http://vvn.neoredi.com/iptv/ch8113?code=8601338691674826&key=46519
+#EXTINF:-1, BeInSport 4 SD
+http://vvn.neoredi.com/iptv/ch8114?code=135114454296143&key=40487
+#EXTINF:-1, BeInSport 4 SD
+http://vvn.neoredi.com/iptv/ch8114?code=138137164006399&key=40487
+#EXTINF:-1, BeInSport 4 SD
+http://vvn.neoredi.com/iptv/ch8114?code=1501309316704233&key=40487
+#EXTINF:-1, BeInSport 4 SD
+http://vvn.neoredi.com/iptv/ch8114?code=590138456678768&key=40487
+#EXTINF:-1, BeInSport 4 SD
+http://vvn.neoredi.com/iptv/ch8114?code=8601338691674826&key=40487
+#EXTINF:-1, BeInSport 5 SD
+http://vvn.neoredi.com/iptv/ch8115?code=135114454296143&key=26611
+#EXTINF:-1, BeInSport 5 SD
+http://vvn.neoredi.com/iptv/ch8115?code=138137164006399&key=26611
+#EXTINF:-1, BeInSport 5 SD
+http://vvn.neoredi.com/iptv/ch8115?code=1501309316704233&key=26611
+#EXTINF:-1, BeInSport 5 SD
+http://vvn.neoredi.com/iptv/ch8115?code=590138456678768&key=26611
+#EXTINF:-1, BeInSport 5 SD
+http://vvn.neoredi.com/iptv/ch8115?code=8601338691674826&key=26611
+#EXTINF:-1, BeInSport 6 SD
+http://vvn.neoredi.com/iptv/ch8116?code=135114454296143&key=29929
+#EXTINF:-1, BeInSport 6 SD
+http://vvn.neoredi.com/iptv/ch8116?code=138137164006399&key=29929
+#EXTINF:-1, BeInSport 6 SD
+http://vvn.neoredi.com/iptv/ch8116?code=1501309316704233&key=29929
+#EXTINF:-1, BeInSport 6 SD
+http://vvn.neoredi.com/iptv/ch8116?code=590138456678768&key=29929
+#EXTINF:-1, BeInSport 6 SD
+http://vvn.neoredi.com/iptv/ch8116?code=8601338691674826&key=29929
+#EXTINF:-1, BeInSport 7 SD
+http://vvn.neoredi.com/iptv/ch8117?code=135114454296143&key=24135
+#EXTINF:-1, BeInSport 7 SD
+http://vvn.neoredi.com/iptv/ch8117?code=138137164006399&key=24135
+#EXTINF:-1, BeInSport 7 SD
+http://vvn.neoredi.com/iptv/ch8117?code=1501309316704233&key=24135
+#EXTINF:-1, BeInSport 7 SD
+http://vvn.neoredi.com/iptv/ch8117?code=590138456678768&key=24135
+#EXTINF:-1, BeInSport 7 SD
+http://vvn.neoredi.com/iptv/ch8117?code=8601338691674826&key=24135
+#EXTINF:-1, BeInSport 8 SD
+http://vvn.neoredi.com/iptv/ch8118?code=135114454296143&key=39883
+#EXTINF:-1, BeInSport 8 SD
+http://vvn.neoredi.com/iptv/ch8118?code=138137164006399&key=39883
+#EXTINF:-1, BeInSport 8 SD
+http://vvn.neoredi.com/iptv/ch8118?code=1501309316704233&key=39883
+#EXTINF:-1, BeInSport 8 SD
+http://vvn.neoredi.com/iptv/ch8118?code=590138456678768&key=39883
+#EXTINF:-1, BeInSport 8 SD
+http://vvn.neoredi.com/iptv/ch8118?code=8601338691674826&key=39883
+#EXTINF:-1, KSA SPORT 1
+http://vvn.neoredi.com/iptv/ch823?code=135114454296143&key=44583
+#EXTINF:-1, KSA SPORT 1
+http://vvn.neoredi.com/iptv/ch823?code=138137164006399&key=44583
+#EXTINF:-1, KSA SPORT 1
+http://vvn.neoredi.com/iptv/ch823?code=1501309316704233&key=44583
+#EXTINF:-1, KSA SPORT 1
+http://vvn.neoredi.com/iptv/ch823?code=590138456678768&key=44583
+#EXTINF:-1, KSA SPORT 1
+http://vvn.neoredi.com/iptv/ch823?code=8601338691674826&key=44583
+#EXTINF:-1, KSA SPORT 2
+http://vvn.neoredi.com/iptv/ch824?code=135114454296143&key=38478
+#EXTINF:-1, KSA SPORT 2
+http://vvn.neoredi.com/iptv/ch824?code=138137164006399&key=38478
+#EXTINF:-1, KSA SPORT 2
+http://vvn.neoredi.com/iptv/ch824?code=1501309316704233&key=38478
+#EXTINF:-1, KSA SPORT 2
+http://vvn.neoredi.com/iptv/ch824?code=590138456678768&key=38478
+#EXTINF:-1, KSA SPORT 2
+http://vvn.neoredi.com/iptv/ch824?code=8601338691674826&key=38478
+#EXTINF:-1, KSA SPORT +1
+http://vvn.neoredi.com/iptv/ch825?code=135114454296143&key=17779
+#EXTINF:-1, KSA SPORT +1
+http://vvn.neoredi.com/iptv/ch825?code=138137164006399&key=17779
+#EXTINF:-1, KSA SPORT +1
+http://vvn.neoredi.com/iptv/ch825?code=1501309316704233&key=17779
+#EXTINF:-1, KSA SPORT +1
+http://vvn.neoredi.com/iptv/ch825?code=590138456678768&key=17779
+#EXTINF:-1, KSA SPORT +1
+http://vvn.neoredi.com/iptv/ch825?code=8601338691674826&key=17779
+#EXTINF:-1, KSA SPORT +2
+http://vvn.neoredi.com/iptv/ch826?code=135114454296143&key=42093
+#EXTINF:-1, KSA SPORT +2
+http://vvn.neoredi.com/iptv/ch826?code=138137164006399&key=42093
+#EXTINF:-1, KSA SPORT +2
+http://vvn.neoredi.com/iptv/ch826?code=1501309316704233&key=42093
+#EXTINF:-1, KSA SPORT +2
+http://vvn.neoredi.com/iptv/ch826?code=590138456678768&key=42093
+#EXTINF:-1, KSA SPORT +2
+http://vvn.neoredi.com/iptv/ch826?code=8601338691674826&key=42093
+#EXTINF:-1, BeInSport 9 SD
+http://vvn.neoredi.com/iptv/ch8510?code=135114454296143&key=20158
+#EXTINF:-1, BeInSport 9 SD
+http://vvn.neoredi.com/iptv/ch8510?code=138137164006399&key=20158
+#EXTINF:-1, BeInSport 9 SD
+http://vvn.neoredi.com/iptv/ch8510?code=1501309316704233&key=20158
+#EXTINF:-1, BeInSport 9 SD
+http://vvn.neoredi.com/iptv/ch8510?code=590138456678768&key=20158
+#EXTINF:-1, BeInSport 9 SD
+http://vvn.neoredi.com/iptv/ch8510?code=8601338691674826&key=20158
+#EXTINF:-1, BeInSport 10 SD
+http://vvn.neoredi.com/iptv/ch8511?code=135114454296143&key=15103
+#EXTINF:-1, BeInSport 10 SD
+http://vvn.neoredi.com/iptv/ch8511?code=138137164006399&key=15103
+#EXTINF:-1, BeInSport 10 SD
+http://vvn.neoredi.com/iptv/ch8511?code=1501309316704233&key=15103
+#EXTINF:-1, BeInSport 10 SD
+http://vvn.neoredi.com/iptv/ch8511?code=590138456678768&key=15103
+#EXTINF:-1, BeInSport 10 SD
+http://vvn.neoredi.com/iptv/ch8511?code=8601338691674826&key=15103
+#EXTINF:-1, Ziggo Sport Select
+http://vvn.neoredi.com/iptv/ch860?code=135114454296143&key=24851
+#EXTINF:-1, Ziggo Sport Select
+http://vvn.neoredi.com/iptv/ch860?code=138137164006399&key=24851
+#EXTINF:-1, Ziggo Sport Select
+http://vvn.neoredi.com/iptv/ch860?code=1501309316704233&key=24851
+#EXTINF:-1, Ziggo Sport Select
+http://vvn.neoredi.com/iptv/ch860?code=590138456678768&key=24851
+#EXTINF:-1, Ziggo Sport Select
+http://vvn.neoredi.com/iptv/ch860?code=8601338691674826&key=24851
+#EXTINF:-1, Fox sport 1
+http://vvn.neoredi.com/iptv/ch867?code=135114454296143&key=62019
+#EXTINF:-1, Fox sport 1
+http://vvn.neoredi.com/iptv/ch867?code=138137164006399&key=62019
+#EXTINF:-1, Fox sport 1
+http://vvn.neoredi.com/iptv/ch867?code=1501309316704233&key=62019
+#EXTINF:-1, Fox sport 1
+http://vvn.neoredi.com/iptv/ch867?code=590138456678768&key=62019
+#EXTINF:-1, Fox sport 1
+http://vvn.neoredi.com/iptv/ch867?code=8601338691674826&key=62019
+#EXTINF:-1, Ziggo Sport Voetball
+http://vvn.neoredi.com/iptv/ch878?code=135114454296143&key=53667
+#EXTINF:-1, Ziggo Sport Voetball
+http://vvn.neoredi.com/iptv/ch878?code=138137164006399&key=53667
+#EXTINF:-1, Ziggo Sport Voetball
+http://vvn.neoredi.com/iptv/ch878?code=1501309316704233&key=53667
+#EXTINF:-1, Ziggo Sport Voetball
+http://vvn.neoredi.com/iptv/ch878?code=590138456678768&key=53667
+#EXTINF:-1, Ziggo Sport Voetball
+http://vvn.neoredi.com/iptv/ch878?code=8601338691674826&key=53667
+#EXTINF:-1, Fox sport 3
+http://vvn.neoredi.com/iptv/ch880?code=135114454296143&key=48133
+#EXTINF:-1, Fox sport 3
+http://vvn.neoredi.com/iptv/ch880?code=138137164006399&key=48133
+#EXTINF:-1, Fox sport 3
+http://vvn.neoredi.com/iptv/ch880?code=1501309316704233&key=48133
+#EXTINF:-1, Fox sport 3
+http://vvn.neoredi.com/iptv/ch880?code=590138456678768&key=48133
+#EXTINF:-1, Fox sport 3
+http://vvn.neoredi.com/iptv/ch880?code=8601338691674826&key=48133
+#EXTINF:-1, SKY Sport Football UK
+http://vvn.neoredi.com/iptv/ch922?code=135114454296143&key=22520
+#EXTINF:-1, SKY Sport Football UK
+http://vvn.neoredi.com/iptv/ch922?code=138137164006399&key=22520
+#EXTINF:-1, SKY Sport Football UK
+http://vvn.neoredi.com/iptv/ch922?code=1501309316704233&key=22520
+#EXTINF:-1, SKY Sport Football UK
+http://vvn.neoredi.com/iptv/ch922?code=590138456678768&key=22520
+#EXTINF:-1, SKY Sport Football UK
+http://vvn.neoredi.com/iptv/ch922?code=8601338691674826&key=22520
+#EXTINF:-1, Sky Sport Premium UK
+http://vvn.neoredi.com/iptv/ch937?code=135114454296143&key=57619
+#EXTINF:-1, Sky Sport Premium UK
+http://vvn.neoredi.com/iptv/ch937?code=138137164006399&key=57619
+#EXTINF:-1, Sky Sport Premium UK
+http://vvn.neoredi.com/iptv/ch937?code=1501309316704233&key=57619
+#EXTINF:-1, Sky Sport Premium UK
+http://vvn.neoredi.com/iptv/ch937?code=590138456678768&key=57619
+#EXTINF:-1, Sky Sport Premium UK
+http://vvn.neoredi.com/iptv/ch937?code=8601338691674826&key=57619
+#EXTINF:-1, Motor Trend IT
+http://vvn.neoredi.com/iptv/ch993?code=135114454296143&key=42448
+#EXTINF:-1, Motor Trend IT
+http://vvn.neoredi.com/iptv/ch993?code=138137164006399&key=42448
+#EXTINF:-1, Motor Trend IT
+http://vvn.neoredi.com/iptv/ch993?code=1501309316704233&key=42448
+#EXTINF:-1, Motor Trend IT
+http://vvn.neoredi.com/iptv/ch993?code=590138456678768&key=42448
+#EXTINF:-1, Motor Trend IT
+http://vvn.neoredi.com/iptv/ch993?code=8601338691674826&key=42448
+#EXTINF:-1, Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1, Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1, Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1, Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1, Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
