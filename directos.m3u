@@ -24,6 +24,107 @@ plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad2
 #EXTINF:-1, Eurosport
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
 
+#EXTINF:-1, TELE DEPORTE SP
+http://skdn.redi-vo.com/iptv/ch1208?code=138137164006399&key=60635
+#EXTINF:-1, Bein Sport SPANA
+http://skdn.redi-vo.com/iptv/ch1220?code=138137164006399&key=25450
+#EXTINF:-1, Real Madrid CH.
+http://skdn.redi-vo.com/iptv/ch1223?code=138137164006399&key=47675
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://skdn.redi-vo.com/iptv/ch1224?code=138137164006399&key=17683
+#EXTINF:-1, Barca Tv
+http://skdn.redi-vo.com/iptv/ch1225?code=138137164006399&key=64018
+#EXTINF:-1, Neox SP
+http://skdn.redi-vo.com/iptv/ch1229?code=138137164006399&key=58268
+#EXTINF:-1, M.L. Campeones HD SP
+http://skdn.redi-vo.com/iptv/ch1281?code=138137164006399&key=32884
+#EXTINF:-1, Moto GP HD SP
+http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&key=11345
+#EXTINF:-1, Formula1 HD SP
+http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&key=47444
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=135114454296143&key=60635
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=138137164006399&key=60635
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=1501309316704233&key=60635
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=590138456678768&key=60635
+#EXTINF:-1, TELE DEPORTE SP
+http://vvn.neoredi.com/iptv/ch1208?code=8601338691674826&key=60635
+#EXTINF:-1, AD Sport 1 HD
+http://vvn.neoredi.com/iptv/ch122?code=135114454296143&key=21973
+#EXTINF:-1, AD Sport 1 HD
+http://vvn.neoredi.com/iptv/ch122?code=590138456678768&key=21973
+#EXTINF:-1, AD Sport 1 HD
+http://vvn.neoredi.com/iptv/ch122?code=8601338691674826&key=21973
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=135114454296143&key=25450
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=138137164006399&key=25450
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=1501309316704233&key=25450
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=590138456678768&key=25450
+#EXTINF:-1, Bein Sport SPANA
+http://vvn.neoredi.com/iptv/ch1220?code=8601338691674826&key=25450
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=135114454296143&key=47675
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=138137164006399&key=47675
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=1501309316704233&key=47675
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=590138456678768&key=47675
+#EXTINF:-1, Real Madrid CH.
+http://vvn.neoredi.com/iptv/ch1223?code=8601338691674826&key=47675
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=135114454296143&key=17683
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=138137164006399&key=17683
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=1501309316704233&key=17683
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=590138456678768&key=17683
+#EXTINF:-1, Movistar LaLiga 1 HD
+http://vvn.neoredi.com/iptv/ch1224?code=8601338691674826&key=17683
+#EXTINF:-1, Canal Panda SP
+http://vvn.neoredi.com/iptv/ch1228?code=138137164006399&key=33487
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=135114454296143&key=58268
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=138137164006399&key=58268
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=1501309316704233&key=58268
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=590138456678768&key=58268
+#EXTINF:-1, Neox SP
+http://vvn.neoredi.com/iptv/ch1229?code=8601338691674826&key=58268
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=135114454296143&key=32884
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=138137164006399&key=32884
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=1501309316704233&key=32884
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=590138456678768&key=32884
+#EXTINF:-1, M.L. Campeones HD SP
+http://vvn.neoredi.com/iptv/ch1281?code=8601338691674826&key=32884
+#EXTINF:-1, Moto GP HD SP
+http://vvn.neoredi.com/iptv/ch1284?code=135114454296143&key=11345
+#EXTINF:-1, Moto GP HD SP
+http://vvn.neoredi.com/iptv/ch1284?code=1501309316704233&key=11345
+#EXTINF:-1, Moto GP HD SP
+http://vvn.neoredi.com/iptv/ch1284?code=590138456678768&key=11345
+#EXTINF:-1, Moto GP HD SP
+http://vvn.neoredi.com/iptv/ch1284?code=8601338691674826&key=11345
+#EXTINF:-1, Formula1 HD SP
+http://vvn.neoredi.com/iptv/ch1285?code=138137164006399&key=47444
+#EXTINF:-1, Formula1 HD SP
+http://vvn.neoredi.com/iptv/ch1285?code=590138456678768&key=47444
+#EXTINF:-1, Formula1 HD SP
+http://vvn.neoredi.com/iptv/ch1285?code=8601338691674826&key=47444
+
 #EXTINF:-1, La Liga en directo. Opción 1
 http://34.107.131.44/live/l/chunks.m3u8
 #EXTINF:-1, La Liga en directo. Opción 2
@@ -99,7 +200,3 @@ https://g.dailysport.pw/epl02/epl02.m3u8
 https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
 #EXTINF:-1, Directos TDP
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
-#EXTINF:-1, Directosprueba
-https://soccer24hd.com/channels/num/12/LA-LiGA-TV.html
-#EXTINF:-1, Directosprueba
-http://60fps.live/valencia-vs-real-betis/
