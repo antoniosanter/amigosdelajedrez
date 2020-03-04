@@ -24,6 +24,9 @@ plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad2
 #EXTINF:-1, Eurosport
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
 
+#EXTINF:-1, 21:00 CET SOCCER COPA DEL REY MIRANDES-REAL SOCIEDAD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+
 #EXTINF:-1, La Liga en directo. Opción 1
 http://34.107.131.44/live/l/chunks.m3u8
 #EXTINF:-1, La Liga en directo. Opción 2
