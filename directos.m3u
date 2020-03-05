@@ -3,6 +3,9 @@
 #EXTINF:-1, M. LIGA DE CAMPEONES
 plugin://program.plexus/?mode=1&url=acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c&name=My+acestream+channel
 
+#EXTINF:-1, 21:00 CET SOCCER COPA DEL REY GRANADA - ATLETIC
+plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d4158bed479f&name=My+acestream+channel
+
 #EXTINF:-1, 18:30 CET SOCCER DFB POKAL BAYER LEVERKUSEN-UNION BERLIN
 plugin://program.plexus/?mode=1&url=acestream://a46785fcf7c591d466775df14c0b5292f59cc4a0&name=My+acestream+channel
 
@@ -24,8 +27,6 @@ plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad2
 #EXTINF:-1, Eurosport
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
 
-#EXTINF:-1, 21:00 CET SOCCER COPA DEL REY MIRANDES-REAL SOCIEDAD
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 
 #EXTINF:-1, La Liga en directo. Opción 1
 http://34.107.131.44/live/l/chunks.m3u8
