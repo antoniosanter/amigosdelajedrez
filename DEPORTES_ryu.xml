@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes Torete </title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore.xml</externallink>
-</item>
-
-
-item>
-<title>[COLOR orange][B] Sport365 [/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
-<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
-</item>
-
-
-item>
-<title>[COLOR orange][B] Sport365 Nueva Version [/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
-<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
-</item>
-
 
 <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes hoy </title>
@@ -43,7 +17,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/directos.m3u</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy (funcionando)</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -69,5 +43,28 @@ item>
 <item>
 
 
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes Torete </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore.xml</externallink>
+</item>
 
+item>
+<title>[COLOR orange][B] Sport365 [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
+<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+</item>
+
+
+item>
+<title>[COLOR orange][B] Sport365 Nueva Version [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
+<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
+<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
+</item>
 
