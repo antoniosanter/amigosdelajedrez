@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Футбол 1 HD
-https://46-166-139-148.livesports24.online/uafootballua1.m3u8
+
 #EXTINF:-1,Футбол 2 HD
 https://46-166-139-148.livesports24.online/fooootball2.m3u8
 #EXTINF:-1,Беларусь 5
@@ -106,138 +105,7 @@ http://78.46.73.89:8000/live/Shooftvplus/Cukhgylc566/366.ts
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1, FOX Sport HD 1 -USA-
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1, BeIN SPORTS 2 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/112.m3u8
-#EXTINF:-1, Ziggo Sport Voetbal HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1138.m3u8
-#EXTINF:-1, Eurosport 1 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1245.m3u8
-#EXTINF:-1, Eurosport 2 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1246.m3u8
-#EXTINF:-1, TiviBu Spor 3 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1273.m3u8
-#EXTINF:-1, FB TV HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/156.m3u8
-#EXTINF:-1, beIN SPORTS MAX 1 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1730.m3u8
-#EXTINF:-1, Tivibu Spor 2 SD
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1733.m3u8
-#EXTINF:-1, Tivibu Spor 1 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1734.m3u8
-#EXTINF:-1, Tivibu Spor 3 SD
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/1735.m3u8
-#EXTINF:-1, A SPOR HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/17433.m3u8
-#EXTINF:-1, A SPOR SD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/196.m3u8
-#EXTINF:-1, BeIN SPORTS 3 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/205.m3u8
-#EXTINF:-1, BeIN SPORTS 4 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/206.m3u8
-#EXTINF:-1, TiviBu Spor 1 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/22.m3u8
-#EXTINF:-1, GS TV HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/232.m3u8
-#EXTINF:-1, beIN SPORTS 2 SD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23688.m3u8
-#EXTINF:-1, beIN SPORTS 3 SD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23689.m3u8
-#EXTINF:-1, beIN SPORTS 4 SD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23690.m3u8
-#EXTINF:-1, beIN SPORTS MAX 1 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23691.m3u8
-#EXTINF:-1, beIN SPORTS MAX 2 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/23692.m3u8
-#EXTINF:-1, FOX SPORTS 1 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/264.m3u8
-#EXTINF:-1, FOX SPORTS 2 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/265.m3u8
-#EXTINF:-1, FOX SPORTS 3 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/266.m3u8
-#EXTINF:-1, FOX SPORTS 4 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/267.m3u8
-#EXTINF:-1, FOX SPORTS 5 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/268.m3u8
-#EXTINF:-1, beIN SPORTS HABER FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/26886.m3u8
-#EXTINF:-1, beIN SPORTS 1 FHD TR (HVEC 265 50 FPS)
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/32293.m3u8
-#EXTINF:-1, S Sports 2 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/34663.m3u8
-#EXTINF:-1, TiviBu Spor 2 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/367.m3u8
-#EXTINF:-1, beIN SPORTS 1 SD TR (TTNET-OZEL)
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/37847.m3u8
-#EXTINF:-1, S SPORT HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/385.m3u8
-#EXTINF:-1, beIN SPORTS 1 SD TR. (VODAFONE-TURKCELL-TURKIYE)
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/403.m3u8
-#EXTINF:-1, beIN SPORTS 2 SD TR.
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/404.m3u8
-#EXTINF:-1, beIN SPORTS 3 SD TR.
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/405.m3u8
-#EXTINF:-1, beIN SPORTS 4 SD TR.
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/406.m3u8
-#EXTINF:-1, Ziggo Sport Select FHD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4326.m3u8
-#EXTINF:-1, Ziggo Sport Racing HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4327.m3u8
-#EXTINF:-1, Ziggo Sport Golf HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4328.m3u8
-#EXTINF:-1, Ziggo Sport eXtra 2 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4329.m3u8
-#EXTINF:-1, Ziggo Sport eXtra 1 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4330.m3u8
-#EXTINF:-1, Fox Sports 6 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4331.m3u8
-#EXTINF:-1, BeIN SPORTS 1 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/446.m3u8
-#EXTINF:-1, NBA TV HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/4535.m3u8
-#EXTINF:-1, TRT SPOR HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/46.m3u8
-#EXTINF:-1, EUROSPORT 1 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50800.m3u8
-#EXTINF:-1, EUROSPORT 2 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50801.m3u8
-#EXTINF:-1, FIGHTBOX FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50804.m3u8
-#EXTINF:-1, NBA TV FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50824.m3u8
-#EXTINF:-1, S SPORT FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50826.m3u8
-#EXTINF:-1, SPOR SMART FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/50827.m3u8
-#EXTINF:-1, SPORTS TV HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/60.m3u8
-#EXTINF:-1, ZIGGO SPORT EXTRA 1 HD N NLL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74083.m3u8
-#EXTINF:-1, ZIGGO SPORT EXTRA 2 HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74084.m3u8
-#EXTINF:-1, ZIGGO SPORT GOLF HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74085.m3u8
-#EXTINF:-1, ZIGGO SPORT HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74086.m3u8
-#EXTINF:-1, ZIGGO SPORT SELECT HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74087.m3u8
-#EXTINF:-1, ZIGGO SPORT VOETBAL HD NL
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/74088.m3u8
-#EXTINF:-1, SMART SPOR  1 HD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7486.m3u8
-#EXTINF:-1, beIN SPORTS MAX 2 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7514.m3u8
-#EXTINF:-1, beIN SPORTS 1 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7706.m3u8
-#EXTINF:-1, beIN SPORTS 2 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7707.m3u8
-#EXTINF:-1, beIN SPORTS 3 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/7708.m3u8
-#EXTINF:-1, beIN SPORTS 4 FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/8046.m3u8
-#EXTINF:-1, A SPOR FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/8100.m3u8
-#EXTINF:-1, TRT SPOR FHD TR
-http://iptv.iptivihd.com:8000/live/Huseyin/asdfghj/8101.m3u8
+
 #EXTINF:-1, Dubai Racing 2
 http://skdn.redi-vo.com/iptv/ch1031?code=138137164006399&key=15238
 #EXTINF:-1, SKY Sport news UK
@@ -266,12 +134,8 @@ http://skdn.redi-vo.com/iptv/ch119?code=138137164006399&key=62807
 http://skdn.redi-vo.com/iptv/ch120?code=138137164006399&key=38010
 #EXTINF:-1, TELE DEPORTE SP
 http://skdn.redi-vo.com/iptv/ch1208?code=138137164006399&key=60635
-#EXTINF:-1, Bein Sport SPANA
-http://skdn.redi-vo.com/iptv/ch1220?code=138137164006399&key=25450
 #EXTINF:-1, Real Madrid CH.
 http://skdn.redi-vo.com/iptv/ch1223?code=138137164006399&key=47675
-#EXTINF:-1, Movistar LaLiga 1 HD
-http://skdn.redi-vo.com/iptv/ch1224?code=138137164006399&key=17683
 #EXTINF:-1, Barca Tv
 http://skdn.redi-vo.com/iptv/ch1225?code=138137164006399&key=64018
 #EXTINF:-1, Neox SP
@@ -630,16 +494,6 @@ http://vvn.neoredi.com/iptv/ch120?code=590138456678768&key=38010
 http://vvn.neoredi.com/iptv/ch120?code=8601338691674826&key=38010
 #EXTINF:-1, Eurosport 1
 http://vvn.neoredi.com/iptv/ch1202?code=1501309316704233&key=17418
-#EXTINF:-1, TELE DEPORTE SP
-http://vvn.neoredi.com/iptv/ch1208?code=135114454296143&key=60635
-#EXTINF:-1, TELE DEPORTE SP
-http://vvn.neoredi.com/iptv/ch1208?code=138137164006399&key=60635
-#EXTINF:-1, TELE DEPORTE SP
-http://vvn.neoredi.com/iptv/ch1208?code=1501309316704233&key=60635
-#EXTINF:-1, TELE DEPORTE SP
-http://vvn.neoredi.com/iptv/ch1208?code=590138456678768&key=60635
-#EXTINF:-1, TELE DEPORTE SP
-http://vvn.neoredi.com/iptv/ch1208?code=8601338691674826&key=60635
 #EXTINF:-1, AD Sport 1 HD
 http://vvn.neoredi.com/iptv/ch122?code=135114454296143&key=21973
 #EXTINF:-1, AD Sport 1 HD
@@ -762,16 +616,6 @@ http://vvn.neoredi.com/iptv/ch1356?code=1501309316704233&key=18724
 http://vvn.neoredi.com/iptv/ch1356?code=590138456678768&key=18724
 #EXTINF:-1, Tivibu Sport 3
 http://vvn.neoredi.com/iptv/ch1356?code=8601338691674826&key=18724
-#EXTINF:-1, TRT Sport
-http://vvn.neoredi.com/iptv/ch1363?code=135114454296143&key=44118
-#EXTINF:-1, TRT Sport
-http://vvn.neoredi.com/iptv/ch1363?code=138137164006399&key=44118
-#EXTINF:-1, TRT Sport
-http://vvn.neoredi.com/iptv/ch1363?code=1501309316704233&key=44118
-#EXTINF:-1, TRT Sport
-http://vvn.neoredi.com/iptv/ch1363?code=590138456678768&key=44118
-#EXTINF:-1, TRT Sport
-http://vvn.neoredi.com/iptv/ch1363?code=8601338691674826&key=44118
 #EXTINF:-1, Dubai Racing 1
 http://vvn.neoredi.com/iptv/ch1531?code=135114454296143&key=38695
 #EXTINF:-1, Dubai Racing 1

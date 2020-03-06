@@ -3,6 +3,17 @@
 #EXTINF:-1, M. LIGA DE CAMPEONES
 plugin://program.plexus/?mode=1&url=acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c&name=My+acestream+channel
 
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=135114454296143&key=63718
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=138137164006399&key=63718
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=1501309316704233&key=63718
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=590138456678768&key=63718
+#EXTINF:-1, Bein Sport
+http://vvn.neoredi.com/iptv/ch400?code=8601338691674826&key=63718
+
 #EXTINF:-1, 21:00 CET SOCCER COPA DEL REY GRANADA - ATLETIC
 plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d4158bed479f&name=My+acestream+channel
 
