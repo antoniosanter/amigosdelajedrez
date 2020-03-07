@@ -25,6 +25,23 @@
 </item>
 
 <item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]directos</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/directos.m3u</externallink>
+</item>
+
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]deportes extranjeros</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Sport.m3u</externallink>
+</item>
+
+<item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]Atletico - Sevilla </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -32,23 +49,7 @@
 <externallink>https://hastebin.com/raw/oqibikafim</externallink>
 </item>
 
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]directos NUEVO</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://hastebin.com/raw/yupoqamojo</externallink>
-</item>
 
-
-
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]directos</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/directos.m3u</externallink>
-</item>
 
 item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy (funcionando)</title>
@@ -66,14 +67,6 @@ item>
 <externallink>http://acestreampi.ddns.net/dailys.m3u8</externallink>
 </item>
 
-
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes extranjeros</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Sport.m3u</externallink>
-<item>
 
 
 
