@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]La Liga bar Directo</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://textuploader.com/16nze/raw</externallink>
+</item>
 
 <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes hoy </title>
@@ -10,7 +17,15 @@
 </item>
 
 <item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]directos NUEVO</title>
+<title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes Torete </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR blue][COLOR blue]-[/COLOR]</title>Atletico-Sevilla</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -25,13 +40,7 @@ item>
 <externallink>https://hastebin.com/raw/yupoqamojo</externallink>
 </item>
 
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]directos Atletico-Sevilla</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://textuploader.com/16nze/raw</externallink>
-</item>
+
 
 <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]directos</title>
@@ -49,7 +58,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/directos_ryu.xml</externallink>
 <item>
 
-<item>
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy (en arreglo)</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -67,13 +76,6 @@ item>
 <item>
 
 
-<item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes Torete </title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore.xml</externallink>
-</item>
 
 item>
 <title>[COLOR orange][B] Sport365 [/B][/COLOR]</title>
