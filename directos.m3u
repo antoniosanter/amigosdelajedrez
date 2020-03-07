@@ -1,39 +1,43 @@
 ﻿#EXTM3U
 
+#EXTINF:-1, LA LIGA
+http://35.227.234.181/live/l/chunks.m3u8
+
+#EXTINF:-1, PARTIDOS PREMIER
+plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d&name=My+acestream+channel
+
+#EXTINF:-1, LA LIGA 1080
+plugin://program.plexus/?mode=1&url=acestream://bda7284785b5830edc187fd789b0d19ae81352e1&name=My+acestream+channel
+
+#EXTINF:-1, LA LIGA BAR 1080
+plugin://program.plexus/?mode=1&url=acestream://747150ef71d15dbd456dbfbc926625e326ab04b8&name=My+acestream+channel
+
 #EXTINF:-1, M. LIGA DE CAMPEONES
 plugin://program.plexus/?mode=1&url=acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c&name=My+acestream+channel
 
-#EXTINF:-1, Bein Sport
-http://vvn.neoredi.com/iptv/ch400?code=135114454296143&key=63718
-#EXTINF:-1, Bein Sport
-http://vvn.neoredi.com/iptv/ch400?code=138137164006399&key=63718
-#EXTINF:-1, Bein Sport
-http://vvn.neoredi.com/iptv/ch400?code=1501309316704233&key=63718
-#EXTINF:-1, Bein Sport
-http://vvn.neoredi.com/iptv/ch400?code=590138456678768&key=63718
-#EXTINF:-1, Bein Sport
-http://vvn.neoredi.com/iptv/ch400?code=8601338691674826&key=63718
+#EXTINF:-1, 13:00 CET SOCCER SPANISH LEAGUE EIBAR-REAL MALLORCA
+plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
 
-#EXTINF:-1, 21:00 CET SOCCER COPA DEL REY GRANADA - ATLETIC
-plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d4158bed479f&name=My+acestream+channel
+#EXTINF:-1, 13:00 CET SOCCER SPANISH LEAGUE EIBAR-REAL MALLORCA
+plugin://program.plexus/?mode=1&url=acestream://65d49691687add6a93692a757817bac4f204ed1f&name=My+acestream+channel
 
-#EXTINF:-1, 18:30 CET SOCCER DFB POKAL BAYER LEVERKUSEN-UNION BERLIN
-plugin://program.plexus/?mode=1&url=acestream://a46785fcf7c591d466775df14c0b5292f59cc4a0&name=My+acestream+channel
+#EXTINF:-1, 16:00 CET SOCCER SPANISH LEAGUE ATLETICO MADRID-SEVILLA
+plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
 
-#EXTINF:-1, 20:45 CET SOCCER FA CUP SHEFFIELD WEDNESDAY-MANCHESTER CITY
-plugin://program.plexus/?mode=1&url=acestream://b35893613efbcdb4b4e8a4a1be39651093cad9df&name=My+acestream+channel
+#EXTINF:-1, 16:00 CET SOCCER SPANISH LEAGUE ATLETICO MADRID-SEVILLA
+plugin://program.plexus/?mode=1&url=acestream://65d49691687add6a93692a757817bac4f204ed1f&name=My+acestream+channel
 
-#EXTINF:-1, 20:45 CET SOCCER FA CUP TOTTENHAM HOTSPUR-NORWICH CITY
-plugin://program.plexus/?mode=1&url=acestream://ee607df847b1b6d0accf4b189ef353a67e2a86c1&name=My+acestream+channel
+#EXTINF:-1, 18:30 CET SOCCER SPANISH LEAGUE FC BARCELONA-REAL SOCIEDAD
+plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
 
-#EXTINF:-1, 20:45 CET SOCCER ITALY CUP JUVENTUS-AC MILAN
-plugin://program.plexus/?mode=1&url=acestream://de327a53a97219088cd3d4f4ad721c4bfd191168&name=My+acestream+channel
+#EXTINF:-1, 18:30 CET SOCCER SPANISH LEAGUE FC BARCELONA-REAL SOCIEDAD
+plugin://program.plexus/?mode=1&url=acestream://65d49691687add6a93692a757817bac4f204ed1f&name=My+acestream+channel
 
-#EXTINF:-1, 21:00 CET SOCCER COPA DEL REY MIRANDES-REAL SOCIEDAD
-plugin://program.plexus/?mode=1&url=acestream://5178725227a75a4172e52bbf4eb16391d6a6b3a7&name=My+acestream+channel
+#EXTINF:-1, 21:00 CET SOCCER SPANISH LEAGUE GETAFE-CELTA
+plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
 
-#EXTINF:-1, 21:10 CET SOCCER FRENCH CUP OLYMPIQUE LYON-PARIS SAINT GERMAIN
-plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
+#EXTINF:-1, 21:00 CET SOCCER SPANISH LEAGUE GETAFE-CELTA
+plugin://program.plexus/?mode=1&url=acestream://65d49691687add6a93692a757817bac4f204ed1f&name=My+acestream+channel
 
 #EXTINF:-1, Eurosport
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
