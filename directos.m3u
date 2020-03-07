@@ -1,101 +1,22 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, LA LIGA
-http://35.244.254.93/live/la/chunks.m3u8
+#EXTINF:-1, LA LIGA opcion 1
+https://lgorr.global.ssl.fastly.net/live/1/playlist.m3u8
 
-#EXTINF:-1, LA LIGA
-http://35.244.254.93/live/la/playlist.m3u8
+#EXTINF:-1, LA LIGA opcion 2
+http://35.227.234.181:80/live/l/chunks.m3u8
 
-
-#EXTINF:-1, PARTIDOS PREMIER
-plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d&name=My+acestream+channel
-
-#EXTINF:-1, LA LIGA 1080
-plugin://program.plexus/?mode=1&url=acestream://bda7284785b5830edc187fd789b0d19ae81352e1&name=My+acestream+channel
-
-#EXTINF:-1, LA LIGA BAR 1080
-plugin://program.plexus/?mode=1&url=acestream://747150ef71d15dbd456dbfbc926625e326ab04b8&name=My+acestream+channel
-
-#EXTINF:-1, M. LIGA DE CAMPEONES
-plugin://program.plexus/?mode=1&url=acestream://f4d55a713fabd7ef2884cb0d2b7711d7553e7e7c&name=My+acestream+channel
-
-#EXTINF:-1, 13:00 CET SOCCER SPANISH LEAGUE EIBAR-REAL MALLORCA
-plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
-
-#EXTINF:-1, 13:00 CET SOCCER SPANISH LEAGUE EIBAR-REAL MALLORCA
-plugin://program.plexus/?mode=1&url=acestream://65d49691687add6a93692a757817bac4f204ed1f&name=My+acestream+channel
-
-#EXTINF:-1, 16:00 CET SOCCER SPANISH LEAGUE ATLETICO MADRID-SEVILLA
-plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
-
-#EXTINF:-1, 16:00 CET SOCCER SPANISH LEAGUE ATLETICO MADRID-SEVILLA
-plugin://program.plexus/?mode=1&url=acestream://65d49691687add6a93692a757817bac4f204ed1f&name=My+acestream+channel
-
-#EXTINF:-1, 18:30 CET SOCCER SPANISH LEAGUE FC BARCELONA-REAL SOCIEDAD
-plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
-
-#EXTINF:-1, 18:30 CET SOCCER SPANISH LEAGUE FC BARCELONA-REAL SOCIEDAD
-plugin://program.plexus/?mode=1&url=acestream://65d49691687add6a93692a757817bac4f204ed1f&name=My+acestream+channel
-
-#EXTINF:-1, 21:00 CET SOCCER SPANISH LEAGUE GETAFE-CELTA
-plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
-
-#EXTINF:-1, 21:00 CET SOCCER SPANISH LEAGUE GETAFE-CELTA
-plugin://program.plexus/?mode=1&url=acestream://65d49691687add6a93692a757817bac4f204ed1f&name=My+acestream+channel
-
-#EXTINF:-1, Eurosport
-plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
-
-
-#EXTINF:-1, La Liga en directo. Opción 1
-http://34.107.131.44/live/l/chunks.m3u8
-#EXTINF:-1, La Liga en directo. Opción 2
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
 #EXTINF:-1, La Liga en directo. Opción 3
 http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
-#EXTINF:-1, Acestream La Liga
-plugin://program.plexus/?mode=1&url=acestream://752be2f1511c25efa456a7c81747da66e251098a&name=My+acestream+channel
-#EXTINF:-1, Acestream La Liga Bar
-plugin://program.plexus/?mode=1&url=acestream://fff00861dd6984b4c6acb41cb823b41f82b4afcf&name=My+acestream+channel
-#EXTINF:-1, Acestream La Liga Bar 1080 solo para fibra
-plugin://program.plexus/?mode=1&url=acestream://0542dc6f57459e4566dece214353463331bf7cc5&name=My+acestream+channel
+
+#EXTINF:-1, Directos Fight Time
+https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
+#EXTINF:-1, Directos TDP
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+
 #EXTINF:-1, Premier Opcion 1
 http://novacdn.org/broadcasts/setantaua/setantaua.m3u8
-#EXTINF:-1, Premier Opcion 2
-http://34.107.131.44/live/west/chunks.m3u8
-#EXTINF:-1, Premier Opcion 3
-http://34.107.131.44/live/n/chunks.m3u8
-#EXTINF:-1, Premier Opcion 4
-http://34.107.131.44/live/new/chunks.m3u8
-#EXTINF:-1, Acestream VARIOS HOY PREMIER
-plugin://program.plexus/?mode=1&url=acestream://f2d6a893bc3da40537d4a40aaedeb20adc494dcb&name=My+acestream+channel
-#EXTINF:-1, Acestream VARIOS HOY PREMIER
-plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d&name=My+acestream+channel
-#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
-plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d4158bed479f&name=My+acestream+channel
-#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
-plugin://program.plexus/?mode=1&url=acestream://9ce18b5f26f178fa59c1f705b0d6aa574c922f04&name=My+acestream+channel
-#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
-plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
 
-
-
-
-
-
-
-#EXTINF:-1, Directos hoy Ryu
-http://35.201.84.52/live/bt2/chunks.m3u8
-#EXTINF:-1, Directos hoy Ryu 2
-http://35.201.84.52/live/bt3/chunks.m3u8
-#EXTINF:-1, Directos hoy Chunks
-http://push19.feber.xyz/hls/channel21hd47/chunks.m3u8
-#EXTINF:-1, Directos hoy Daily
-https://g.dailysport.pw/epl01/epl01.m3u8
-#EXTINF:-1, Directos hoy Feber 1
-http://push7.feber.xyz/hls/channel18hd29/chunks.m3u8
-#EXTINF:-1, Directos hoy Feber 2
-http://push13.feber.xyz/hls/channel21hd47/playlist.m3u8
 #EXTINF:-1, Directos hoy Nova
 http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8
 #EXTINF:-1, Directos hoy Nova 2
@@ -110,15 +31,32 @@ http://novacdn.org/broadcasts/matchfutbol3/matchfutbol3.m3u8
 http://novacdn.org/broadcasts/setantaua/setantaua.m3u8 
 #EXTINF:-1, Directos Chuky ES
 http://35.244.254.93:80/live/es/chunks.m3u8
-#EXTINF:-1, Daily 1
-https://g.dailysport.pw/x3/x3.m3u8
-#EXTINF:-1, Daily 2
-https://g.dailysport.pw/xx2/x2.m3u8
-#EXTINF:-1, Daily 3
-https://g.dailysport.pw/x1/x1.m3u8
-#EXTINF:-1, Daily 4
-https://g.dailysport.pw/epl02/epl02.m3u8
-#EXTINF:-1, Directos Fight Time
-https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
-#EXTINF:-1, Directos TDP
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+
+#EXTINF:-1, PARTIDOS PREMIER
+plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d&name=My+acestream+channel
+
+
+
+#EXTINF:-1, Eurosport
+plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
+
+
+#EXTINF:-1, La Liga en directo. Opción 3
+http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
+#EXTINF:-1, Acestream La Liga
+plugin://program.plexus/?mode=1&url=acestream://752be2f1511c25efa456a7c81747da66e251098a&name=My+acestream+channel
+#EXTINF:-1, Acestream La Liga Bar
+plugin://program.plexus/?mode=1&url=acestream://fff00861dd6984b4c6acb41cb823b41f82b4afcf&name=My+acestream+channel
+#EXTINF:-1, Acestream La Liga Bar 1080 solo para fibra
+plugin://program.plexus/?mode=1&url=acestream://0542dc6f57459e4566dece214353463331bf7cc5&name=My+acestream+channel
+
+#EXTINF:-1, Acestream VARIOS HOY PREMIER
+plugin://program.plexus/?mode=1&url=acestream://f2d6a893bc3da40537d4a40aaedeb20adc494dcb&name=My+acestream+channel
+#EXTINF:-1, Acestream VARIOS HOY PREMIER
+plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d&name=My+acestream+channel
+#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
+plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d4158bed479f&name=My+acestream+channel
+#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
+plugin://program.plexus/?mode=1&url=acestream://9ce18b5f26f178fa59c1f705b0d6aa574c922f04&name=My+acestream+channel
+#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
+plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
