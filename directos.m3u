@@ -1,13 +1,18 @@
 ﻿#EXTM3U
 
+
+
+#EXTINF:-1, LA LIGA opcion 3
+https://cdndaily.troll.network/x1/x1.m3u8
+
+#EXTINF:-1, La Liga en directo. Opción 3
+http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
+
 #EXTINF:-1, LA LIGA opcion 1
 https://lgorr.global.ssl.fastly.net/live/1/playlist.m3u8
 
 #EXTINF:-1, LA LIGA opcion 2
 http://35.227.234.181:80/live/l/chunks.m3u8
-
-#EXTINF:-1, La Liga en directo. Opción 3
-http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
 
 #EXTINF:-1, Directos Fight Time
 https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
