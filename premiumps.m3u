@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, CAZAVISION  
-https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+
 #EXTINF:-1, RedTV 
 http://212.8.243.68:8877/RedTVSpain/tracks-v1a1/mono.m3u8
 #EXTINF:-1, # Vamos
