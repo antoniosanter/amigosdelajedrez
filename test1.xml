@@ -58,7 +58,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/DEPORTES_ryu.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]CAMARAS DEL MUNDO </title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -66,7 +66,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/CAMARAS_ryu.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR brown][COLOR brown]-[/COLOR]CAMARAS DEL MUNDO 2</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -96,6 +96,14 @@ item>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/PELIS_ryu.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR orange][COLOR orange]-[/COLOR]CINE PLANELLES TAQUILLAS INFANTIL 2020</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/PELIS_ryu_infantil.xml</externallink>
 </item>
 
 
