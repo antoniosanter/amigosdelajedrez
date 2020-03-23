@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR tomato]ONWARD CLIPWATCHING[/COLOR]</title>
+<link>$doregex[playvideo]</link>
+
 
 <regex>
  <name>playvideo</name>
@@ -19,9 +23,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 
-
 <item>
-<title>[COLOR tomato]ONWARD CLIPWATCHING[/COLOR]</title>
+<title>[COLOR tomato]ONWARD STREAMPLAY[/COLOR]</title>
 <link>$doregex[playvideo]</link>
 
 
@@ -44,9 +47,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 
-
 <item>
-<title>[COLOR tomato]ONWARD STREAMPLAY[/COLOR]</title>
+<title>[COLOR tomato]ONWARD JETLOAD[/COLOR]</title>
 <link>$doregex[playvideo]</link>
 
 
@@ -70,8 +72,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR tomato]ONWARD JETLOAD[/COLOR]</title>
+<title>[COLOR tomato]GOONIES GAMOVIDEO[/COLOR]</title>
 <link>$doregex[playvideo]</link>
+
 
 
 
@@ -93,7 +96,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
-<title>[COLOR tomato]GOONIES GAMOVIDEO[/COLOR]</title>
+<title>[COLOR tomato]JUEGO DE ENDER GAMOVIDEO[/COLOR]</title>
 <link>$doregex[playvideo]</link>
 
 
@@ -115,9 +118,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <item>
 
-<item>
-<title>[COLOR tomato]GOONIES GAMOVIDEO[/COLOR]</title>
-<link>$doregex[playvideo]</link>
 
 
 <item>
