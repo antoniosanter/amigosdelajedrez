@@ -72,7 +72,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <Referer></Referer>
 <Accept>*/*</Accept>
 </regex>
-<item>
+
 
 
 
