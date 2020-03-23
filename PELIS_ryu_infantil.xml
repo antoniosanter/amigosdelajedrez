@@ -59,7 +59,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 import urlresolver
 def GetLSProData(page_data,Cookie_Jar,m):
-    url = 'https://jetload.net/p/6Ub0CazWJK4y/0nw4rd.2020.brrs.720p.castellano.mp4'
+    url = 'https://jetload.net/p/6Ub0CazWJK4y.html'
     streamLink = urlresolver.resolve(url)
     return streamLink
 ]]></expres>
