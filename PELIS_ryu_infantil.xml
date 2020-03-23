@@ -1,6 +1,125 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<regex>
+ <name>playvideo</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+    url = 'https://clipwatching.com/6hd3g8pdcdac.html'
+    streamLink = urlresolver.resolve(url)
+    return streamLink
+]]></expres>
+ <page></page>
+<cookieJar></cookieJar>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0</agent>
+<Referer></Referer>
+<Accept>*/*</Accept>
+</regex>
+<item>
+
+
+
+<item>
+<title>[COLOR tomato]ONWARD CLIPWATCHING[/COLOR]</title>
+<link>$doregex[playvideo]</link>
+
+
+
+<regex>
+ <name>playvideo</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+    url = 'https://streamplay.to/xq4sk6ot3q1d.html'
+    streamLink = urlresolver.resolve(url)
+    return streamLink
+]]></expres>
+ <page></page>
+<cookieJar></cookieJar>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0</agent>
+<Referer></Referer>
+<Accept>*/*</Accept>
+</regex>
+<item>
+
+
+
+<item>
+<title>[COLOR tomato]ONWARD STREAMPLAY[/COLOR]</title>
+<link>$doregex[playvideo]</link>
+
+
+
+
+<regex>
+ <name>playvideo</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+    url = 'https://jetload.net/p/6Ub0CazWJK4y/0nw4rd.2020.brrs.720p.castellano.mp4'
+    streamLink = urlresolver.resolve(url)
+    return streamLink
+]]></expres>
+ <page></page>
+<cookieJar></cookieJar>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0</agent>
+<Referer></Referer>
+<Accept>*/*</Accept>
+</regex>
+<item>
+
+<item>
+<title>[COLOR tomato]ONWARD JETLOAD[/COLOR]</title>
+<link>$doregex[playvideo]</link>
+
+
+
+<regex>
+ <name>playvideo</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+    url = 'https://gounlimited.to/6gkt134x9uf9.html'
+    streamLink = urlresolver.resolve(url)
+    return streamLink
+]]></expres>
+ <page></page>
+<cookieJar></cookieJar>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0</agent>
+<Referer></Referer>
+<Accept>*/*</Accept>
+</regex>
+<item>
+
+<item>
+<title>[COLOR tomato]GOONIES GAMOVIDEO[/COLOR]</title>
+<link>$doregex[playvideo]</link>
+
+
+
+<regex>
+ <name>playvideo</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+    url = 'https://gounlimited.to/8njcbo1cwlim.html'
+    streamLink = urlresolver.resolve(url)
+    return streamLink
+]]></expres>
+ <page></page>
+<cookieJar></cookieJar>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0</agent>
+<Referer></Referer>
+<Accept>*/*</Accept>
+</regex>
+<item>
+
+<item>
+<title>[COLOR tomato]GOONIES GAMOVIDEO[/COLOR]</title>
+<link>$doregex[playvideo]</link>
+
+
 <item>
 <title>[COLOR orange]Taquilla 1:[/COLOR] [COLOR skyblue]ONWARD(CALIDAD HD)[/COLOR]</title>
 <urlsolve>https://clipwatching.com/e1pdokr5fdqm.html</urlsolve>
