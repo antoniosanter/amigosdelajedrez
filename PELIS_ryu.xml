@@ -52,6 +52,29 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR orange]Taquilla 8:[/COLOR] [COLOR skyblue]Las aventuras del Doctor Dolittle(CALIDAD HD)[/COLOR]</title>
+<link>$doregex[playvideo]</link>
+
+
+<regex>
+ <name>playvideo</name>
+<expres><![CDATA[#$pyFunction
+import urlresolver
+def GetLSProData(page_data,Cookie_Jar,m):
+    url = 'http://gamovideo.com/jruo0uj69l3k.html'
+    streamLink = urlresolver.resolve(url)
+    return streamLink
+]]></expres>
+ <page></page>
+<cookieJar></cookieJar>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0</agent>
+<Referer></Referer>
+<Accept>*/*</Accept>
+</regex>
+<item>
+
+
 
 
 item>
