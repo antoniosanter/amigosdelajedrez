@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-item>
-<title>[COLOR pink][COLOR pink]-[/COLOR]EL CIRCO DEL SOL</title>
+<item>
+<title>[COLOR pink][COLOR pink]-[/COLOR]TV_PREMIUM QUEDATEENCASA</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.video.youtube/watch?v=nQ5eUJNXrMw</link>
-<externallink></externallink>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/premiumps.m3u</externallink>
 </item>
 
 item>
