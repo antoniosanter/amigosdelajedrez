@@ -90,7 +90,7 @@ item>
 <externallink>http://billowtechnology.com/image/data/productos/TV/smarttv/addons_141115/prueba2.m3u</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR orange][COLOR orange]-[/COLOR]CINE PLANELLES TAQUILLAS 2020</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -98,12 +98,20 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/PELIS_ryu.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR orange][COLOR orange]-[/COLOR]CINE PLANELLES TAQUILLAS INFANTIL 2020</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/PELIS_ryu_infantil.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow][COLOR yellow]-[/COLOR] CINE PLANELLES #QUEDATEENCASA</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/megapeliculas.m3u</externallink>
 </item>
 
 
@@ -116,16 +124,10 @@ item>
 </item>
 
 
-<item>
-<title>[COLOR yellow][COLOR yellow]-[/COLOR] CINE QUEDATEENCASA</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/megapeliculas.m3u</externallink>
-</item>
 
 
-<item>
+
+item>
 <title>[COLOR pink][COLOR pink]-[/COLOR]VIDEOCLUB</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -168,7 +170,7 @@ item>
 </item>
 
 
-<item>
+item>
 <title>[COLOR lime][COLOR lime]-[/COLOR]SERIES ANIME</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -176,7 +178,7 @@ item>
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/VIDEOCLUB_ANIME_ryu.xml</externallink>
 </item>
  
-<item>
+item>
 <title>[COLOR lime][COLOR lime]-[/COLOR]LAS MEJORES SERIES DEL MOMENTO</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
