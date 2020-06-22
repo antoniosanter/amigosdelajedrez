@@ -1,74 +1,18 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, Multichampions
-http://push21.feber.xyz/hls/channel18hd29/chunks.m3u8
-
-#EXTINF:-1, Liverpool - Atlético de Madrid
-https://bananasports.xyz/fuck_Kodi/1.m3u8
-
-#EXTINF:-1, Liverpool - Atlético de Madrid
-https://cdndaily.troll.network/x1/x1.m3u8
-
-#EXTINF:-1, LA LIGA opcion 3
-https://cdndaily.troll.network/x1/x1.m3u8
-
-#EXTINF:-1, La Liga en directo. Opción 3
-http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
-
-#EXTINF:-1, LA LIGA opcion 1
-https://lgorr.global.ssl.fastly.net/live/1/playlist.m3u8
-
-#EXTINF:-1, LA LIGA opcion 2
-http://35.227.234.181:80/live/l/chunks.m3u8
-
-#EXTINF:-1, Directos Fight Time
-https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
-#EXTINF:-1, Directos TDP
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
-
-#EXTINF:-1, Premier Opcion 1
-http://novacdn.org/broadcasts/setantaua/setantaua.m3u8
-
-#EXTINF:-1, Directos hoy Nova
-http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8
-#EXTINF:-1, Directos hoy Nova 2
-http://novacdn.org/broadcasts/khl/khl.m3u8
-#EXTINF:-1, Directos hoy Nova 3
-http://novacdn.org/broadcasts/khlhd/khlhd.m3u8
-#EXTINF:-1, Directos hoy Nova 4
-http://novacdn.org/broadcasts/matchfutbol2/matchfutbol2.m3u8
-#EXTINF:-1, Directos hoy Nova 5
-http://novacdn.org/broadcasts/matchfutbol3/matchfutbol3.m3u8
-#EXTINF:-1, Directos hoy Nova 6
-http://novacdn.org/broadcasts/setantaua/setantaua.m3u8 
-#EXTINF:-1, Directos Chuky ES
-http://35.244.254.93:80/live/es/chunks.m3u8
-
-#EXTINF:-1, PARTIDOS PREMIER
-plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d&name=My+acestream+channel
-
-
-
+#EXTINF:-1, la liga
+http://stream.elitegol.me/hls/vip1.m3u8
+#EXTINF:-1, la liga
+http://stream.elitegol.me/hls/vip2.m3u8
+#EXTINF:-1, la liga
+http://stream.elitegol.me/hls/vip3.m3u8
+#EXTINF:-1, la liga
+http://stream.elitegol.me/hls/vip4.m3u8
+#EXTINF:-1, la liga
+http://stream.elitegol.me/hls/vip5.m3u8
+#EXTINF:-1, la liga
+http://stream.elitegol.me/hls/vip6.m3u8
 #EXTINF:-1, Eurosport
 plugin://program.plexus/?mode=1&url=acestream://30a49eef2476820106c8292374838d03a72f2307&name=My+acestream+channel
 
 
-#EXTINF:-1, La Liga en directo. Opción 3
-http://novacdn.org/broadcasts/matchfutbol1/matchfutbol1.m3u8 
-#EXTINF:-1, Acestream La Liga
-plugin://program.plexus/?mode=1&url=acestream://752be2f1511c25efa456a7c81747da66e251098a&name=My+acestream+channel
-#EXTINF:-1, Acestream La Liga Bar
-plugin://program.plexus/?mode=1&url=acestream://fff00861dd6984b4c6acb41cb823b41f82b4afcf&name=My+acestream+channel
-#EXTINF:-1, Acestream La Liga Bar 1080 solo para fibra
-plugin://program.plexus/?mode=1&url=acestream://0542dc6f57459e4566dece214353463331bf7cc5&name=My+acestream+channel
-
-#EXTINF:-1, Acestream VARIOS HOY PREMIER
-plugin://program.plexus/?mode=1&url=acestream://f2d6a893bc3da40537d4a40aaedeb20adc494dcb&name=My+acestream+channel
-#EXTINF:-1, Acestream VARIOS HOY PREMIER
-plugin://program.plexus/?mode=1&url=acestream://78637dab85e7948057165ad0c80b3db475dd9c3d&name=My+acestream+channel
-#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
-plugin://program.plexus/?mode=1&url=acestream://e66e8598a0cecb63eaa147711bc4d4158bed479f&name=My+acestream+channel
-#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
-plugin://program.plexus/?mode=1&url=acestream://9ce18b5f26f178fa59c1f705b0d6aa574c922f04&name=My+acestream+channel
-#EXTINF:-1, Acestream VARIOS HOY, FUTBOL, TENIS
-plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel

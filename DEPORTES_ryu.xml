@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]La Liga bar Directo</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://textuploader.com/16nze/raw</externallink>
-</item>
 
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]La Champions Liverpool - Atlético de Madrid</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://textuploader.com/10eyc/raw</externallink>
-</item>
-AA
 
 <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]Nuevo deportes hoy </title>
@@ -42,65 +27,15 @@ AA
 </item>
 
 
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes extranjeros</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/Sport.m3u</externallink>
-</item>
-
 <item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>http://acestreampi.ddns.net/dailys.m3u8</externallink>
-</item>
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]Atletico - Sevilla </title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://hastebin.com/raw/oqibikafim</externallink>
+<externallink>http://acestreampi.duckdns.org/dailys.m3u8</externallink>
 </item>
 
 
-
-item>
-<title>[COLOR blue][COLOR blue]-[/COLOR]deportes hoy (funcionando)</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/directos_ryu.xml</externallink>
-</item>
-
-
-
-
-
-
-item>
-<title>[COLOR orange][B] Sport365 [/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAic3BvcnQzNjUiLCAKICAgICJmYW5hcnQiOiAiIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJsYW5ndWFnZSI6ICJlcyIsIAogICAgInRodW1ibmFpbCI6ICJodHRwOi8vaS5pbWd1ci5jb20vaEoydmhpcC5wbmciLCAKICAgICJ0aXRsZSI6ICJTcG9ydDM2NSIsIAogICAgInRvdGFsSXRlbXMiOiAwLCAKICAgICJ2aWV3bW9kZSI6ICJsaXN0Igp9</jsonrpc>
-<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
-</item>
-
-
-item>
-<title>[COLOR orange][B] Sport365 Nueva Version [/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.sport365.live</jsonrpc>
-<thumbnail>http://s1.medianetworkinternational.com/images/icons/256x256px.png</thumbnail>
-<fanart>http://redeneobux.com/wp-content/uploads/2016/09/2-11.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR tomato]prueba[/COLOR]</title>
-<link>$doregex[playvideo]</link>
 
 
 
