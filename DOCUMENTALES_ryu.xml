@@ -11,7 +11,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UC-BSVJAwzsnhfNyv1DzmLnQ</page>
+<page>https://www.youtube.com/channel/UCM4xRKXFjP18buahnJELPrQ</page>
 </regex>
 <thumbnail>https://yt3.ggpht.com/-BXdEOAnxqBE/AAAAAAAAAAI/AAAAAAAAAAA/SuCIOn5QgBg/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
@@ -25,7 +25,7 @@
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/channel/UCJ7af1Qf5ng0r2HiA6ipLCQ</page>
+<page>https://www.youtube.com/channel/UCsYs8hkBS6jLVo8c6z0DXuA</page>
 </regex>
 <thumbnail>https://yt3.ggpht.com/-EsmAVMz4wu0/AAAAAAAAAAI/AAAAAAAAAAA/50gYr9-KdN4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
