@@ -69,6 +69,26 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white]Las aventuras de Teddy Ruxpin  [/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+ <name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white][makelist.param1][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
+<page><![CDATA[https://www.youtube.com/watch?v=fZPv0cdLSd0&list=PLvVLlsVj1Vgj1tBps9gIoDoT81RPVQU5A]]></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.imgur.com/jY0tOqZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/jY0tOqZ.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR red][COLOR lime]*[/COLOR]LOS 100 PATRONES QUE HAY QUE SABER </title>
 <link>$doregex[makelist]</link>
 <regex><name>makelist</name>
@@ -78,7 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
 ]]></listrepeat>
 <expres>title="(.*?)".*?watch\?v=(.*?)[",&amp;]</expres>
-<page>https://www.youtube.com/playlist?list=PLV4hXa725NQLqO6PGpfx_K1FDl_dXAqJg</page>
+<page>[https://www.youtube.com/watch?v=Xb0ypthCGPo&list=PLV4hXa725NQISMSsH1E_4Ymdq5eYxSJrK]]</page>
 </regex>
 <thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
 <fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
