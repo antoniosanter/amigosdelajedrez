@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white]Las aventuras de Teddy Ruxpin  [/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white]prueba ajedrez  [/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -13,7 +13,7 @@
 <fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
  ]]></listrepeat>
 <expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
-<page><![CDATA[https://www.youtube.com/watch?v=Xb0ypthCGPo&list=PLV4hXa725NQISMSsH1E_4Ymdq5eYxSJrK]></page>
+<page><![CDATA[https://www.youtube.com/watch?v=Xb0ypthCGPo&list=PLV4hXa725NQISMSsH1E_4Ymdq5eYxSJrK]]></page>
 <cookieJar></cookieJar>
 </regex>
  
