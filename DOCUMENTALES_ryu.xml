@@ -379,7 +379,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales [/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales 2020[/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -391,7 +391,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
  ]]></listrepeat>
 <expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
-<page><![CDATA[https://www.youtube.com/c/Documentalia/playlists]]></page>
+<page><![CDATA[https://www.youtube.com/watch?v=fZIxdbdmajc]]></page>
 <cookieJar></cookieJar>
 </regex>
  
