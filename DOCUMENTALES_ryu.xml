@@ -13,7 +13,7 @@
 <fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
  ]]></listrepeat>
 <expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
-<page><![CDATA[https://www.youtube.com/channel/UCM4xRKXFjP18buahnJELPrQ]]></page>
+<page><![CDATA[https://www.youtube.com/watch?v=8w8Ra18Yiaw&list=PLuVQHfAY44hbD4lC0iiYFF-GElpVkb_fK]]></page>
 <cookieJar></cookieJar>
 </regex>
  
