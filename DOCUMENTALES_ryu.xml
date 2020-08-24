@@ -238,3 +238,209 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
 <fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
 </item>
+
+<item>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales de Cultura[/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+ <name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white][makelist.param1][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
+<page><![CDATA[https://www.youtube.com/watch?v=1n5JJowiG-g&list=PLuVQHfAY44hY2gdYyI1GF7v8hNXXX30YG]]></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://www.youtube.com/watch?v=[makelist.param2]'
+   u = resolveurl.resolve(url)
+   return u
+]]></expres>
+<page></page>
+</regex>    
+ 
+ 
+<thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+</item>
+
+<item>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales de Viajes[/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+ <name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white][makelist.param1][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
+<page><![CDATA[https://www.youtube.com/watch?v=6GjN_9CHQAQ&list=PLuVQHfAY44hZ6egyQXNiRc3kB1bCXwJyQ]]></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://www.youtube.com/watch?v=[makelist.param2]'
+   u = resolveurl.resolve(url)
+   return u
+]]></expres>
+<page></page>
+</regex>    
+ 
+ 
+<thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales de Historia[/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+ <name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white][makelist.param1][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
+<page><![CDATA[https://www.youtube.com/watch?v=7jntu3liPjo&list=PLcLMtwnOht4hKT9V0W3Vv055Ehd_8SdxS]]></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://www.youtube.com/watch?v=[makelist.param2]'
+   u = resolveurl.resolve(url)
+   return u
+]]></expres>
+<page></page>
+</regex>    
+ 
+ 
+<thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales de Egipto[/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+ <name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white][makelist.param1][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
+<page><![CDATA[https://www.youtube.com/watch?v=OzdsJ3pEYgI&list=PLcLMtwnOht4hzc0QxfnSQRA9I8lfedzSl]]></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://www.youtube.com/watch?v=[makelist.param2]'
+   u = resolveurl.resolve(url)
+   return u
+]]></expres>
+<page></page>
+</regex>    
+ 
+ 
+<thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+</item>
+
+<item>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales [/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+ <name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white][makelist.param1][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
+<page><![CDATA[https://www.youtube.com/c/Documentalia/playlists]]></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://www.youtube.com/watch?v=[makelist.param2]'
+   u = resolveurl.resolve(url)
+   return u
+]]></expres>
+<page></page>
+</regex>    
+ 
+ 
+<thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+</item>
+
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales de Egipto[/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ 
+<regex>
+ <name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white][makelist.param1][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<link>$doregex[id3]</link>
+<thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
+<page><![CDATA[https://www.youtube.com/watch?v=fv0xFJMIeqc&list=PLcLMtwnOht4i4acJiZjh0f0oXov57PV1d]]></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://www.youtube.com/watch?v=[makelist.param2]'
+   u = resolveurl.resolve(url)
+   return u
+]]></expres>
+<page></page>
+</regex>    
+ 
+ 
+<thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
+</item>
