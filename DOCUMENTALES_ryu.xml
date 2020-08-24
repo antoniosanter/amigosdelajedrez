@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] DOCUMENTALES[/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
+<title>[B][LOWERCASE][CAPITALIZE][COLOR lime][COLOR white] Documentales nuevos[/CAPITALIZE][/LOWERCASE][/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
  
 <regex>
@@ -30,8 +30,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>    
  
  
-<thumbthumbnail></thumbnail>
-<fanart></fanart>
+<thumbthumbnail>https://i.ytimg.com/vi/wwR0HZsK6WI/maxresdefault.jpg</thumbnail>
+<fanart>http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/4364-1920x1080.jpg</fanart>
 </item>
 
 <item><title>DOCUMENTALES</title>
