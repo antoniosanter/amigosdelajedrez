@@ -391,7 +391,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</fanart>
  ]]></listrepeat>
 <expres>"playlistPanelVideoRenderer":{"title":{"simpleText":"(.*?)".*?thumbnails":.*?{"videoId":"(.*?)"</expres>
-<page><![CDATA[https://www.youtube.com/watch?v=fZIxdbdmajc]]></page>
+<page><![CDATA[https://www.youtube.com/watch?v=fZIxdbdmajc&list=PLQ2GSFmitMrb4Hez9a4XzSb3vjk9-_PcE]]></page>
 <cookieJar></cookieJar>
 </regex>
  
