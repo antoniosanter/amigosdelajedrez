@@ -18,12 +18,12 @@
 <externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore.xml</externallink>
 </item>
 
-<item>
+item>
 <title>[COLOR blue][COLOR blue]-[/COLOR]directos2</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/H6MvXdTu</externallink>
+<externallink>https://raw.githubusercontent.com/antoniosanter/amigosdelajedrez/master/tore2.xml</externallink>
 </item>
 
 
@@ -35,7 +35,24 @@ item>
 <externallink>http://acestreampi.duckdns.org/dailys.m3u8</externallink>
 </item>
 
-
+<item> 
+<title>[COLOR lightblue]» oioi[/COLOR]</title>
+<link>http://nopr0n</link>
+<jsonrpc>plugin://plugin.video.PLsportowo/?item=url=sportsbay&amp;mode=1</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/foot.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/stadium.jpg</fanart>
+<info>Agenda First Row</info>
+</item>
+ 
+ 
+<item> 
+<title>[COLOR lightblue]» FIRST ROW[/COLOR]</title>
+<link>http://nopr0n</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/foot.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/irmu/moria/master/_tools_tools/art/stadium.jpg</fanart>
+<info>Agenda First Row</info>
+</item>
 
 
 
