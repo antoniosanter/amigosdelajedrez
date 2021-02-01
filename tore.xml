@@ -12,7 +12,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
  import re, requests
  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:72.0) Gecko/20100101 Firefox/72.0', 'Referer': 'https://dailysport.work/c1.php', 'Accept' : 'application/json, text/plain, */*', 'Accept-Language' : 'es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3'}
- a = requests.get("https://dailysport.work/", headers=headers, verify=True)
+ a = requests.get("https://dailysport.work/", headers=headers, verify=False)
  return a.cookies
 ]]></expres>
 <page></page>
@@ -35,7 +35,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
      import re, requests    
-     r = requests.get("https://dailysport.work/", verify=True)
+     r = requests.get("https://dailysport.work/", verify=False)
      contenido = r.text
      return  re.findall('(?s)<td>(\d.*?)<.*?>.*?([A-Z].*?)</td>|d><a href="(c(.*?).php)">(.*?)<', contenido)    
 ]]></expres>
@@ -63,7 +63,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
      import re, requests
      url = 'https://dailysport.work/'+'[yaestaarreglada.param3]'
      headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0', 'Referer': 'https://dailysport.work'}
-     marcador = requests.get(url, headers=headers, verify=True)
+     marcador = requests.get(url, headers=headers, verify=False)
      r = marcador.text
      return re.findall('window.atob."(.*?)"', r)[0]
 ]]></expres>
