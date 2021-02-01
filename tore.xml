@@ -12,7 +12,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
  import re, requests
  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:72.0) Gecko/20100101 Firefox/72.0', 'Referer': 'https://dailysport.store/c1.php', 'Accept' : 'application/json, text/plain, */*', 'Accept-Language' : 'es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3'}
- a = requests.get("https://dailysport.store/login", headers=headers, verify=False)
+ a = requests.get("https://dailysport.store/", headers=headers, verify=False)
  return a.cookies
 ]]></expres>
 <page></page>
